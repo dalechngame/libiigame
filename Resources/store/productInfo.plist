@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>productName</key>
+		<string>Get Everything And No Ads</string>
+		<key>purchased</key>
+		<integer>0</integer>
+		<key>productID</key>
+		<string>lb20150708pnbgeteverything</string>
+		<key>productDescription</key>
+		<string>Unlock Everything  Remove Ads, Updates are FREE!</string>
+		<key>productPrice</key>
+		<string>$4.99</string>
+	</dict>
+	<dict>
+		<key>productName</key>
+		<string>Unlock All Games!</string>
+		<key>purchased</key>
+		<integer>0</integer>
+		<key>productID</key>
+		<string>lb20150708pnbgetallgameandnipple</string>
+		<key>productDescription</key>
+		<string>Unlock All Games!</string>
+		<key>productPrice</key>
+		<string>$3.99</string>
+	</dict>
+	<dict>
+		<key>productName</key>
+		<string>Unlock All Decorations!</string>
+		<key>purchased</key>
+		<integer>0</integer>
+		<key>productID</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+		<key>productDescription</key>
+		<string>Unlock All Decorations!</string>
+		<key>productPrice</key>
+		<string>$2.99</string>
+	</dict>
+	<dict>
+		<key>productName</key>
+		<string>Remove Ads!</string>
+		<key>purchased</key>
+		<integer>0</integer>
+		<key>productID</key>
+		<string>lb20150708pnbnoads</string>
+		<key>productDescription</key>
+		<string>Remove Ads!</string>
+		<key>productPrice</key>
+		<string>$0.99</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,2600 @@
+{
+  "ID": "75847bc5-1bc5-42c7-a4ff-20ea51391554",
+  "Version": "2.2.6.0",
+  "Name": "p004_chouxue",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 55,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P004/pand_1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 408.161,
+              "Y": 493.894
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5315,
+              "Y": 0.3624
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 112.661,
+            "RightMargin": 64.339,
+            "TopMargin": 764.106,
+            "BottomMargin": 388.894,
+            "Tag": 57,
+            "ActionTag": 925634121,
+            "Size": {
+              "X": 591.0,
+              "Y": 210.0
+            },
+            "Name": "pand_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P004/pand.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 382.5786,
+              "Y": 491.0561
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4981,
+              "Y": 0.3603
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 293.0786,
+            "RightMargin": 295.9214,
+            "TopMargin": 808.4439,
+            "BottomMargin": 427.5561,
+            "Tag": 58,
+            "ActionTag": 2106492152,
+            "Size": {
+              "X": 179.0,
+              "Y": 127.0
+            },
+            "Name": "pand",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P004/bloodletting_2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 382.5782,
+              "Y": 500.4089
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4981,
+              "Y": 0.3671
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 348.5782,
+            "RightMargin": 351.4218,
+            "TopMargin": 839.5911,
+            "BottomMargin": 477.4089,
+            "Tag": 59,
+            "ActionTag": -1738677118,
+            "Size": {
+              "X": 68.0,
+              "Y": 46.0
+            },
+            "Name": "bloodletting_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P004/microscope/microscope.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 472.0511,
+              "Y": 742.2153
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6146,
+              "Y": 0.5445
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 313.0511,
+            "RightMargin": 136.9489,
+            "TopMargin": 301.2847,
+            "BottomMargin": 422.7153,
+            "Tag": 60,
+            "ActionTag": -144738182,
+            "Size": {
+              "X": 318.0,
+              "Y": 639.0
+            },
+            "Name": "bloodletting",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P004/mask.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1003.8719,
+              "Y": 366.9704
+            },
+            "Scale": {
+              "ScaleX": 1.3518,
+              "ScaleY": 1.3805
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.3071,
+              "Y": 0.2692
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 884.8719,
+            "RightMargin": -354.8718,
+            "TopMargin": 877.0296,
+            "BottomMargin": 247.9704,
+            "Tag": 29,
+            "ActionTag": -818672293,
+            "Size": {
+              "X": 238.0,
+              "Y": 238.0
+            },
+            "Name": "mask",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 768.0,
+            "TopMargin": 1363.0,
+            "Tag": 8,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.4932,
+                  "Y": 316.506
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 130.9932,
+                "RightMargin": -269.9932,
+                "TopMargin": -368.506,
+                "BottomMargin": 264.506,
+                "Tag": 10,
+                "ActionTag": -1132337800,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 440.4338,
+                  "Y": 953.0836
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 371.4338,
+                "RightMargin": -509.4338,
+                "TopMargin": -1005.5836,
+                "BottomMargin": 900.5836,
+                "Tag": 11,
+                "ActionTag": -946568350,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 345.7081,
+                  "Y": 587.9198
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 276.7081,
+                "RightMargin": -414.7081,
+                "TopMargin": -640.4198,
+                "BottomMargin": 535.4198,
+                "Tag": 12,
+                "ActionTag": 1879995963,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell003.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 91.7998,
+                  "Y": 641.6664
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 22.2998,
+                "RightMargin": -161.2998,
+                "TopMargin": -693.6664,
+                "BottomMargin": 589.6664,
+                "Tag": 13,
+                "ActionTag": -292197715,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell003.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 490.9249,
+                  "Y": 394.893
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 421.4249,
+                "RightMargin": -560.4249,
+                "TopMargin": -446.893,
+                "BottomMargin": 342.893,
+                "Tag": 14,
+                "ActionTag": -270129119,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell003.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 189.0217,
+                  "Y": 956.3368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 119.5217,
+                "RightMargin": -258.5217,
+                "TopMargin": -1008.3368,
+                "BottomMargin": 904.3368,
+                "Tag": 15,
+                "ActionTag": 158809601,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 661.1851,
+                  "Y": 789.2476
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 591.6851,
+                "RightMargin": -730.6851,
+                "TopMargin": -841.2476,
+                "BottomMargin": 737.2476,
+                "Tag": 16,
+                "ActionTag": -1737594923,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.2624,
+                  "Y": 858.2307
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 18.2624,
+                "RightMargin": -156.2624,
+                "TopMargin": -910.7307,
+                "BottomMargin": 805.7307,
+                "Tag": 76,
+                "ActionTag": 1747484519,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 451.6736,
+                  "Y": 1103.009
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 382.6736,
+                "RightMargin": -520.6736,
+                "TopMargin": -1155.509,
+                "BottomMargin": 1050.509,
+                "Tag": 77,
+                "ActionTag": -609279498,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 319.7778,
+                  "Y": 471.1158
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 250.7778,
+                "RightMargin": -388.7778,
+                "TopMargin": -523.6158,
+                "BottomMargin": 418.6158,
+                "Tag": 78,
+                "ActionTag": -655103578,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 706.4166,
+                  "Y": 594.2535
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 637.4166,
+                "RightMargin": -775.4166,
+                "TopMargin": -646.7535,
+                "BottomMargin": 541.7535,
+                "Tag": 79,
+                "ActionTag": 1201276943,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 110.2905,
+                  "Y": 438.853
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 41.2905,
+                "RightMargin": -179.2905,
+                "TopMargin": -491.353,
+                "BottomMargin": 386.353,
+                "Tag": 80,
+                "ActionTag": 116488121,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 475.9077,
+                  "Y": 283.4528
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 406.9077,
+                "RightMargin": -544.9077,
+                "TopMargin": -335.9528,
+                "BottomMargin": 230.9528,
+                "Tag": 81,
+                "ActionTag": -329408125,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 253.7091,
+                  "Y": 708.043
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 184.7091,
+                "RightMargin": -322.7091,
+                "TopMargin": -760.543,
+                "BottomMargin": 655.543,
+                "Tag": 82,
+                "ActionTag": 600142537,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 681.4717,
+                  "Y": 1046.9568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 612.4717,
+                "RightMargin": -750.4717,
+                "TopMargin": -1099.4568,
+                "BottomMargin": 994.4568,
+                "Tag": 83,
+                "ActionTag": 1288959030,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0_7",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1933644326,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "celllayer1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 10.0,
+              "Y": -10.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.013,
+              "Y": -0.0073
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 10.0,
+            "RightMargin": 758.0,
+            "TopMargin": 1373.0,
+            "BottomMargin": -10.0,
+            "Tag": 18,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell003.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 252.8538,
+                  "Y": 1051.8749
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 183.3538,
+                "RightMargin": -322.3538,
+                "TopMargin": -1103.8749,
+                "BottomMargin": 999.8749,
+                "Tag": 26,
+                "ActionTag": 1505525649,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 73.8903,
+                  "Y": 720.8619
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 4.8903,
+                "RightMargin": -142.8903,
+                "TopMargin": -773.3619,
+                "BottomMargin": 668.3619,
+                "Tag": 27,
+                "ActionTag": 338774259,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.3053,
+                  "Y": 890.7186
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 306.3053,
+                "RightMargin": -444.3053,
+                "TopMargin": -943.2186,
+                "BottomMargin": 838.2186,
+                "Tag": 28,
+                "ActionTag": -1695129605,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 96.1669,
+                  "Y": 359.361
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 27.1669,
+                "RightMargin": -165.1669,
+                "TopMargin": -411.861,
+                "BottomMargin": 306.861,
+                "Tag": 29,
+                "ActionTag": -1954819767,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.608,
+                  "Y": 768.2677
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 501.608,
+                "RightMargin": -639.608,
+                "TopMargin": -820.7677,
+                "BottomMargin": 715.7677,
+                "Tag": 30,
+                "ActionTag": -1985324821,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 566.9479,
+                  "Y": 446.3642
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 497.9479,
+                "RightMargin": -635.9479,
+                "TopMargin": -498.8642,
+                "BottomMargin": 393.8642,
+                "Tag": 31,
+                "ActionTag": 1791477931,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell003.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 396.7043,
+                  "Y": 174.0025
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 327.2043,
+                "RightMargin": -466.2043,
+                "TopMargin": -226.0025,
+                "BottomMargin": 122.0025,
+                "Tag": 85,
+                "ActionTag": -454956982,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 701.108,
+                  "Y": 480.4392
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 631.608,
+                "RightMargin": -770.608,
+                "TopMargin": -532.4392,
+                "BottomMargin": 428.4392,
+                "Tag": 86,
+                "ActionTag": 2020322158,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 705.1024,
+                  "Y": 356.282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 635.6024,
+                "RightMargin": -774.6024,
+                "TopMargin": -408.282,
+                "BottomMargin": 304.282,
+                "Tag": 87,
+                "ActionTag": 2110778798,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 655.0336,
+                  "Y": 194.0726
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 585.5336,
+                "RightMargin": -724.5336,
+                "TopMargin": -246.0726,
+                "BottomMargin": 142.0726,
+                "Tag": 88,
+                "ActionTag": 1233592215,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell002.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 186.3665,
+                  "Y": 1127.3754
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 117.3665,
+                "RightMargin": -255.3665,
+                "TopMargin": -1179.8754,
+                "BottomMargin": 1074.8754,
+                "Tag": 89,
+                "ActionTag": -1083463508,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 105.0
+                },
+                "Name": "cell_4_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.1924,
+                  "Y": 1103.3547
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2.6924,
+                "RightMargin": -141.6924,
+                "TopMargin": -1155.3547,
+                "BottomMargin": 1051.3547,
+                "Tag": 90,
+                "ActionTag": 1216962769,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 140.2697,
+                  "Y": 1207.5132
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 70.7697,
+                "RightMargin": -209.7697,
+                "TopMargin": -1259.5132,
+                "BottomMargin": 1155.5132,
+                "Tag": 91,
+                "ActionTag": 258239045,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.8516,
+                  "Y": 1185.4965
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 501.3516,
+                "RightMargin": -640.3516,
+                "TopMargin": -1237.4965,
+                "BottomMargin": 1133.4965,
+                "Tag": 92,
+                "ActionTag": -702036929,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/cell001.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 238.3778,
+                  "Y": 220.1767
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 168.8778,
+                "RightMargin": -307.8778,
+                "TopMargin": -272.1767,
+                "BottomMargin": 168.1767,
+                "Tag": 93,
+                "ActionTag": -1389682225,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 104.0
+                },
+                "Name": "cell_4_8",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1649009212,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "celllayer2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 6.897,
+              "Y": -67.4049
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.009,
+              "Y": -0.0495
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.897,
+            "RightMargin": 761.103,
+            "TopMargin": 1430.4049,
+            "BottomMargin": -67.4049,
+            "Tag": 156,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/whitecell.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.606,
+                  "Y": 437.7817
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Rotation": 14.6809,
+                "RotationSkewX": 14.6809,
+                "RotationSkewY": 14.6817,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 122.606,
+                "RightMargin": -278.606,
+                "TopMargin": -486.7817,
+                "BottomMargin": 388.7817,
+                "Tag": 160,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P004/erythrocyte/circle02.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 77.0945,
+                      "Y": 49.3613
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0335,
+                      "ScaleY": 1.1184
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4942,
+                      "Y": 0.5037
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -13.9055,
+                    "RightMargin": -12.0945,
+                    "TopMargin": -8.8613,
+                    "BottomMargin": -8.1387,
+                    "Tag": 181,
+                    "ActionTag": 1844300070,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 115.0
+                    },
+                    "Name": "circleHint",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -984697840,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 98.0
+                },
+                "Name": "cell_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/whitecell.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 537.6392,
+                  "Y": 1006.7805
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Rotation": -16.2259,
+                "RotationSkewX": -16.2259,
+                "RotationSkewY": -16.2259,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 459.6392,
+                "RightMargin": -615.6392,
+                "TopMargin": -1055.7805,
+                "BottomMargin": 957.7805,
+                "Tag": 161,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P004/erythrocyte/circle02.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 77.4995,
+                      "Y": 47.7474
+                    },
+                    "Scale": {
+                      "ScaleX": 1.006,
+                      "ScaleY": 1.0173
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4968,
+                      "Y": 0.4872
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -13.5005,
+                    "RightMargin": -12.4995,
+                    "TopMargin": -7.2474,
+                    "BottomMargin": -9.7526,
+                    "Tag": 182,
+                    "ActionTag": -459369016,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 115.0
+                    },
+                    "Name": "circleHint",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1431096566,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 98.0
+                },
+                "Name": "cell_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/whitecell.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 377.2302,
+                  "Y": 676.5166
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Rotation": 9.7049,
+                "RotationSkewX": 9.7049,
+                "RotationSkewY": 9.7087,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 299.2302,
+                "RightMargin": -455.2302,
+                "TopMargin": -725.5166,
+                "BottomMargin": 627.5166,
+                "Tag": 162,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P004/erythrocyte/circle02.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.1833,
+                      "Y": 50.4284
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0529,
+                      "ScaleY": 1.0593
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5012,
+                      "Y": 0.5146
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -12.8167,
+                    "RightMargin": -13.1833,
+                    "TopMargin": -9.9284,
+                    "BottomMargin": -7.0716,
+                    "Tag": 183,
+                    "ActionTag": -619236092,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 115.0
+                    },
+                    "Name": "circleHint",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1158779022,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 98.0
+                },
+                "Name": "cell_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/whitecell.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 198.9116,
+                  "Y": 996.2416
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Rotation": -146.0192,
+                "RotationSkewX": -146.0192,
+                "RotationSkewY": -145.9991,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 120.9116,
+                "RightMargin": -276.9116,
+                "TopMargin": -1045.2416,
+                "BottomMargin": 947.2416,
+                "Tag": 163,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P004/erythrocyte/circle02.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.0658,
+                      "Y": 47.7865
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0453,
+                      "ScaleY": 1.0453
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5004,
+                      "Y": 0.4876
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -12.9342,
+                    "RightMargin": -13.0658,
+                    "TopMargin": -7.2865,
+                    "BottomMargin": -9.7135,
+                    "Tag": 184,
+                    "ActionTag": 146466505,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 115.0
+                    },
+                    "Name": "circleHint",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1706144367,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 98.0
+                },
+                "Name": "cell_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/whitecell.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 573.5835,
+                  "Y": 454.3004
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Rotation": -14.4484,
+                "RotationSkewX": -14.4484,
+                "RotationSkewY": -14.4468,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 495.5835,
+                "RightMargin": -651.5835,
+                "TopMargin": -503.3004,
+                "BottomMargin": 405.3004,
+                "Tag": 172,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P004/erythrocyte/circle02.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 76.1895,
+                      "Y": 48.6692
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0272,
+                      "ScaleY": 1.0272
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4884,
+                      "Y": 0.4966
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -14.8105,
+                    "RightMargin": -11.1895,
+                    "TopMargin": -8.1692,
+                    "BottomMargin": -8.8308,
+                    "Tag": 185,
+                    "ActionTag": 1770076979,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 115.0
+                    },
+                    "Name": "circleHint",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 942738987,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 98.0
+                },
+                "Name": "cell_5",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 229052392,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "whitecell",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P004/erythrocyte/erythrocyte.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1537.1189,
+              "Y": 691.4109
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 2.0015,
+              "Y": 0.5073
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1153.1189,
+            "RightMargin": -1153.1189,
+            "TopMargin": -9.9109,
+            "BottomMargin": 9.9109,
+            "Tag": 32,
+            "ActionTag": 2015011198,
+            "Size": {
+              "X": 768.0,
+              "Y": 1363.0
+            },
+            "Name": "cell_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P004/microscope.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6282,
+              "ScaleY": 0.63
+            },
+            "Position": {
+              "X": 1003.4943,
+              "Y": 367.382
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.3066,
+              "Y": 0.2695
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 854.611,
+            "RightMargin": -323.611,
+            "TopMargin": 908.298,
+            "BottomMargin": 218.702,
+            "Tag": 93,
+            "ActionTag": 1516959451,
+            "Size": {
+              "X": 237.0,
+              "Y": 236.0
+            },
+            "Name": "microscope",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -98.9414,
+              "Y": 29.0884
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": -0.1288,
+              "Y": 0.0213
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.9414,
+            "RightMargin": 866.9414,
+            "TopMargin": 1333.9116,
+            "BottomMargin": 29.0884,
+            "Tag": 174,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/circle02.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 213.7451,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7993,
+                  "ScaleY": 0.9091
+                },
+                "Rotation": -21.672,
+                "RotationSkewX": -21.672,
+                "RotationSkewY": -21.6847,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 122.7451,
+                "RightMargin": -304.7451,
+                "TopMargin": -84.5,
+                "BottomMargin": -30.5,
+                "Tag": 175,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P004/erythrocyte/whitecell.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 91.1684,
+                      "Y": 57.8127
+                    },
+                    "Scale": {
+                      "ScaleX": 1.1696,
+                      "ScaleY": 1.1342
+                    },
+                    "RotationSkewY": 0.0009,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5009,
+                      "Y": 0.5027
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 13.1684,
+                    "RightMargin": 12.8316,
+                    "TopMargin": 8.1873,
+                    "BottomMargin": 8.8127,
+                    "Tag": 176,
+                    "ActionTag": -1144801505,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 98.0
+                    },
+                    "Name": "whitecell",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -546664519,
+                "Size": {
+                  "X": 182.0,
+                  "Y": 115.0
+                },
+                "Name": "circle_info1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/circle02.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 492.5217,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7993,
+                  "ScaleY": 0.9091
+                },
+                "Rotation": -21.6741,
+                "RotationSkewX": -21.6741,
+                "RotationSkewY": -21.6837,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 401.5217,
+                "RightMargin": -583.5217,
+                "TopMargin": -84.5,
+                "BottomMargin": -30.5,
+                "Tag": 177,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P004/erythrocyte/whitecell.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 91.1684,
+                      "Y": 57.8127
+                    },
+                    "Scale": {
+                      "ScaleX": 1.1696,
+                      "ScaleY": 1.1342
+                    },
+                    "RotationSkewY": 0.0009,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5009,
+                      "Y": 0.5027
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 13.1684,
+                    "RightMargin": 12.8316,
+                    "TopMargin": 8.1873,
+                    "BottomMargin": 8.8127,
+                    "Tag": 178,
+                    "ActionTag": -1794065420,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 98.0
+                    },
+                    "Name": "whitecell",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 897594606,
+                "Size": {
+                  "X": 182.0,
+                  "Y": 115.0
+                },
+                "Name": "circle_info2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P004/erythrocyte/circle02.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 769.1141,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7993,
+                  "ScaleY": 0.9091
+                },
+                "Rotation": -21.6741,
+                "RotationSkewX": -21.6741,
+                "RotationSkewY": -21.684,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 678.1141,
+                "RightMargin": -860.1141,
+                "TopMargin": -84.5,
+                "BottomMargin": -30.5,
+                "Tag": 179,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P004/erythrocyte/whitecell.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 91.1684,
+                      "Y": 57.8127
+                    },
+                    "Scale": {
+                      "ScaleX": 1.1696,
+                      "ScaleY": 1.1342
+                    },
+                    "RotationSkewY": 0.0009,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5009,
+                      "Y": 0.5027
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 13.1684,
+                    "RightMargin": 12.8316,
+                    "TopMargin": 8.1873,
+                    "BottomMargin": 8.8127,
+                    "Tag": 180,
+                    "ActionTag": -1948503493,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 98.0
+                    },
+                    "Name": "whitecell",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -879676598,
+                "Size": {
+                  "X": 182.0,
+                  "Y": 115.0
+                },
+                "Name": "circle_info3",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2053607638,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "info_panel",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

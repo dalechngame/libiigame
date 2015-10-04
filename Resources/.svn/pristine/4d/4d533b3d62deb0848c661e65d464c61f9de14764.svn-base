@@ -1,0 +1,374 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p002" ID="3f3bf3c7-d6f3-4085-8e53-84c8f9588dbf" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000">
+        <Timeline ActionTag="2024091780" Property="Position">
+          <PointFrame FrameIndex="0" X="-4.6459" Y="-0.0026">
+            <EasingData Type="0" />
+          </PointFrame>
+        </Timeline>
+        <Timeline ActionTag="2024091780" Property="Scale">
+          <ScaleFrame FrameIndex="0" X="1.0000" Y="1.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+        </Timeline>
+        <Timeline ActionTag="2024091780" Property="RotationSkew">
+          <ScaleFrame FrameIndex="0" X="0.0000" Y="0.0000">
+            <EasingData Type="0" />
+          </ScaleFrame>
+        </Timeline>
+      </Animation>
+      <ObjectData Name="Scene" Tag="11" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="bg01" ActionTag="-1652832959" Tag="13" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="128.0000" RightMargin="128.0000" TopMargin="227.0000" BottomMargin="227.0000" ctype="SpriteObjectData">
+            <Size X="512.0000" Y="909.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="384.0000" Y="681.5000" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.5000" />
+            <PreSize X="0.6667" Y="0.6669" />
+            <FileData Type="Normal" Path="game/P002/bg01.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="sprite" ActionTag="-1125909894" Tag="14" IconVisible="False" LeftMargin="222.3004" RightMargin="152.6996" TopMargin="608.5878" BottomMargin="137.4122" ctype="SpriteObjectData">
+            <Size X="393.0000" Y="617.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="418.8004" Y="445.9122" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5453" Y="0.3272" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/bg01-a.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="model" ActionTag="-180361800" Tag="12" IconVisible="False" LeftMargin="350.8405" RightMargin="317.1595" TopMargin="1495.2834" BottomMargin="-232.2835" Skin="wuman01" Animation="" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="350.8405" Y="-232.2835" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4568" Y="-0.1704" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/princess/princess.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="desk" ActionTag="-1977817509" Tag="16" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" TopMargin="1017.0000" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="346.0000" />
+            <AnchorPoint ScaleX="0.5000" />
+            <Position X="384.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" />
+            <PreSize X="1.0000" Y="0.2539" />
+            <FileData Type="Normal" Path="game/P002/desk.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="sphygmomanometerS" ActionTag="-1845253468" Tag="14" IconVisible="False" LeftMargin="614.1500" RightMargin="8.8500" TopMargin="1112.4000" BottomMargin="182.6000" ctype="SpriteObjectData">
+            <Size X="145.0000" Y="68.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="686.6500" Y="216.6000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8941" Y="0.1589" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/sphygmomanometer/sphygmomanometer_shadow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="sphygmomanometer" ActionTag="1707165340" Tag="24" IconVisible="False" LeftMargin="614.9770" RightMargin="6.0230" TopMargin="1017.4196" BottomMargin="213.5804" ctype="SpriteObjectData">
+            <Size X="147.0000" Y="132.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="688.4770" Y="279.5804" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8965" Y="0.2051" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/sphygmomanometer/sphygmomanometer.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="start006" ActionTag="228232118" Tag="32" IconVisible="False" LeftMargin="713.7625" RightMargin="3.2375" TopMargin="1117.8990" BottomMargin="199.1009" ctype="SpriteObjectData">
+            <Size X="51.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="739.2625" Y="222.1009" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.9626" Y="0.1630" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="electrodeS" ActionTag="-134576614" Tag="15" IconVisible="False" LeftMargin="476.9689" RightMargin="163.0311" TopMargin="1040.3190" BottomMargin="203.6810" ctype="SpriteObjectData">
+            <Size X="128.0000" Y="119.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="540.9689" Y="263.1810" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7044" Y="0.1931" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/echometer/echometer_shadow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="electrode" ActionTag="-1832238792" Tag="23" IconVisible="False" LeftMargin="480.2459" RightMargin="160.7541" TopMargin="1034.7073" BottomMargin="208.2928" ctype="SpriteObjectData">
+            <Size X="127.0000" Y="120.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="543.7459" Y="268.2928" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7080" Y="0.1968" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/echometer/echometer.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="start005" ActionTag="802758456" Tag="31" IconVisible="False" LeftMargin="563.3434" RightMargin="153.6566" TopMargin="1119.1506" BottomMargin="197.8494" ctype="SpriteObjectData">
+            <Size X="51.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="588.8434" Y="220.8494" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7667" Y="0.1620" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="ultrasonicS" ActionTag="-1538939427" Tag="16" Rotation="-37.0217" RotationSkewX="-37.0217" RotationSkewY="-37.0255" IconVisible="False" LeftMargin="317.5580" RightMargin="264.4420" TopMargin="1037.7551" BottomMargin="223.2448" ctype="SpriteObjectData">
+            <Size X="186.0000" Y="102.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="410.5580" Y="274.2448" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5346" Y="0.2012" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/bultrasonic/bultrasonic_shadow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="ultrasonic" ActionTag="-991862217" Tag="22" Rotation="-34.0067" RotationSkewX="-34.0067" RotationSkewY="-34.0067" IconVisible="False" LeftMargin="319.7651" RightMargin="264.2349" TopMargin="1030.8326" BottomMargin="232.1674" ctype="SpriteObjectData">
+            <Size X="184.0000" Y="100.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="411.7651" Y="282.1674" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5362" Y="0.2070" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/bultrasonic/bultrasonic.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="start004" ActionTag="-1123072833" Tag="30" Rotation="-0.1976" RotationSkewX="-0.1976" RotationSkewY="-0.1967" IconVisible="False" LeftMargin="361.5330" RightMargin="355.4670" TopMargin="1120.7007" BottomMargin="196.2993" ctype="SpriteObjectData">
+            <Size X="51.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="387.0330" Y="219.2993" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5039" Y="0.1609" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="couplantS" ActionTag="-1361898923" Tag="17" Rotation="-0.4406" RotationSkewX="-0.4406" RotationSkewY="-0.4406" IconVisible="False" LeftMargin="238.1233" RightMargin="464.8767" TopMargin="1134.6649" BottomMargin="167.3351" ctype="SpriteObjectData">
+            <Size X="65.0000" Y="61.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="270.6233" Y="197.8351" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3524" Y="0.1451" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/couplant/couplant_shadow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="couplant" ActionTag="265568211" Tag="21" Rotation="-0.4284" RotationSkewX="-0.4284" RotationSkewY="-0.4266" IconVisible="False" LeftMargin="235.2032" RightMargin="459.7968" TopMargin="969.3085" BottomMargin="215.6915" ctype="SpriteObjectData">
+            <Size X="73.0000" Y="178.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="271.7032" Y="304.6915" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3538" Y="0.2235" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/couplant/couplant.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="start003" ActionTag="-712237133" Tag="29" Rotation="-0.1294" RotationSkewX="-0.1294" RotationSkewY="-0.1303" IconVisible="False" LeftMargin="275.0143" RightMargin="441.9857" TopMargin="1120.9496" BottomMargin="196.0504" ctype="SpriteObjectData">
+            <Size X="51.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="300.5143" Y="219.0504" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3913" Y="0.1607" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="thermometericonS" ActionTag="1442939662" Tag="18" Rotation="0.5805" RotationSkewX="0.5805" RotationSkewY="0.5805" IconVisible="False" LeftMargin="164.3218" RightMargin="552.6782" TopMargin="1139.8477" BottomMargin="147.1523" ctype="SpriteObjectData">
+            <Size X="51.0000" Y="76.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="189.8218" Y="185.1523" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2472" Y="0.1358" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/thermometer/thermometer_shadow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="thermometericon" ActionTag="-909133601" Tag="20" Rotation="0.5832" RotationSkewX="0.5832" RotationSkewY="0.5840" IconVisible="False" LeftMargin="132.3450" RightMargin="548.6550" TopMargin="1004.9135" BottomMargin="214.0865" ctype="SpriteObjectData">
+            <Size X="87.0000" Y="144.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="175.8450" Y="286.0865" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2290" Y="0.2099" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/thermometer/thermometer.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="start002" ActionTag="-1553141271" Tag="28" Rotation="0.6181" RotationSkewX="0.6181" RotationSkewY="0.6181" IconVisible="False" LeftMargin="194.7544" RightMargin="522.2456" TopMargin="1120.1514" BottomMargin="196.8486" ctype="SpriteObjectData">
+            <Size X="51.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="220.2544" Y="219.8486" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2868" Y="0.1613" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="vitaminBottleS" ActionTag="-1951299540" Tag="20" IconVisible="False" LeftMargin="103.1967" RightMargin="622.8033" TopMargin="1118.9729" BottomMargin="207.0271" ctype="SpriteObjectData">
+            <Size X="42.0000" Y="37.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="124.1967" Y="225.5271" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1617" Y="0.1655" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/vitamin/vitamin_shadow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="vitaminBottle" ActionTag="108266980" Tag="18" IconVisible="False" LeftMargin="5.7586" RightMargin="656.2414" TopMargin="999.6776" BottomMargin="164.3224" ctype="SpriteObjectData">
+            <Size X="106.0000" Y="199.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="58.7586" Y="263.8224" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0765" Y="0.1936" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/vitamin/bottle.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="vitaminBottleCover" ActionTag="755030887" Tag="13" IconVisible="False" LeftMargin="17.2258" RightMargin="665.7742" TopMargin="990.0173" BottomMargin="311.9827" ctype="SpriteObjectData">
+            <Size X="85.0000" Y="61.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="59.7258" Y="342.4827" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0778" Y="0.2513" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/vitamin/bottle_open.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="start001" ActionTag="-499123281" Tag="27" Rotation="0.5604" RotationSkewX="0.5604" RotationSkewY="0.5604" IconVisible="False" LeftMargin="85.0911" RightMargin="631.9089" TopMargin="1117.3513" BottomMargin="199.6487" ctype="SpriteObjectData">
+            <Size X="51.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="110.5911" Y="222.6487" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1440" Y="0.1634" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="thermometericonMachine" ActionTag="1158979381" Tag="21" IconVisible="False" LeftMargin="-278.2800" RightMargin="843.2800" TopMargin="504.0319" BottomMargin="663.9681" ctype="SpriteObjectData">
+            <Size X="203.0000" Y="195.0000" />
+            <Children>
+              <AbstractNodeData Name="tBar001" Visible="False" ActionTag="450558074" Tag="22" VisibleForFrame="False" IconVisible="False" LeftMargin="45.5000" RightMargin="133.5000" TopMargin="90.5000" BottomMargin="99.5000" ctype="SpriteObjectData">
+                <Size X="24.0000" Y="5.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="57.5000" Y="102.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2833" Y="0.5231" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P002/thermometer/dash.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="tBar002" Visible="False" ActionTag="1659505137" Tag="23" IconVisible="False" LeftMargin="75.5000" RightMargin="103.5000" TopMargin="90.5000" BottomMargin="99.5000" ctype="SpriteObjectData">
+                <Size X="24.0000" Y="5.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="87.5000" Y="102.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4310" Y="0.5231" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P002/thermometer/dash.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="tBar003" Visible="False" ActionTag="2115840113" Tag="24" IconVisible="False" LeftMargin="105.5000" RightMargin="73.5000" TopMargin="90.5000" BottomMargin="99.5000" ctype="SpriteObjectData">
+                <Size X="24.0000" Y="5.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="117.5000" Y="102.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5788" Y="0.5231" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P002/thermometer/dash.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="tBar004" Visible="False" ActionTag="-2061318395" Tag="25" IconVisible="False" LeftMargin="135.5000" RightMargin="43.5000" TopMargin="90.5000" BottomMargin="99.5000" ctype="SpriteObjectData">
+                <Size X="24.0000" Y="5.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="147.5000" Y="102.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.7266" Y="0.5231" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P002/thermometer/dash.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="tBarNumber" Visible="False" ActionTag="266784274" Tag="26" IconVisible="False" LeftMargin="56.5815" RightMargin="52.4185" TopMargin="71.2332" BottomMargin="80.7668" ctype="SpriteObjectData">
+                <Size X="94.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="103.5815" Y="102.2668" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5103" Y="0.5244" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P002/thermometer/96F.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="tBarSafe" Visible="False" ActionTag="-2032134556" Tag="27" IconVisible="False" LeftMargin="50.0800" RightMargin="45.9200" TopMargin="73.0729" BottomMargin="78.9271" ctype="SpriteObjectData">
+                <Size X="107.0000" Y="43.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="103.5800" Y="100.4271" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5102" Y="0.5150" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P002/thermometer/safe.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-176.7800" Y="761.4681" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="-0.2302" Y="0.5587" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P002/thermometer/thermometeronScreen.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="layer" Visible="False" ActionTag="2024091780" Tag="25" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-4.6459" RightMargin="4.6459" TopMargin="0.0026" BottomMargin="-0.0026" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1363.0000" />
+            <AnchorPoint />
+            <Position X="-4.6459" Y="-0.0026" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="-0.0060" Y="0.0000" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="layer.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

@@ -1,0 +1,134 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p009_photo" ID="fd1b7a47-3952-413b-9b49-483511f72da3" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="103" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="photo" ActionTag="-1020187810" Tag="104" IconVisible="False" LeftMargin="89.4613" RightMargin="82.5387" TopMargin="259.6165" BottomMargin="280.3836" ctype="SpriteObjectData">
+            <Size X="596.0000" Y="823.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="387.4613" Y="691.8836" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5045" Y="0.5076" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/photo.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="close" ActionTag="1784407797" Tag="105" IconVisible="False" LeftMargin="554.6267" RightMargin="132.3733" TopMargin="357.8399" BottomMargin="923.1601" ctype="SpriteObjectData">
+            <Size X="81.0000" Y="82.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="595.1267" Y="964.1601" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7749" Y="0.7074" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/close.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Node_1" ActionTag="1397592939" Tag="198" IconVisible="True" LeftMargin="397.5946" RightMargin="370.4054" TopMargin="564.8336" BottomMargin="798.1664" ctype="SingleNodeObjectData">
+            <Size />
+            <Children>
+              <AbstractNodeData Name="p-frame" CanEdit="False" ActionTag="1299151029" Tag="107" IconVisible="False" LeftMargin="-384.0000" RightMargin="-384.0000" TopMargin="-512.0000" BottomMargin="-512.0000" ctype="SpriteObjectData">
+                <Size X="768.0000" Y="1024.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position />
+                <Scale ScaleX="0.3000" ScaleY="0.3000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P009/photo/photoFrame001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="397.5946" Y="798.1664" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5177" Y="0.5856" />
+            <PreSize />
+          </AbstractNodeData>
+          <AbstractNodeData Name="p-frame_0" ActionTag="-743891415" Tag="109" IconVisible="False" LeftMargin="-187.2888" RightMargin="187.2888" TopMargin="294.4861" BottomMargin="44.5139" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1024.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="196.7112" Y="556.5139" />
+            <Scale ScaleX="0.1300" ScaleY="0.1300" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2561" Y="0.4083" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/photoFrame001.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="p-frame_1" ActionTag="-922584583" Tag="110" IconVisible="False" LeftMargin="-59.1848" RightMargin="59.1848" TopMargin="294.4861" BottomMargin="44.5139" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1024.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="324.8152" Y="556.5139" />
+            <Scale ScaleX="0.1300" ScaleY="0.1300" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4229" Y="0.4083" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/photoFrame002.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="p-frame_2" ActionTag="534088055" Tag="111" IconVisible="False" LeftMargin="68.9174" RightMargin="-68.9174" TopMargin="294.4861" BottomMargin="44.5139" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1024.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="452.9174" Y="556.5139" />
+            <Scale ScaleX="0.1300" ScaleY="0.1300" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5897" Y="0.4083" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/photoFrame003.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="p-frame_3" ActionTag="-384249652" Tag="112" IconVisible="False" LeftMargin="197.0226" RightMargin="-197.0226" TopMargin="294.4861" BottomMargin="44.5139" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1024.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="581.0226" Y="556.5139" />
+            <Scale ScaleX="0.1300" ScaleY="0.1300" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7565" Y="0.4083" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/photoFrame004.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="share" ActionTag="416833441" Tag="70" IconVisible="False" LeftMargin="215.2410" RightMargin="450.7590" TopMargin="919.7591" BottomMargin="400.2409" ctype="SpriteObjectData">
+            <Size X="102.0000" Y="43.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="266.2410" Y="421.7409" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3467" Y="0.3094" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/share.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="email" ActionTag="1144754545" Tag="72" IconVisible="False" LeftMargin="343.4493" RightMargin="320.5507" TopMargin="929.9303" BottomMargin="401.0697" ctype="SpriteObjectData">
+            <Size X="104.0000" Y="32.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="395.4493" Y="417.0697" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5149" Y="0.3060" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/email.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="photos" ActionTag="-1841023878" Tag="71" IconVisible="False" LeftMargin="472.2795" RightMargin="184.7205" TopMargin="928.9816" BottomMargin="401.0184" ctype="SpriteObjectData">
+            <Size X="111.0000" Y="33.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="527.7795" Y="417.5184" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6872" Y="0.3063" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P009/photo/photos.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

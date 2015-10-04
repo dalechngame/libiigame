@@ -1,0 +1,1513 @@
+{
+  "ID": "3f3bf3c7-d6f3-4085-8e53-84c8f9588dbf",
+  "Version": "2.2.6.0",
+  "Name": "p002",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": 2024091780,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -4.6459,
+                "Y": -0.0026,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2024091780,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2024091780,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/bg01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 384.0,
+              "Y": 681.5
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.6667,
+              "Y": 0.6669
+            },
+            "LeftMargin": 128.0,
+            "RightMargin": 128.0,
+            "TopMargin": 227.0,
+            "BottomMargin": 227.0,
+            "Tag": 13,
+            "ActionTag": -1652832959,
+            "Size": {
+              "X": 512.0,
+              "Y": 909.0
+            },
+            "Name": "bg01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/bg01-a.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 418.8004,
+              "Y": 445.9122
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5453,
+              "Y": 0.3272
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 222.3004,
+            "RightMargin": 152.6996,
+            "TopMargin": 608.5878,
+            "BottomMargin": 137.4122,
+            "Tag": 14,
+            "ActionTag": -1125909894,
+            "Size": {
+              "X": 393.0,
+              "Y": 617.0
+            },
+            "Name": "sprite",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/princess/princess.json",
+              "Plist": ""
+            },
+            "Skin": "wuman01",
+            "Animation": "",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 350.8405,
+              "Y": -232.2835
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4568,
+              "Y": -0.1704
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 350.8405,
+            "RightMargin": 317.1595,
+            "TopMargin": 1495.2834,
+            "BottomMargin": -232.2835,
+            "Tag": 12,
+            "ActionTag": -180361800,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "model",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/desk.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 384.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2539
+            },
+            "TopMargin": 1017.0,
+            "Tag": 16,
+            "ActionTag": -1977817509,
+            "Size": {
+              "X": 768.0,
+              "Y": 346.0
+            },
+            "Name": "desk",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/sphygmomanometer/sphygmomanometer_shadow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 686.65,
+              "Y": 216.6
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8941,
+              "Y": 0.1589
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 614.15,
+            "RightMargin": 8.85,
+            "TopMargin": 1112.4,
+            "BottomMargin": 182.6,
+            "Tag": 14,
+            "ActionTag": -1845253468,
+            "Size": {
+              "X": 145.0,
+              "Y": 68.0
+            },
+            "Name": "sphygmomanometerS",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/sphygmomanometer/sphygmomanometer.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 688.477,
+              "Y": 279.5804
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8965,
+              "Y": 0.2051
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 614.977,
+            "RightMargin": 6.023,
+            "TopMargin": 1017.4196,
+            "BottomMargin": 213.5804,
+            "Tag": 24,
+            "ActionTag": 1707165340,
+            "Size": {
+              "X": 147.0,
+              "Y": 132.0
+            },
+            "Name": "sphygmomanometer",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/star.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 739.2625,
+              "Y": 222.1009
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9626,
+              "Y": 0.163
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 713.7625,
+            "RightMargin": 3.2375,
+            "TopMargin": 1117.899,
+            "BottomMargin": 199.1009,
+            "Tag": 32,
+            "ActionTag": 228232118,
+            "Size": {
+              "X": 51.0,
+              "Y": 46.0
+            },
+            "Name": "start006",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/echometer/echometer_shadow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 540.9689,
+              "Y": 263.181
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7044,
+              "Y": 0.1931
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 476.9689,
+            "RightMargin": 163.0311,
+            "TopMargin": 1040.319,
+            "BottomMargin": 203.681,
+            "Tag": 15,
+            "ActionTag": -134576614,
+            "Size": {
+              "X": 128.0,
+              "Y": 119.0
+            },
+            "Name": "electrodeS",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/echometer/echometer.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 543.7459,
+              "Y": 268.2928
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.708,
+              "Y": 0.1968
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 480.2459,
+            "RightMargin": 160.7541,
+            "TopMargin": 1034.7073,
+            "BottomMargin": 208.2928,
+            "Tag": 23,
+            "ActionTag": -1832238792,
+            "Size": {
+              "X": 127.0,
+              "Y": 120.0
+            },
+            "Name": "electrode",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/star.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 588.8434,
+              "Y": 220.8494
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7667,
+              "Y": 0.162
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 563.3434,
+            "RightMargin": 153.6566,
+            "TopMargin": 1119.1506,
+            "BottomMargin": 197.8494,
+            "Tag": 31,
+            "ActionTag": 802758456,
+            "Size": {
+              "X": 51.0,
+              "Y": 46.0
+            },
+            "Name": "start005",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/bultrasonic/bultrasonic_shadow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 410.558,
+              "Y": 274.2448
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -37.0217,
+            "RotationSkewX": -37.0217,
+            "RotationSkewY": -37.0255,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5346,
+              "Y": 0.2012
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 317.558,
+            "RightMargin": 264.442,
+            "TopMargin": 1037.7551,
+            "BottomMargin": 223.2448,
+            "Tag": 16,
+            "ActionTag": -1538939427,
+            "Size": {
+              "X": 186.0,
+              "Y": 102.0
+            },
+            "Name": "ultrasonicS",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/bultrasonic/bultrasonic.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 411.7651,
+              "Y": 282.1674
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -34.0067,
+            "RotationSkewX": -34.0067,
+            "RotationSkewY": -34.0067,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5362,
+              "Y": 0.207
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 319.7651,
+            "RightMargin": 264.2349,
+            "TopMargin": 1030.8326,
+            "BottomMargin": 232.1674,
+            "Tag": 22,
+            "ActionTag": -991862217,
+            "Size": {
+              "X": 184.0,
+              "Y": 100.0
+            },
+            "Name": "ultrasonic",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/star.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 387.033,
+              "Y": 219.2993
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -0.1976,
+            "RotationSkewX": -0.1976,
+            "RotationSkewY": -0.1967,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5039,
+              "Y": 0.1609
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 361.533,
+            "RightMargin": 355.467,
+            "TopMargin": 1120.7007,
+            "BottomMargin": 196.2993,
+            "Tag": 30,
+            "ActionTag": -1123072833,
+            "Size": {
+              "X": 51.0,
+              "Y": 46.0
+            },
+            "Name": "start004",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/couplant/couplant_shadow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.6233,
+              "Y": 197.8351
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -0.4406,
+            "RotationSkewX": -0.4406,
+            "RotationSkewY": -0.4406,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3524,
+              "Y": 0.1451
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 238.1233,
+            "RightMargin": 464.8767,
+            "TopMargin": 1134.6649,
+            "BottomMargin": 167.3351,
+            "Tag": 17,
+            "ActionTag": -1361898923,
+            "Size": {
+              "X": 65.0,
+              "Y": 61.0
+            },
+            "Name": "couplantS",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/couplant/couplant.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 271.7032,
+              "Y": 304.6915
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -0.4284,
+            "RotationSkewX": -0.4284,
+            "RotationSkewY": -0.4266,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3538,
+              "Y": 0.2235
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 235.2032,
+            "RightMargin": 459.7968,
+            "TopMargin": 969.3085,
+            "BottomMargin": 215.6915,
+            "Tag": 21,
+            "ActionTag": 265568211,
+            "Size": {
+              "X": 73.0,
+              "Y": 178.0
+            },
+            "Name": "couplant",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/star.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 300.5143,
+              "Y": 219.0504
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -0.1294,
+            "RotationSkewX": -0.1294,
+            "RotationSkewY": -0.1303,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3913,
+              "Y": 0.1607
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 275.0143,
+            "RightMargin": 441.9857,
+            "TopMargin": 1120.9496,
+            "BottomMargin": 196.0504,
+            "Tag": 29,
+            "ActionTag": -712237133,
+            "Size": {
+              "X": 51.0,
+              "Y": 46.0
+            },
+            "Name": "start003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/thermometer/thermometer_shadow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 189.8218,
+              "Y": 185.1523
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 0.5805,
+            "RotationSkewX": 0.5805,
+            "RotationSkewY": 0.5805,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2472,
+              "Y": 0.1358
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 164.3218,
+            "RightMargin": 552.6782,
+            "TopMargin": 1139.8477,
+            "BottomMargin": 147.1523,
+            "Tag": 18,
+            "ActionTag": 1442939662,
+            "Size": {
+              "X": 51.0,
+              "Y": 76.0
+            },
+            "Name": "thermometericonS",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/thermometer/thermometer.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 175.845,
+              "Y": 286.0865
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 0.5832,
+            "RotationSkewX": 0.5832,
+            "RotationSkewY": 0.584,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.229,
+              "Y": 0.2099
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 132.345,
+            "RightMargin": 548.655,
+            "TopMargin": 1004.9135,
+            "BottomMargin": 214.0865,
+            "Tag": 20,
+            "ActionTag": -909133601,
+            "Size": {
+              "X": 87.0,
+              "Y": 144.0
+            },
+            "Name": "thermometericon",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/star.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 220.2544,
+              "Y": 219.8486
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 0.6181,
+            "RotationSkewX": 0.6181,
+            "RotationSkewY": 0.6181,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2868,
+              "Y": 0.1613
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 194.7544,
+            "RightMargin": 522.2456,
+            "TopMargin": 1120.1514,
+            "BottomMargin": 196.8486,
+            "Tag": 28,
+            "ActionTag": -1553141271,
+            "Size": {
+              "X": 51.0,
+              "Y": 46.0
+            },
+            "Name": "start002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/vitamin/vitamin_shadow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 124.1967,
+              "Y": 225.5271
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1617,
+              "Y": 0.1655
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 103.1967,
+            "RightMargin": 622.8033,
+            "TopMargin": 1118.9729,
+            "BottomMargin": 207.0271,
+            "Tag": 20,
+            "ActionTag": -1951299540,
+            "Size": {
+              "X": 42.0,
+              "Y": 37.0
+            },
+            "Name": "vitaminBottleS",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/vitamin/bottle.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 58.7586,
+              "Y": 263.8224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0765,
+              "Y": 0.1936
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 5.7586,
+            "RightMargin": 656.2414,
+            "TopMargin": 999.6776,
+            "BottomMargin": 164.3224,
+            "Tag": 18,
+            "ActionTag": 108266980,
+            "Size": {
+              "X": 106.0,
+              "Y": 199.0
+            },
+            "Name": "vitaminBottle",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/vitamin/bottle_open.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 59.7258,
+              "Y": 342.4827
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0778,
+              "Y": 0.2513
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 17.2258,
+            "RightMargin": 665.7742,
+            "TopMargin": 990.0173,
+            "BottomMargin": 311.9827,
+            "Tag": 13,
+            "ActionTag": 755030887,
+            "Size": {
+              "X": 85.0,
+              "Y": 61.0
+            },
+            "Name": "vitaminBottleCover",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/star.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 110.5911,
+              "Y": 222.6487
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 0.5604,
+            "RotationSkewX": 0.5604,
+            "RotationSkewY": 0.5604,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.144,
+              "Y": 0.1634
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 85.0911,
+            "RightMargin": 631.9089,
+            "TopMargin": 1117.3513,
+            "BottomMargin": 199.6487,
+            "Tag": 27,
+            "ActionTag": -499123281,
+            "Size": {
+              "X": 51.0,
+              "Y": 46.0
+            },
+            "Name": "start001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P002/thermometer/thermometeronScreen.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -176.78,
+              "Y": 761.4681
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.2302,
+              "Y": 0.5587
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -278.28,
+            "RightMargin": 843.28,
+            "TopMargin": 504.0319,
+            "BottomMargin": 663.9681,
+            "Tag": 21,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P002/thermometer/dash.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "VisibleForFrame": false,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 57.5,
+                  "Y": 102.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2833,
+                  "Y": 0.5231
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 45.5,
+                "RightMargin": 133.5,
+                "TopMargin": 90.5,
+                "BottomMargin": 99.5,
+                "Tag": 22,
+                "ActionTag": 450558074,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 5.0
+                },
+                "Name": "tBar001",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P002/thermometer/dash.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 102.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.431,
+                  "Y": 0.5231
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 75.5,
+                "RightMargin": 103.5,
+                "TopMargin": 90.5,
+                "BottomMargin": 99.5,
+                "Tag": 23,
+                "ActionTag": 1659505137,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 5.0
+                },
+                "Name": "tBar002",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P002/thermometer/dash.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 117.5,
+                  "Y": 102.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5788,
+                  "Y": 0.5231
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 105.5,
+                "RightMargin": 73.5,
+                "TopMargin": 90.5,
+                "BottomMargin": 99.5,
+                "Tag": 24,
+                "ActionTag": 2115840113,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 5.0
+                },
+                "Name": "tBar003",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P002/thermometer/dash.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 147.5,
+                  "Y": 102.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7266,
+                  "Y": 0.5231
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 135.5,
+                "RightMargin": 43.5,
+                "TopMargin": 90.5,
+                "BottomMargin": 99.5,
+                "Tag": 25,
+                "ActionTag": -2061318395,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 5.0
+                },
+                "Name": "tBar004",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P002/thermometer/96F.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.5815,
+                  "Y": 102.2668
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5103,
+                  "Y": 0.5244
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 56.5815,
+                "RightMargin": 52.4185,
+                "TopMargin": 71.2332,
+                "BottomMargin": 80.7668,
+                "Tag": 26,
+                "ActionTag": 266784274,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 43.0
+                },
+                "Name": "tBarNumber",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P002/thermometer/safe.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.58,
+                  "Y": 100.4271
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5102,
+                  "Y": 0.515
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 50.08,
+                "RightMargin": 45.92,
+                "TopMargin": 73.0729,
+                "BottomMargin": 78.9271,
+                "Tag": 27,
+                "ActionTag": -2032134556,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 43.0
+                },
+                "Name": "tBarSafe",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1158979381,
+            "Size": {
+              "X": 203.0,
+              "Y": 195.0
+            },
+            "Name": "thermometericonMachine",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "layer.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": -4.6459,
+              "Y": -0.0026
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": -0.006,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -4.6459,
+            "RightMargin": 4.6459,
+            "TopMargin": 0.0026,
+            "BottomMargin": -0.0026,
+            "Tag": 25,
+            "ActionTag": 2024091780,
+            "Size": {
+              "X": 768.0,
+              "Y": 1363.0
+            },
+            "Name": "layer",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

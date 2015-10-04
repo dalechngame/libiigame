@@ -1,0 +1,139 @@
+
+prince.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st01
+  rotate: false
+  xy: 2, 80
+  size: 105, 226
+  orig: 105, 226
+  offset: 0, 0
+  index: -1
+st02
+  rotate: false
+  xy: 661, 352
+  size: 81, 192
+  orig: 81, 192
+  offset: 0, 0
+  index: -1
+st03
+  rotate: false
+  xy: 2, 308
+  size: 281, 714
+  orig: 281, 714
+  offset: 0, 0
+  index: -1
+st04
+  rotate: false
+  xy: 285, 308
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+st05
+  rotate: true
+  xy: 1011, 988
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+st06
+  rotate: false
+  xy: 661, 333
+  size: 70, 17
+  orig: 70, 17
+  offset: 0, 0
+  index: -1
+st07
+  rotate: true
+  xy: 967, 538
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+st08
+  rotate: true
+  xy: 2, 2
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+st09
+  rotate: false
+  xy: 578, 546
+  size: 198, 476
+  orig: 198, 476
+  offset: 0, 0
+  index: -1
+st10
+  rotate: false
+  xy: 578, 324
+  size: 81, 220
+  orig: 81, 220
+  offset: 0, 0
+  index: -1
+st11
+  rotate: true
+  xy: 778, 546
+  size: 61, 187
+  orig: 61, 187
+  offset: 0, 0
+  index: -1
+yy01
+  rotate: true
+  xy: 109, 75
+  size: 231, 72
+  orig: 231, 72
+  offset: 0, 0
+  index: -1
+yy02
+  rotate: false
+  xy: 810, 388
+  size: 61, 156
+  orig: 61, 156
+  offset: 0, 0
+  index: -1
+yy03
+  rotate: false
+  xy: 744, 380
+  size: 64, 164
+  orig: 64, 164
+  offset: 0, 0
+  index: -1
+yy04
+  rotate: false
+  xy: 873, 426
+  size: 92, 118
+  orig: 92, 118
+  offset: 0, 0
+  index: -1
+yy05
+  rotate: false
+  xy: 778, 609
+  size: 231, 413
+  orig: 231, 413
+  offset: 0, 0
+  index: -1
+yy06
+  rotate: false
+  xy: 241, 178
+  size: 56, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1
+yy07
+  rotate: false
+  xy: 183, 126
+  size: 56, 180
+  orig: 56, 180
+  offset: 0, 0
+  index: -1
+yy08
+  rotate: false
+  xy: 285, 318
+  size: 291, 704
+  orig: 291, 704
+  offset: 0, 0
+  index: -1

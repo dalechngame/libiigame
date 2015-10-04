@@ -1,0 +1,1230 @@
+{
+  "ID": "82cf300c-eb7e-41ff-8994-e6540145c0bf",
+  "Version": "2.2.6.0",
+  "Name": "p010_main",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 34,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/bg01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 256.0,
+            "TopMargin": 454.0,
+            "Tag": 23,
+            "ActionTag": -2012522469,
+            "Size": {
+              "X": 512.0,
+              "Y": 909.0
+            },
+            "Name": "bar_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/tip.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 262.0578,
+              "Y": 823.1635
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3412,
+              "Y": 0.6039
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 223.5578,
+            "RightMargin": 467.4422,
+            "TopMargin": 508.8365,
+            "BottomMargin": 792.1635,
+            "Tag": 58,
+            "ActionTag": 718388146,
+            "Size": {
+              "X": 77.0,
+              "Y": 62.0
+            },
+            "Name": "arrow001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/tip.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 505.385,
+              "Y": 827.9088
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6581,
+              "Y": 0.6074
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 466.885,
+            "RightMargin": 224.115,
+            "TopMargin": 504.0912,
+            "BottomMargin": 796.9088,
+            "Tag": 59,
+            "ActionTag": -1172322267,
+            "Size": {
+              "X": 77.0,
+              "Y": 62.0
+            },
+            "Name": "arrow002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/tip.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 626.8765,
+              "Y": 694.8542
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 90.0,
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8162,
+              "Y": 0.5098
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 588.3765,
+            "RightMargin": 102.6235,
+            "TopMargin": 637.1458,
+            "BottomMargin": 663.8542,
+            "Tag": 60,
+            "ActionTag": 637613446,
+            "Size": {
+              "X": 77.0,
+              "Y": 62.0
+            },
+            "Name": "arrow003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/tip.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.1052,
+              "Y": 470.6152
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 90.0,
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8191,
+              "Y": 0.3453
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.6052,
+            "RightMargin": 100.3948,
+            "TopMargin": 861.3848,
+            "BottomMargin": 439.6152,
+            "Tag": 61,
+            "ActionTag": 742704938,
+            "Size": {
+              "X": 77.0,
+              "Y": 62.0
+            },
+            "Name": "arrow004",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/tip.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 499.1485,
+              "Y": 375.5709
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 180.0,
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6499,
+              "Y": 0.2755
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 460.6485,
+            "RightMargin": 230.3515,
+            "TopMargin": 956.4291,
+            "BottomMargin": 344.5709,
+            "Tag": 62,
+            "ActionTag": -367058839,
+            "Size": {
+              "X": 77.0,
+              "Y": 62.0
+            },
+            "Name": "arrow005",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/tip.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 256.6567,
+              "Y": 370.654
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 180.0,
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3342,
+              "Y": 0.2719
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 218.1567,
+            "RightMargin": 472.8433,
+            "TopMargin": 961.346,
+            "BottomMargin": 339.654,
+            "Tag": 63,
+            "ActionTag": -603924468,
+            "Size": {
+              "X": 77.0,
+              "Y": 62.0
+            },
+            "Name": "arrow006",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/tip.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 136.5309,
+              "Y": 468.515
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -90.0,
+            "RotationSkewX": -90.0,
+            "RotationSkewY": -90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1778,
+              "Y": 0.3437
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 98.0309,
+            "RightMargin": 592.9691,
+            "TopMargin": 863.485,
+            "BottomMargin": 437.515,
+            "Tag": 64,
+            "ActionTag": 257439103,
+            "Size": {
+              "X": 77.0,
+              "Y": 62.0
+            },
+            "Name": "arrow007",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/tip.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 261.5941,
+              "Y": 597.3653
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3406,
+              "Y": 0.4383
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 223.0941,
+            "RightMargin": 467.9059,
+            "TopMargin": 734.6347,
+            "BottomMargin": 566.3653,
+            "Tag": 65,
+            "ActionTag": -1308438996,
+            "Size": {
+              "X": 77.0,
+              "Y": 62.0
+            },
+            "Name": "arrow008",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 139.2391,
+              "Y": 808.5125
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1813,
+              "Y": 0.5932
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 16.7391,
+            "RightMargin": 506.2609,
+            "TopMargin": 439.9875,
+            "BottomMargin": 694.0125,
+            "Tag": 35,
+            "ActionTag": 1955662470,
+            "Size": {
+              "X": 245.0,
+              "Y": 229.0
+            },
+            "Name": "scene001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 381.7959,
+              "Y": 808.5125
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4971,
+              "Y": 0.5932
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 260.7959,
+            "RightMargin": 265.2041,
+            "TopMargin": 442.4875,
+            "BottomMargin": 696.5125,
+            "Tag": 36,
+            "ActionTag": 2065865853,
+            "Size": {
+              "X": 242.0,
+              "Y": 224.0
+            },
+            "Name": "scene002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 624.3528,
+              "Y": 808.5125
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.813,
+              "Y": 0.5932
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 503.3528,
+            "RightMargin": 22.6472,
+            "TopMargin": 442.9875,
+            "BottomMargin": 697.0125,
+            "Tag": 37,
+            "ActionTag": 1025900190,
+            "Size": {
+              "X": 242.0,
+              "Y": 223.0
+            },
+            "Name": "scene003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level4.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 624.3528,
+              "Y": 584.7676
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.813,
+              "Y": 0.429
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 503.3528,
+            "RightMargin": 22.6472,
+            "TopMargin": 665.2324,
+            "BottomMargin": 471.7676,
+            "Tag": 38,
+            "ActionTag": -1517795826,
+            "Size": {
+              "X": 242.0,
+              "Y": 226.0
+            },
+            "Name": "scene004",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 624.3528,
+              "Y": 361.0228
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.813,
+              "Y": 0.2649
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 503.3528,
+            "RightMargin": 22.6472,
+            "TopMargin": 888.9772,
+            "BottomMargin": 248.0228,
+            "Tag": 39,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/main/lock.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 164.9519,
+                  "Y": 76.879
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6816,
+                  "Y": 0.3402
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 75.4519,
+                "RightMargin": -12.4519,
+                "TopMargin": 66.121,
+                "BottomMargin": -6.121,
+                "Tag": 50,
+                "ActionTag": -781312480,
+                "Size": {
+                  "X": 179.0,
+                  "Y": 166.0
+                },
+                "Name": "lock005",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1719645702,
+            "Size": {
+              "X": 242.0,
+              "Y": 226.0
+            },
+            "Name": "scene005",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level6.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 381.7959,
+              "Y": 361.0228
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4971,
+              "Y": 0.2649
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 260.7959,
+            "RightMargin": 265.2041,
+            "TopMargin": 888.9772,
+            "BottomMargin": 248.0228,
+            "Tag": 40,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/main/lock.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 161.7754,
+                  "Y": 76.0838
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6685,
+                  "Y": 0.3367
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 72.2754,
+                "RightMargin": -9.2754,
+                "TopMargin": 66.9162,
+                "BottomMargin": -6.9162,
+                "Tag": 51,
+                "ActionTag": 1577205975,
+                "Size": {
+                  "X": 179.0,
+                  "Y": 166.0
+                },
+                "Name": "lock006",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 82467717,
+            "Size": {
+              "X": 242.0,
+              "Y": 226.0
+            },
+            "Name": "scene006",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level7.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 139.2391,
+              "Y": 361.0228
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1813,
+              "Y": 0.2649
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 17.2391,
+            "RightMargin": 506.7609,
+            "TopMargin": 889.4772,
+            "BottomMargin": 248.5228,
+            "Tag": 41,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/main/lock.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 161.5587,
+                  "Y": 74.3597
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6621,
+                  "Y": 0.3305
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 72.0587,
+                "RightMargin": -7.0587,
+                "TopMargin": 67.6403,
+                "BottomMargin": -8.6403,
+                "Tag": 52,
+                "ActionTag": 1011807058,
+                "Size": {
+                  "X": 179.0,
+                  "Y": 166.0
+                },
+                "Name": "lock007",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1114692314,
+            "Size": {
+              "X": 244.0,
+              "Y": 225.0
+            },
+            "Name": "scene007",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level8.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 139.2391,
+              "Y": 584.7676
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1813,
+              "Y": 0.429
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 18.2391,
+            "RightMargin": 507.7609,
+            "TopMargin": 666.2324,
+            "BottomMargin": 472.7676,
+            "Tag": 42,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/main/lock.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 161.1652,
+                  "Y": 71.7412
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.666,
+                  "Y": 0.3203
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 71.6652,
+                "RightMargin": -8.6652,
+                "TopMargin": 69.2588,
+                "BottomMargin": -11.2588,
+                "Tag": 53,
+                "ActionTag": -1901440785,
+                "Size": {
+                  "X": 179.0,
+                  "Y": 166.0
+                },
+                "Name": "lock008",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1229661202,
+            "Size": {
+              "X": 242.0,
+              "Y": 224.0
+            },
+            "Name": "scene008",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level9.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 381.7959,
+              "Y": 584.7676
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4971,
+              "Y": 0.429
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 260.7959,
+            "RightMargin": 265.2041,
+            "TopMargin": 664.7324,
+            "BottomMargin": 471.2676,
+            "Tag": 43,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/main/lock.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 162.6011,
+                  "Y": 74.0157
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6719,
+                  "Y": 0.3261
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 73.1011,
+                "RightMargin": -10.1011,
+                "TopMargin": 69.9843,
+                "BottomMargin": -8.9843,
+                "Tag": 54,
+                "ActionTag": 2030182129,
+                "Size": {
+                  "X": 179.0,
+                  "Y": 166.0
+                },
+                "Name": "lock009",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 11578671,
+            "Size": {
+              "X": 242.0,
+              "Y": 227.0
+            },
+            "Name": "scene009",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/curtain/curtain.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 392.4515,
+              "Y": 684.4453
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.511,
+              "Y": 0.5022
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 392.4515,
+            "RightMargin": 275.5485,
+            "TopMargin": 578.5547,
+            "BottomMargin": 684.4453,
+            "Tag": 113,
+            "ActionTag": -57897334,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "rightSpine",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/curtain/curtain.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 383.9508,
+              "Y": 684.4987
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.5022
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 383.9508,
+            "RightMargin": 284.0492,
+            "TopMargin": 578.5013,
+            "BottomMargin": 684.4987,
+            "Tag": 112,
+            "ActionTag": 183847169,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "leftSpine",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/bg02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 1363.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 54,
+            "ActionTag": -143248469,
+            "Size": {
+              "X": 768.0,
+              "Y": 1363.0
+            },
+            "Name": "bar001",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

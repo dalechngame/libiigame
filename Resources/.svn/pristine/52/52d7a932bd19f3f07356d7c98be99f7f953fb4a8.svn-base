@@ -1,0 +1,110 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p000" ID="df1599f3-58c1-42e6-a471-334a3f82f437" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="34" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="bg" ActionTag="-149870391" Tag="35" IconVisible="False" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1363.0000" />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
+            <FileData Type="Normal" Path="game/homepage/bg.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Particle_1" ActionTag="1099241878" Tag="889" IconVisible="True" LeftMargin="407.6770" RightMargin="360.3230" TopMargin="614.7078" BottomMargin="748.2922" ctype="ParticleObjectData">
+            <Size />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="407.6770" Y="748.2922" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5308" Y="0.5490" />
+            <PreSize />
+            <FileData Type="Normal" Path="particles/XingKong.plist" Plist="" />
+            <BlendFunc Src="770" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="manSpine" ActionTag="466041160" Tag="34" IconVisible="False" LeftMargin="172.2686" RightMargin="495.7314" TopMargin="1230.3760" BottomMargin="32.6240" Skin="" Animation="aniIdle" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="172.2686" Y="32.6240" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2243" Y="0.0239" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/homepage/prince/prince.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="womanSpine" ActionTag="-612375232" Tag="152" IconVisible="False" LeftMargin="393.4182" RightMargin="274.5818" TopMargin="1237.5786" BottomMargin="25.4213" Skin="" Animation="aniIdle01" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="393.4182" Y="25.4213" />
+            <Scale ScaleX="0.7000" ScaleY="0.7000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5123" Y="0.0187" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/princess/princess.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="babySpine" ActionTag="-1545689693" Tag="35" IconVisible="False" LeftMargin="376.8973" RightMargin="291.1027" TopMargin="787.4744" BottomMargin="475.5256" Skin="" Animation="aniChangeidle" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="376.8973" Y="475.5256" />
+            <Scale ScaleX="0.5500" ScaleY="0.5500" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4908" Y="0.3489" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/baby/baby.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="play" ActionTag="-1207058495" Tag="40" IconVisible="False" LeftMargin="299.8363" RightMargin="281.1637" TopMargin="803.7985" BottomMargin="361.2015" ctype="SpriteObjectData">
+            <Size X="187.0000" Y="198.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="393.3363" Y="460.2015" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5122" Y="0.3376" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/homepage/play.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="logoSpine" ActionTag="177032359" Tag="42" IconVisible="False" LeftMargin="490.8419" RightMargin="177.1581" TopMargin="223.7458" BottomMargin="1039.2542" Skin="" Animation="aniLoop" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="490.8419" Y="1039.2542" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6391" Y="0.7625" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Addin" Path="" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="LBSprite_1" CanEdit="False" ActionTag="806163258" Tag="204" IconVisible="False" LayoutOnly="False" EditorOnly="True" ctype="LBSpriteObjectData">
+            <Size X="768.0000" Y="1363.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSprite.lua" />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
+            <FileData Type="Normal" Path="layer.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

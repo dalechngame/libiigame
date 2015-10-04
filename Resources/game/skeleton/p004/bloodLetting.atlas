@@ -1,0 +1,55 @@
+
+bloodLetting.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 2, 2
+  size: 66, 45
+  orig: 69, 52
+  offset: 2, 3
+  index: -1
+zhen01
+  rotate: true
+  xy: 72, 191
+  size: 46, 170
+  orig: 46, 170
+  offset: 0, 0
+  index: -1
+zhen02
+  rotate: true
+  xy: 72, 143
+  size: 46, 162
+  orig: 46, 162
+  offset: 0, 0
+  index: -1
+zhen03
+  rotate: true
+  xy: 72, 95
+  size: 46, 152
+  orig: 46, 152
+  offset: 0, 0
+  index: -1
+zhen04
+  rotate: true
+  xy: 72, 47
+  size: 46, 142
+  orig: 46, 142
+  offset: 0, 0
+  index: -1
+zhen05
+  rotate: false
+  xy: 2, 80
+  size: 68, 157
+  orig: 68, 157
+  offset: 0, 0
+  index: -1
+zhen06
+  rotate: true
+  xy: 2, 49
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1

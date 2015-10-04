@@ -1,0 +1,1574 @@
+{
+  "ID": "a87d20ba-e64e-4866-acb6-615795d57dae",
+  "Version": "2.2.6.0",
+  "Name": "p003",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 38,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "layer.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 382.8004,
+              "Y": 680.2097
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4984,
+              "Y": 0.4991
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.1996,
+            "RightMargin": 1.1996,
+            "TopMargin": 1.2903,
+            "BottomMargin": -1.2903,
+            "Tag": 43,
+            "ActionTag": 1845557071,
+            "Size": {
+              "X": 768.0,
+              "Y": 1363.0
+            },
+            "Name": "layer",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P003/bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 384.0,
+              "Y": 682.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5004
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 128.0,
+            "RightMargin": 128.0,
+            "TopMargin": 226.5,
+            "BottomMargin": 227.5,
+            "Tag": 40,
+            "ActionTag": 1288003754,
+            "Size": {
+              "X": 512.0,
+              "Y": 909.0
+            },
+            "Name": "bg_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P003/forth_02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 429.8835,
+              "Y": 234.0536
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5597,
+              "Y": 0.1717
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -32.6165,
+            "RightMargin": -124.3835,
+            "TopMargin": 902.4464,
+            "BottomMargin": 7.5536,
+            "Tag": 202,
+            "ActionTag": -1534731083,
+            "Size": {
+              "X": 925.0,
+              "Y": 453.0
+            },
+            "Name": "houseItem_02",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P003/fifth_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 395.834,
+              "Y": 690.9183
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5154,
+              "Y": 0.5069
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 23.834,
+            "RightMargin": 0.166,
+            "TopMargin": 342.0817,
+            "BottomMargin": 360.9183,
+            "Tag": 201,
+            "ActionTag": -1782222951,
+            "Size": {
+              "X": 744.0,
+              "Y": 660.0
+            },
+            "Name": "houseItem_01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "base/none.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 422.0,
+              "Y": 1113.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5495,
+              "Y": 0.8166
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 421.0,
+            "RightMargin": 345.0,
+            "TopMargin": 249.0,
+            "BottomMargin": 1112.0,
+            "Tag": 92,
+            "ActionTag": -1506057603,
+            "Size": {
+              "X": 2.0,
+              "Y": 2.0
+            },
+            "Name": "pendantPos",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 395.8337,
+              "Y": 1001.2026
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5154,
+              "Y": 0.7346
+            },
+            "PreSize": {
+              "X": 0.0599,
+              "Y": 0.0337
+            },
+            "LeftMargin": 372.8337,
+            "RightMargin": 349.1663,
+            "TopMargin": 338.7974,
+            "BottomMargin": 978.2026,
+            "Tag": 205,
+            "ActionTag": -1428202202,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "houseItem_05",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 395.834,
+              "Y": 798.0916
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5154,
+              "Y": 0.5855
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 372.834,
+            "RightMargin": 349.166,
+            "TopMargin": 541.9084,
+            "BottomMargin": 775.0916,
+            "Tag": 203,
+            "ActionTag": 1800872172,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "houseItem_03",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P003/fifth_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 83.8759,
+              "Y": 746.4727
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1092,
+              "Y": 0.5477
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -124.6241,
+            "RightMargin": 475.6241,
+            "TopMargin": 262.5273,
+            "BottomMargin": 392.4727,
+            "Tag": 204,
+            "ActionTag": 1112217623,
+            "Size": {
+              "X": 417.0,
+              "Y": 708.0
+            },
+            "Name": "houseItem_04",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 565.4016,
+              "Y": 255.2322
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7362,
+              "Y": 0.1873
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 542.4016,
+            "RightMargin": 179.5984,
+            "TopMargin": 1084.7678,
+            "BottomMargin": 232.2322,
+            "Tag": 206,
+            "ActionTag": 428738006,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "houseItem_06",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P003/fifth_07.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 178.8353,
+              "Y": 377.3624
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2329,
+              "Y": 0.2769
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -40.1647,
+            "RightMargin": 370.1647,
+            "TopMargin": 742.1376,
+            "BottomMargin": 133.8624,
+            "Tag": 207,
+            "ActionTag": -2064097111,
+            "Size": {
+              "X": 438.0,
+              "Y": 487.0
+            },
+            "Name": "houseItem_07",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "base/none.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 547.0,
+              "Y": 344.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7122,
+              "Y": 0.2524
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 546.0,
+            "RightMargin": 220.0,
+            "TopMargin": 1018.0,
+            "BottomMargin": 343.0,
+            "Tag": 91,
+            "ActionTag": -140598159,
+            "Size": {
+              "X": 2.0,
+              "Y": 2.0
+            },
+            "Name": "pillowPos",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/frame002.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0243,
+              "Y": 137.4955
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.1009
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.0243,
+            "RightMargin": -0.0243,
+            "TopMargin": 1071.5045,
+            "BottomMargin": 137.4955,
+            "Tag": 12,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/ui/bed.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0703,
+                  "Y": 0.4221
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": 660.0,
+                "TopMargin": 35.0,
+                "BottomMargin": 11.0,
+                "Tag": 1,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7407,
+                      "Y": 0.1852
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 54.5,
+                    "RightMargin": 2.5,
+                    "TopMargin": 65.0,
+                    "BottomMargin": -3.0,
+                    "Tag": 78,
+                    "ActionTag": 27992967,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "star",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1790694077,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 108.0
+                },
+                "Name": "item_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/ui/carpet.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 164.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2135,
+                  "Y": 0.4221
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 110.0,
+                "RightMargin": 550.0,
+                "TopMargin": 35.0,
+                "BottomMargin": 11.0,
+                "Tag": 2,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7407,
+                      "Y": 0.1852
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 54.5,
+                    "RightMargin": 2.5,
+                    "TopMargin": 65.0,
+                    "BottomMargin": -3.0,
+                    "Tag": 80,
+                    "ActionTag": 1836137817,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "star",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1604097822,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 108.0
+                },
+                "Name": "item_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/ui/curtain.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 274.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3568,
+                  "Y": 0.4221
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 220.0,
+                "RightMargin": 440.0,
+                "TopMargin": 35.0,
+                "BottomMargin": 11.0,
+                "Tag": 3,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7407,
+                      "Y": 0.1852
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 54.5,
+                    "RightMargin": 2.5,
+                    "TopMargin": 65.0,
+                    "BottomMargin": -3.0,
+                    "Tag": 82,
+                    "ActionTag": -603164548,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "star",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1586228979,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 108.0
+                },
+                "Name": "item_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/ui/light.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 384.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4221
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 330.0,
+                "RightMargin": 330.0,
+                "TopMargin": 35.0,
+                "BottomMargin": 11.0,
+                "Tag": 4,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7407,
+                      "Y": 0.1852
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 54.5,
+                    "RightMargin": 2.5,
+                    "TopMargin": 65.0,
+                    "BottomMargin": -3.0,
+                    "Tag": 84,
+                    "ActionTag": -1910181272,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "star",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -2005786900,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 108.0
+                },
+                "Name": "item_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/ui/pendant.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 494.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6432,
+                  "Y": 0.4221
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 440.0,
+                "RightMargin": 220.0,
+                "TopMargin": 35.0,
+                "BottomMargin": 11.0,
+                "Tag": 5,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7407,
+                      "Y": 0.1852
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 54.5,
+                    "RightMargin": 2.5,
+                    "TopMargin": 65.0,
+                    "BottomMargin": -3.0,
+                    "Tag": 86,
+                    "ActionTag": -67602295,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "star",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1329535279,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 108.0
+                },
+                "Name": "item_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/ui/pillow.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 604.0,
+                  "Y": 64.1808
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7865,
+                  "Y": 0.4168
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 550.0,
+                "RightMargin": 110.0,
+                "TopMargin": 35.8192,
+                "BottomMargin": 10.1808,
+                "Tag": 6,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7407,
+                      "Y": 0.1852
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 54.5,
+                    "RightMargin": 2.5,
+                    "TopMargin": 65.0,
+                    "BottomMargin": -3.0,
+                    "Tag": 88,
+                    "ActionTag": 85314982,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "star",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1743201709,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 108.0
+                },
+                "Name": "item_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/ui/sofa.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 714.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9297,
+                  "Y": 0.4221
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 660.0,
+                "TopMargin": 35.0,
+                "BottomMargin": 11.0,
+                "Tag": 7,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7407,
+                      "Y": 0.1852
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 54.5,
+                    "RightMargin": 2.5,
+                    "TopMargin": 65.0,
+                    "BottomMargin": -3.0,
+                    "Tag": 90,
+                    "ActionTag": 111429676,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "star",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1559079740,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 108.0
+                },
+                "Name": "item_6",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1320951758,
+            "Size": {
+              "X": 768.0,
+              "Y": 154.0
+            },
+            "Name": "frame01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/frame001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 768.0,
+              "Y": 650.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.0,
+              "Y": 0.4769
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 631.0,
+            "TopMargin": 359.5,
+            "BottomMargin": 296.5,
+            "Tag": 26,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/first_01-s.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0,
+                  "Y": 638.7927
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5839,
+                  "Y": 0.9035
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 36.5,
+                "RightMargin": 13.5,
+                "TopMargin": 28.7073,
+                "BottomMargin": 599.2927,
+                "Tag": 301,
+                "ActionTag": -808660198,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 79.0
+                },
+                "Name": "ornamentItem_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/second_01-s.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0001,
+                  "Y": 537.5088
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5839,
+                  "Y": 0.7603
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 36.5001,
+                "RightMargin": 13.4999,
+                "TopMargin": 129.9912,
+                "BottomMargin": 498.0088,
+                "Tag": 302,
+                "ActionTag": -2006596238,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 79.0
+                },
+                "Name": "ornamentItem_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/third_01-s.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0,
+                  "Y": 418.2459
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5839,
+                  "Y": 0.5916
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 36.5,
+                "RightMargin": 13.5,
+                "TopMargin": 249.2541,
+                "BottomMargin": 378.7459,
+                "Tag": 303,
+                "ActionTag": -972903549,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 79.0
+                },
+                "Name": "ornamentItem_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/forth_01-s.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0,
+                  "Y": 289.3022
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5839,
+                  "Y": 0.4092
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 36.5,
+                "RightMargin": 13.5,
+                "TopMargin": 378.1978,
+                "BottomMargin": 249.8022,
+                "Tag": 304,
+                "ActionTag": -1053921835,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 79.0
+                },
+                "Name": "ornamentItem_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/fifth_01-s.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0,
+                  "Y": 176.9501
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5839,
+                  "Y": 0.2503
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 36.5,
+                "RightMargin": 13.5,
+                "TopMargin": 490.5499,
+                "BottomMargin": 137.4501,
+                "Tag": 305,
+                "ActionTag": 1749636888,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 79.0
+                },
+                "Name": "ornamentItem_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P003/sixth_01-s.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0,
+                  "Y": 71.5168
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5839,
+                  "Y": 0.1012
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 36.5,
+                "RightMargin": 13.5,
+                "TopMargin": 595.9832,
+                "BottomMargin": 32.0168,
+                "Tag": 306,
+                "ActionTag": 544783550,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 79.0
+                },
+                "Name": "ornamentItem_5",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -397506959,
+            "Size": {
+              "X": 137.0,
+              "Y": 707.0
+            },
+            "Name": "frame02",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/shouzhi.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -113.6108,
+              "Y": 611.4094
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 180.0,
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.1479,
+              "Y": 0.4486
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -194.1108,
+            "RightMargin": 801.1108,
+            "TopMargin": 681.0906,
+            "BottomMargin": 540.9094,
+            "Tag": 40,
+            "ActionTag": 783001482,
+            "Size": {
+              "X": 161.0,
+              "Y": 141.0
+            },
+            "Name": "tipFinger",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

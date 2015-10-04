@@ -1,0 +1,661 @@
+{
+  "ID": "3aa85168-205f-485b-8548-39fac8fc1e63",
+  "Version": "2.2.6.0",
+  "Name": "p001_mp3",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 27,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 200.2397,
+              "Y": 634.2417
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2607,
+              "Y": 0.4653
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -10.7603,
+            "RightMargin": 356.7603,
+            "TopMargin": 315.2583,
+            "BottomMargin": 220.7417,
+            "Tag": 29,
+            "ActionTag": -1810266479,
+            "Size": {
+              "X": 422.0,
+              "Y": 827.0
+            },
+            "Name": "mp3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3screen001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.3622,
+              "Y": 874.0082
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.313,
+              "Y": 0.6412
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 120.8622,
+            "RightMargin": 408.1378,
+            "TopMargin": 365.9918,
+            "BottomMargin": 751.0082,
+            "Tag": 22,
+            "ActionTag": -1149633506,
+            "Size": {
+              "X": 239.0,
+              "Y": 246.0
+            },
+            "Name": "screen002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3_b.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 181.7896,
+              "Y": 695.3552
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2367,
+              "Y": 0.5102
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 168.7896,
+            "RightMargin": 573.2104,
+            "TopMargin": 655.1448,
+            "BottomMargin": 682.8552,
+            "Tag": 95,
+            "ActionTag": 2020367195,
+            "Size": {
+              "X": 26.0,
+              "Y": 25.0
+            },
+            "Name": "mp3_b",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3_b.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 181.1069,
+              "Y": 695.338
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2358,
+              "Y": 0.5102
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 168.1069,
+            "RightMargin": 573.8931,
+            "TopMargin": 655.162,
+            "BottomMargin": 682.838,
+            "Tag": 96,
+            "ActionTag": -1648752064,
+            "Size": {
+              "X": 26.0,
+              "Y": 25.0
+            },
+            "Name": "mp3_b_start",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3_b.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 293.6409,
+              "Y": 695.2499
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3823,
+              "Y": 0.5101
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 280.6409,
+            "RightMargin": 461.3591,
+            "TopMargin": 655.2501,
+            "BottomMargin": 682.7499,
+            "Tag": 97,
+            "ActionTag": 1915717239,
+            "Size": {
+              "X": 26.0,
+              "Y": 25.0
+            },
+            "Name": "mp3_b_finish",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/play.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 237.6191,
+              "Y": 575.781
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3094,
+              "Y": 0.4224
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 196.1191,
+            "RightMargin": 488.8809,
+            "TopMargin": 745.219,
+            "BottomMargin": 533.781,
+            "Tag": 98,
+            "ActionTag": 1047930007,
+            "Size": {
+              "X": 83.0,
+              "Y": 84.0
+            },
+            "Name": "play",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/next.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 332.2134,
+              "Y": 632.3447
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4326,
+              "Y": 0.4639
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 302.7134,
+            "RightMargin": 406.2866,
+            "TopMargin": 701.1553,
+            "BottomMargin": 602.8447,
+            "Tag": 99,
+            "ActionTag": -518372640,
+            "Size": {
+              "X": 59.0,
+              "Y": 59.0
+            },
+            "Name": "rigth",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/last.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 140.858,
+              "Y": 632.1755
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1834,
+              "Y": 0.4638
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 111.358,
+            "RightMargin": 597.642,
+            "TopMargin": 701.3245,
+            "BottomMargin": 602.6755,
+            "Tag": 100,
+            "ActionTag": 157919663,
+            "Size": {
+              "X": 59.0,
+              "Y": 59.0
+            },
+            "Name": "last",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/name.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 235.7125,
+              "Y": 731.1327
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3069,
+              "Y": 0.5364
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 186.2125,
+            "RightMargin": 482.7875,
+            "TopMargin": 621.3673,
+            "BottomMargin": 720.6327,
+            "Tag": 25,
+            "ActionTag": -1123122079,
+            "Size": {
+              "X": 99.0,
+              "Y": 21.0
+            },
+            "Name": "name",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3Progress02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 145.7343,
+              "Y": 730.6993
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1898,
+              "Y": 0.5361
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 133.7343,
+            "RightMargin": 610.2657,
+            "TopMargin": 621.8007,
+            "BottomMargin": 720.1993,
+            "Tag": 104,
+            "ActionTag": -2134723550,
+            "Size": {
+              "X": 24.0,
+              "Y": 21.0
+            },
+            "Name": "mp3Progress02",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3Progress03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 145.5245,
+              "Y": 693.0781
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1895,
+              "Y": 0.5085
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 134.0245,
+            "RightMargin": 610.9755,
+            "TopMargin": 659.9219,
+            "BottomMargin": 683.0781,
+            "Tag": 103,
+            "ActionTag": 2074867808,
+            "Size": {
+              "X": 23.0,
+              "Y": 20.0
+            },
+            "Name": "mp3Progress03",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3Body002.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.7904,
+              "Y": 825.2251
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3135,
+              "Y": 0.6054
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 138.2904,
+            "RightMargin": 424.7096,
+            "TopMargin": 393.7749,
+            "BottomMargin": 681.2251,
+            "Tag": 101,
+            "ActionTag": 881790983,
+            "Size": {
+              "X": 205.0,
+              "Y": 288.0
+            },
+            "Name": "mp3Body002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/mp3/mp3Body003.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 235.4498,
+              "Y": 826.3038
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3066,
+              "Y": 0.6062
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 107.4498,
+            "RightMargin": 404.5502,
+            "TopMargin": 365.1962,
+            "BottomMargin": 654.8038,
+            "Tag": 102,
+            "ActionTag": 503289333,
+            "Size": {
+              "X": 256.0,
+              "Y": 343.0
+            },
+            "Name": "mp3Body003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "particles/music.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 771,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 220.0959,
+              "Y": 920.2027
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2866,
+              "Y": 0.6751
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 220.0959,
+            "RightMargin": 547.9041,
+            "TopMargin": 442.7973,
+            "BottomMargin": 920.2027,
+            "Tag": 73,
+            "ActionTag": -1271737473,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "musicParticle",
+            "ctype": "ParticleObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

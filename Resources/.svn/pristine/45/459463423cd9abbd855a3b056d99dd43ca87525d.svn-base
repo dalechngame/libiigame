@@ -1,0 +1,364 @@
+{
+  "ID": "df1599f3-58c1-42e6-a471-334a3f82f437",
+  "Version": "2.2.6.0",
+  "Name": "p000",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 34,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/homepage/bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 35,
+            "ActionTag": -149870391,
+            "Size": {
+              "X": 768.0,
+              "Y": 1363.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/homepage/prince/prince.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "aniIdle",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 172.2686,
+              "Y": 32.624
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2243,
+              "Y": 0.0239
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 172.2686,
+            "RightMargin": 495.7314,
+            "TopMargin": 1230.376,
+            "BottomMargin": 32.624,
+            "Tag": 34,
+            "ActionTag": 466041160,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "manSpine",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/princess/princess.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "aniIdle01",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 393.4182,
+              "Y": 25.4213
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5123,
+              "Y": 0.0187
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 393.4182,
+            "RightMargin": 274.5818,
+            "TopMargin": 1237.5786,
+            "BottomMargin": 25.4213,
+            "Tag": 152,
+            "ActionTag": -612375232,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "womanSpine",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/baby/baby.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "aniChangeidle",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 376.8973,
+              "Y": 475.5256
+            },
+            "Scale": {
+              "ScaleX": 0.55,
+              "ScaleY": 0.55
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4908,
+              "Y": 0.3489
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 376.8973,
+            "RightMargin": 291.1027,
+            "TopMargin": 787.4744,
+            "BottomMargin": 475.5256,
+            "Tag": 35,
+            "ActionTag": -1545689693,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "babySpine",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/homepage/play.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 393.3363,
+              "Y": 460.2015
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5122,
+              "Y": 0.3376
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 299.8363,
+            "RightMargin": 281.1637,
+            "TopMargin": 803.7985,
+            "BottomMargin": 361.2015,
+            "Tag": 40,
+            "ActionTag": -1207058495,
+            "Size": {
+              "X": 187.0,
+              "Y": 198.0
+            },
+            "Name": "play",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/logo/logo.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "aniLoop",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 490.8419,
+              "Y": 1039.2542
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6391,
+              "Y": 0.7625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 490.8419,
+            "RightMargin": 177.1581,
+            "TopMargin": 223.7458,
+            "BottomMargin": 1039.2542,
+            "Tag": 42,
+            "ActionTag": 177032359,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "logoSpine",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "LayoutOnly": false,
+            "EditorOnly": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "layer.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 204,
+            "ActionTag": 806163258,
+            "Size": {
+              "X": 768.0,
+              "Y": 1363.0
+            },
+            "Name": "LBSprite_1",
+            "ctype": "LBSpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

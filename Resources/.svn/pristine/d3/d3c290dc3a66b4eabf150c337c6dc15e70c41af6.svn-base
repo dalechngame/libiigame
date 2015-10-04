@@ -1,0 +1,604 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p004" ID="f1f55789-99b3-472d-be17-918bd0f1c118" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="50" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="bg02" ActionTag="-1104051663" Tag="52" IconVisible="False" LeftMargin="126.5779" RightMargin="129.4221" TopMargin="227.0115" BottomMargin="226.9885" ctype="SpriteObjectData">
+            <Size X="512.0000" Y="909.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="382.5779" Y="681.4885" />
+            <Scale ScaleX="1.5107" ScaleY="1.4931" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4981" Y="0.5000" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/bg02.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="bg02-a" ActionTag="-1355133073" Tag="53" IconVisible="False" LeftMargin="258.9900" RightMargin="80.0100" TopMargin="571.6300" BottomMargin="173.3700" ctype="SpriteObjectData">
+            <Size X="429.0000" Y="618.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="473.4900" Y="482.3700" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6165" Y="0.3539" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/bg01-a.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="erhuan" ActionTag="-1296038601" Tag="126" IconVisible="True" RightMargin="768.0000" TopMargin="1363.0000" ctype="SingleNodeObjectData">
+            <Size />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
+          </AbstractNodeData>
+          <AbstractNodeData Name="princess" ActionTag="986303912" Tag="29" IconVisible="False" LeftMargin="277.5400" RightMargin="390.4600" TopMargin="1498.3201" BottomMargin="-235.3200" Skin="" Animation="" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="277.5400" Y="-235.3200" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3614" Y="-0.1726" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/princess/princess.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="curtainAnim" Visible="False" ActionTag="-743735049" Tag="100" IconVisible="False" LeftMargin="955.9490" RightMargin="-287.9490" TopMargin="1185.1320" BottomMargin="77.8680" Skin="" Animation="aniMation" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="955.9490" Y="77.8680" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="1.2447" Y="0.0571" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/p004/surgicaldrape.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="desk" ActionTag="892274934" Tag="64" IconVisible="False" LeftMargin="-1.3744" RightMargin="1.3744" TopMargin="1017.0000" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="346.0000" />
+            <AnchorPoint ScaleX="0.5000" />
+            <Position X="382.6256" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4982" />
+            <PreSize X="1.0000" Y="0.2539" />
+            <FileData Type="Normal" Path="game/P002/desk.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="layer" ActionTag="732004682" Tag="54" IconVisible="False" LeftMargin="-2.1200" RightMargin="2.1200" TopMargin="1.2200" BottomMargin="-1.2200" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1363.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="381.8800" Y="680.2800" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4972" Y="0.4991" />
+            <PreSize />
+            <FileData Type="Normal" Path="layer.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="choose" ActionTag="-75011797" Tag="55" IconVisible="False" RightMargin="568.0000" TopMargin="1163.0000" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="200.0000" Y="200.0000" />
+            <Children>
+              <AbstractNodeData Name="Transfusion_shadow" ActionTag="1941359059" Tag="20" Rotation="0.7732" RotationSkewX="0.7732" RotationSkewY="0.7846" IconVisible="False" LeftMargin="295.1630" RightMargin="-270.1630" TopMargin="-113.5981" BottomMargin="185.5981" ctype="SpriteObjectData">
+                <Size X="175.0000" Y="128.0000" />
+                <Children>
+                  <AbstractNodeData Name="Transfusion" ActionTag="-1658401217" Tag="23" Rotation="1.5306" RotationSkewX="1.5306" RotationSkewY="1.5306" IconVisible="False" LeftMargin="-2.0958" RightMargin="-1.9042" TopMargin="-5.7144" BottomMargin="4.7144" ctype="SpriteObjectData">
+                    <Size X="179.0000" Y="129.0000" />
+                    <Children>
+                      <AbstractNodeData Name="star" ActionTag="727054353" Tag="43" Rotation="2.4041" RotationSkewX="2.4041" RotationSkewY="2.4041" IconVisible="False" LeftMargin="94.3714" RightMargin="33.6286" TopMargin="82.4829" BottomMargin="0.5171" ctype="SpriteObjectData">
+                        <Size X="51.0000" Y="46.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="119.8714" Y="23.5171" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.6697" Y="0.1823" />
+                        <PreSize />
+                        <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+                        <BlendFunc Src="1" Dst="771" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="87.4042" Y="69.2144" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4995" Y="0.5407" />
+                    <PreSize />
+                    <FileData Type="Normal" Path="game/P004/drip/drip.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="382.6630" Y="249.5981" />
+                <Scale ScaleX="0.6853" ScaleY="0.6853" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="1.9133" Y="1.2480" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/drip/drip_shadow.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="oxygenMask_Shadow" ActionTag="1468492578" Tag="21" Rotation="0.6832" RotationSkewX="0.6832" RotationSkewY="0.6961" IconVisible="False" LeftMargin="479.4033" RightMargin="-386.4033" TopMargin="-96.3535" BottomMargin="213.3535" ctype="SpriteObjectData">
+                <Size X="107.0000" Y="83.0000" />
+                <Children>
+                  <AbstractNodeData Name="oxygenMask" ActionTag="-1865140829" Tag="20" IconVisible="False" LeftMargin="-4.0659" RightMargin="6.0659" TopMargin="-6.2792" BottomMargin="7.2792" ctype="SpriteObjectData">
+                    <Size X="105.0000" Y="82.0000" />
+                    <Children>
+                      <AbstractNodeData Name="star" ActionTag="-1753220567" Tag="44" Rotation="-0.6781" RotationSkewX="-0.6781" RotationSkewY="-0.6778" IconVisible="False" LeftMargin="64.0934" RightMargin="-10.0934" TopMargin="59.9331" BottomMargin="-23.9331" ctype="SpriteObjectData">
+                        <Size X="51.0000" Y="46.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="89.5934" Y="-0.9331" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.8533" Y="-0.0114" />
+                        <PreSize />
+                        <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+                        <BlendFunc Src="1" Dst="771" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="48.4341" Y="48.2792" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4527" Y="0.5817" />
+                    <PreSize />
+                    <FileData Type="Normal" Path="game/P004/oxygenMask/oxygenMask.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="532.9033" Y="254.8535" />
+                <Scale ScaleX="0.8188" ScaleY="0.8702" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="2.6645" Y="1.2743" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/oxygenMask/oxygenMask_Shadow.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="bloodLetting_shadow" ActionTag="1363677746" Tag="23" Rotation="1.9845" RotationSkewX="1.9845" RotationSkewY="1.9834" IconVisible="False" LeftMargin="176.7602" RightMargin="-95.7602" TopMargin="-111.6790" BottomMargin="198.6790" ctype="SpriteObjectData">
+                <Size X="119.0000" Y="113.0000" />
+                <Children>
+                  <AbstractNodeData Name="blood" ActionTag="1839452044" Tag="54" RotationSkewY="0.0017" IconVisible="False" LeftMargin="-0.5625" RightMargin="0.5625" TopMargin="-5.0309" BottomMargin="5.0309" ctype="SpriteObjectData">
+                    <Size X="119.0000" Y="113.0000" />
+                    <Children>
+                      <AbstractNodeData Name="star" ActionTag="2046114264" Tag="42" Rotation="-2.9042" RotationSkewX="-2.9042" RotationSkewY="-2.9042" IconVisible="False" LeftMargin="39.2583" RightMargin="28.7417" TopMargin="74.4340" BottomMargin="-7.4340" ctype="SpriteObjectData">
+                        <Size X="51.0000" Y="46.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="64.7583" Y="15.5660" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5442" Y="0.1378" />
+                        <PreSize />
+                        <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+                        <BlendFunc Src="1" Dst="771" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5499" ScaleY="0.4897" />
+                    <Position X="64.8756" Y="60.3670" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5452" Y="0.5342" />
+                    <PreSize />
+                    <FileData Type="Normal" Path="game/P004/bloodLetting/bloodLetting.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="236.2602" Y="255.1790" />
+                <Scale ScaleX="0.7874" ScaleY="0.7874" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="1.1813" Y="1.2759" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/bloodLetting/bloodLetting_shadow.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="injector_shadow" ActionTag="181911840" Tag="26" Rotation="0.6683" RotationSkewX="0.6683" RotationSkewY="0.6659" IconVisible="False" LeftMargin="645.1254" RightMargin="-549.1254" TopMargin="-125.2213" BottomMargin="211.2213" ctype="SpriteObjectData">
+                <Size X="104.0000" Y="114.0000" />
+                <Children>
+                  <AbstractNodeData Name="mazhuizhen" ActionTag="142755532" Tag="53" Rotation="1.7477" RotationSkewX="1.7477" RotationSkewY="1.7530" IconVisible="False" LeftMargin="-3.9143" RightMargin="3.9143" TopMargin="0.2872" BottomMargin="-0.2872" ctype="SpriteObjectData">
+                    <Size X="104.0000" Y="114.0000" />
+                    <Children>
+                      <AbstractNodeData Name="star" ActionTag="1797970111" Tag="50" Rotation="1.4025" RotationSkewX="1.4025" RotationSkewY="1.4025" IconVisible="False" LeftMargin="24.5515" RightMargin="28.4485" TopMargin="91.8349" BottomMargin="-23.8349" ctype="SpriteObjectData">
+                        <Size X="51.0000" Y="46.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="50.0515" Y="-0.8349" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.4813" Y="-0.0073" />
+                        <PreSize />
+                        <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+                        <BlendFunc Src="1" Dst="771" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="48.0857" Y="56.7128" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4624" Y="0.4975" />
+                    <PreSize />
+                    <FileData Type="Normal" Path="game/P004/injector/injector.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="697.1254" Y="268.2213" />
+                <Scale ScaleX="0.7221" ScaleY="0.7221" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="3.4856" Y="1.3411" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/injector/injector_shadow.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
+            <SingleColor A="255" R="255" G="0" B="0" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="gown_Shodow" ActionTag="1620734241" Tag="27" IconVisible="False" LeftMargin="24.0658" RightMargin="595.9342" TopMargin="1059.0012" BottomMargin="198.9988" ctype="SpriteObjectData">
+            <Size X="148.0000" Y="105.0000" />
+            <Children>
+              <AbstractNodeData Name="gown" ActionTag="-1839797627" Tag="28" IconVisible="False" LeftMargin="-3.5396" RightMargin="3.5396" TopMargin="-7.4838" BottomMargin="7.4838" ctype="SpriteObjectData">
+                <Size X="148.0000" Y="105.0000" />
+                <Children>
+                  <AbstractNodeData Name="star" ActionTag="-415707449" Tag="41" Rotation="6.2472" RotationSkewX="6.2472" RotationSkewY="6.2472" IconVisible="False" LeftMargin="94.4932" RightMargin="2.5068" TopMargin="64.8529" BottomMargin="-5.8529" ctype="SpriteObjectData">
+                    <Size X="51.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="119.9932" Y="17.1471" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.8108" Y="0.1633" />
+                    <PreSize />
+                    <FileData Type="Normal" Path="game/common/star.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="70.4604" Y="59.9838" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4761" Y="0.5713" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/gown.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="98.0658" Y="251.4988" />
+            <Scale ScaleX="0.7701" ScaleY="0.7701" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1277" Y="0.1845" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/gown_Shodow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="shuyebao" ActionTag="-1788843812" Tag="17" IconVisible="False" LeftMargin="-581.4581" RightMargin="949.4581" TopMargin="455.5085" BottomMargin="507.4915" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="400.0000" Y="400.0000" />
+            <Children>
+              <AbstractNodeData Name="transfusion_5" ActionTag="-1742256966" Tag="18" IconVisible="False" LeftMargin="-16.2456" RightMargin="208.2456" TopMargin="181.7141" BottomMargin="-83.7141" ctype="SpriteObjectData">
+                <Size X="208.0000" Y="302.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="87.7544" Y="67.2859" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2194" Y="0.1682" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/drip/transfusion.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="needle_6" ActionTag="110907471" Tag="19" IconVisible="False" LeftMargin="53.7124" RightMargin="-42.7124" TopMargin="422.9757" BottomMargin="-542.9757" ctype="SpriteObjectData">
+                <Size X="389.0000" Y="520.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="248.2124" Y="-282.9757" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6205" Y="-0.7074" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/drip/needle.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="-581.4581" Y="507.4915" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="-0.7571" Y="0.3723" />
+            <PreSize X="0.5208" Y="0.2935" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="needle_pin" ActionTag="-1539278328" Tag="21" RotationSkewY="0.0083" IconVisible="False" LeftMargin="303.9475" RightMargin="382.0525" TopMargin="1459.3306" BottomMargin="-142.3306" ctype="SpriteObjectData">
+            <Size X="82.0000" Y="46.0000" />
+            <Children>
+              <AbstractNodeData Name="needlepin" ActionTag="2913799" Tag="49" IconVisible="True" LeftMargin="59.5542" RightMargin="22.4458" TopMargin="11.8978" BottomMargin="34.1022" ctype="SingleNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="59.5542" Y="34.1022" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.7263" Y="0.7414" />
+                <PreSize />
+              </AbstractNodeData>
+              <AbstractNodeData Name="needle02_6_3_2" ActionTag="865240807" Tag="202" Rotation="59.1982" RotationSkewX="59.1982" RotationSkewY="59.2093" IconVisible="False" LeftMargin="-815.5706" RightMargin="200.5706" TopMargin="-397.7079" BottomMargin="-319.2921" ctype="SpriteObjectData">
+                <Size X="697.0000" Y="763.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="-467.0706" Y="62.2079" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-5.6960" Y="1.3523" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/drip/needle02.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="needle01_1_0" ActionTag="416935003" Tag="32" RotationSkewY="-0.0004" IconVisible="False" LeftMargin="-1.0912" RightMargin="1.0912" TopMargin="0.2548" BottomMargin="-0.2548" ctype="SpriteObjectData">
+                <Size X="82.0000" Y="46.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="39.9088" Y="22.7452" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4867" Y="0.4945" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/drip/needle01.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="344.9475" Y="-119.3306" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4492" Y="-0.0875" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/drip/needle01.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="oxygenMask_pin" ActionTag="-1211923551" Tag="47" IconVisible="False" LeftMargin="532.3492" RightMargin="161.6508" TopMargin="1585.8837" BottomMargin="-338.8837" ctype="SpriteObjectData">
+            <Size X="74.0000" Y="116.0000" />
+            <Children>
+              <AbstractNodeData Name="needle02_20" ActionTag="-829240534" Tag="48" IconVisible="False" LeftMargin="-616.0339" RightMargin="-6.9661" TopMargin="103.2699" BottomMargin="-750.2699" ctype="SpriteObjectData">
+                <Size X="697.0000" Y="763.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="-267.5339" Y="-368.7699" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-3.6153" Y="-3.1791" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/drip/needle02.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="569.3492" Y="-280.8837" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7413" Y="-0.2061" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/oxygenMask/oxygenMask_On.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="slide" ActionTag="-1280304928" Tag="66" IconVisible="False" LeftMargin="314.8610" RightMargin="273.1390" TopMargin="773.0072" BottomMargin="460.9928" ctype="SpriteObjectData">
+            <Size X="180.0000" Y="129.0000" />
+            <Children>
+              <AbstractNodeData Name="bloodslide" ActionTag="-1444263072" Tag="68" IconVisible="False" LeftMargin="52.8416" RightMargin="59.1584" TopMargin="34.8629" BottomMargin="49.1371" ctype="SpriteObjectData">
+                <Size X="68.0000" Y="45.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="86.8416" Y="71.6371" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4825" Y="0.5553" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/microscope/blood.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="404.8610" Y="525.4928" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5272" Y="0.3855" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/microscope/slide.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="bloodLettingAnim" ActionTag="2135583319" Tag="54" Rotation="165.0000" RotationSkewX="165.0000" RotationSkewY="165.0000" IconVisible="False" LeftMargin="1019.2625" RightMargin="-351.2625" TopMargin="900.4875" BottomMargin="362.5125" Skin="" Animation="" Loop="False" AutoPlay="False" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <Children>
+              <AbstractNodeData Name="pin_hand" ActionTag="294326131" Tag="67" Rotation="60.0000" RotationSkewX="60.0000" RotationSkewY="60.0000" IconVisible="False" LeftMargin="-83.1115" RightMargin="181.1115" TopMargin="-77.5278" BottomMargin="175.5278" ctype="SpriteObjectData">
+                <Size X="2.0000" Y="2.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="-82.1115" Y="176.5278" />
+                <Scale ScaleX="50.8524" ScaleY="34.9954" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-0.8211" Y="1.7653" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/none.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="1019.2625" Y="362.5125" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="1.3272" Y="0.2660" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/p004/bloodLetting.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="bloodLettSpr" ActionTag="-900657636" Tag="40" Rotation="-38.9962" RotationSkewX="-38.9962" RotationSkewY="-38.9931" IconVisible="False" LeftMargin="171.6950" RightMargin="528.3050" TopMargin="1466.7925" BottomMargin="-260.7925" ctype="SpriteObjectData">
+            <Size X="68.0000" Y="157.0000" />
+            <Children>
+              <AbstractNodeData Name="bloodpin" ActionTag="1265262941" Tag="43" IconVisible="True" LeftMargin="33.2415" RightMargin="34.7585" TopMargin="-66.0238" BottomMargin="223.0238" ctype="SingleNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="33.2415" Y="223.0238" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4888" Y="1.4205" />
+                <PreSize />
+              </AbstractNodeData>
+              <AbstractNodeData Name="bloodLetting_Empty003_3" ActionTag="-1568504138" Tag="42" IconVisible="False" LeftMargin="10.5918" RightMargin="11.4082" TopMargin="-66.8528" BottomMargin="53.8528" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="170.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="33.5918" Y="138.8528" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4940" Y="0.8844" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/bloodLetting/bloodLetting_Empty003.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="205.6950" Y="-182.2925" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2678" Y="-0.1337" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/bloodLetting/bloodLetting_Empty002.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="transfusionAnim_layer" ActionTag="-1523888752" Tag="48" IconVisible="False" LeftMargin="-141.8879" RightMargin="709.8879" TopMargin="971.0474" BottomMargin="191.9526" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="200.0000" Y="200.0000" />
+            <Children>
+              <AbstractNodeData Name="transfusionAnim" ActionTag="-2100755914" Tag="46" IconVisible="False" LeftMargin="-353.5638" RightMargin="453.5638" TopMargin="326.4705" BottomMargin="-226.4705" Skin="" Animation="" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+                <Size X="100.0000" Y="100.0000" />
+                <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+                <AnchorPoint />
+                <Position X="-353.5638" Y="-226.4705" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-1.7678" Y="-1.1324" />
+                <PreSize />
+                <FileData Type="Addin" Path="lbspine.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+                <JsonFile Type="Normal" Path="game/skeleton/p004/transfusion.json" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="-141.8879" Y="191.9526" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="-0.1847" Y="0.1408" />
+            <PreSize />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="injectorAnimAnchor" ActionTag="-1788285467" Tag="59" IconVisible="False" LeftMargin="980.9146" RightMargin="-412.9146" TopMargin="1135.7582" BottomMargin="27.2418" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="200.0000" Y="200.0000" />
+            <Children>
+              <AbstractNodeData Name="injectorAnim" ActionTag="1783491385" Tag="51" Rotation="142.0042" RotationSkewX="142.0042" RotationSkewY="141.9956" IconVisible="False" LeftMargin="-66.0103" RightMargin="166.0103" TopMargin="12.4078" BottomMargin="87.5922" Skin="" Animation="" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+                <Size X="100.0000" Y="100.0000" />
+                <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+                <Children>
+                  <AbstractNodeData Name="pin_hand" ActionTag="-1884438720" Tag="60" Rotation="84.5072" RotationSkewX="84.5072" RotationSkewY="84.5071" IconVisible="False" LeftMargin="0.4304" RightMargin="97.5696" TopMargin="59.7643" BottomMargin="38.2357" ctype="SpriteObjectData">
+                    <Size X="2.0000" Y="2.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="1.4304" Y="39.2357" />
+                    <Scale ScaleX="38.0711" ScaleY="20.8910" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.0143" Y="0.3924" />
+                    <PreSize />
+                    <FileData Type="Normal" Path="game/P004/none.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint />
+                <Position X="-66.0103" Y="87.5922" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-0.3301" Y="0.4380" />
+                <PreSize />
+                <FileData Type="Addin" Path="lbspine.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+                <JsonFile Type="Normal" Path="game/skeleton/p004/injector_Full.json" Plist="" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="980.9146" Y="27.2418" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="1.2772" Y="0.0200" />
+            <PreSize />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="injector" ActionTag="1239957296" Tag="53" Rotation="-36.9993" RotationSkewX="-36.9993" RotationSkewY="-36.9993" IconVisible="False" LeftMargin="713.2291" RightMargin="25.7709" TopMargin="1471.5508" BottomMargin="-158.5508" ctype="SpriteObjectData">
+            <Size X="29.0000" Y="50.0000" />
+            <Children>
+              <AbstractNodeData Name="bloodpin_0" ActionTag="-1279568767" Tag="57" IconVisible="True" LeftMargin="14.3264" RightMargin="14.6736" TopMargin="-54.0840" BottomMargin="104.0840" ctype="SingleNodeObjectData">
+                <Size />
+                <AnchorPoint />
+                <Position X="14.3264" Y="104.0840" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4940" Y="2.0817" />
+                <PreSize />
+              </AbstractNodeData>
+              <AbstractNodeData Name="injector002_4" ActionTag="-1920478877" Tag="54" IconVisible="False" LeftMargin="-23.3783" RightMargin="-25.6217" TopMargin="13.3143" BottomMargin="-102.3143" ctype="SpriteObjectData">
+                <Size X="78.0000" Y="139.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="15.6217" Y="-32.8143" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5387" Y="-0.6563" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/injector/injector002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="injector003_2" ActionTag="-812892559" Tag="52" IconVisible="False" LeftMargin="-18.7409" RightMargin="-29.2591" TopMargin="-58.2917" BottomMargin="-27.7083" ctype="SpriteObjectData">
+                <Size X="77.0000" Y="136.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="19.7591" Y="40.2917" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6813" Y="0.8058" />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/injector/injector003.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="727.7291" Y="-133.5508" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.9476" Y="-0.0980" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/injector/injector001.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="hintarrow" ActionTag="279729533" Tag="91" Rotation="90.0000" RotationSkewX="90.0000" RotationSkewY="90.0000" IconVisible="False" LeftMargin="945.4698" RightMargin="-291.4698" TopMargin="453.4952" BottomMargin="815.5048" ctype="SpriteObjectData">
+            <Size X="114.0000" Y="94.0000" />
+            <AnchorPoint ScaleX="0.8234" ScaleY="0.4649" />
+            <Position X="1039.3374" Y="859.2054" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="1.3533" Y="0.6304" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/common/arrow001.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

@@ -1,0 +1,659 @@
+{
+  "ID": "7115da0f-4266-4723-801d-c7920c6a3e29",
+  "Version": "2.2.6.0",
+  "Name": "p007_milk",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 250,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/frame.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 385.0195,
+              "Y": 678.3953
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5013,
+              "Y": 0.4977
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 46.5195,
+            "RightMargin": 44.4805,
+            "TopMargin": 372.6047,
+            "BottomMargin": 366.3953,
+            "Tag": 252,
+            "ActionTag": -1621502455,
+            "Size": {
+              "X": 677.0,
+              "Y": 624.0
+            },
+            "Name": "frame",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/diaperBig.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 384.0,
+              "Y": 681.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 83.0,
+            "RightMargin": 83.0,
+            "TopMargin": 341.0,
+            "BottomMargin": 341.0,
+            "Tag": 41,
+            "ActionTag": -1025406401,
+            "Size": {
+              "X": 602.0,
+              "Y": 681.0
+            },
+            "Name": "base",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/corner_Off001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 260.0302,
+              "Y": 850.813
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3386,
+              "Y": 0.6242
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 190.5302,
+            "RightMargin": 438.4698,
+            "TopMargin": 381.187,
+            "BottomMargin": 719.813,
+            "Tag": 42,
+            "ActionTag": 1026118025,
+            "Size": {
+              "X": 139.0,
+              "Y": 262.0
+            },
+            "Name": "c001_001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/corner_On001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 174.2545,
+              "Y": 844.4902
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2269,
+              "Y": 0.6196
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 103.7545,
+            "RightMargin": 523.2455,
+            "TopMargin": 409.0098,
+            "BottomMargin": 734.9902,
+            "Tag": 48,
+            "ActionTag": -1911451528,
+            "Size": {
+              "X": 141.0,
+              "Y": 219.0
+            },
+            "Name": "c001_002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 202.2748,
+              "Y": 864.7258
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2634,
+              "Y": 0.6344
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 129.2748,
+            "RightMargin": 492.7252,
+            "TopMargin": 448.2742,
+            "BottomMargin": 814.7258,
+            "Tag": 53,
+            "ActionTag": -1285863139,
+            "Size": {
+              "X": 146.0,
+              "Y": 100.0
+            },
+            "Name": "c001_003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/corner_Off002.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 495.4203,
+              "Y": 853.9631
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6451,
+              "Y": 0.6265
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 425.9203,
+            "RightMargin": 203.0797,
+            "TopMargin": 375.0369,
+            "BottomMargin": 719.9631,
+            "Tag": 45,
+            "ActionTag": -1504883166,
+            "Size": {
+              "X": 139.0,
+              "Y": 268.0
+            },
+            "Name": "c002_001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/corner_On002.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 588.2793,
+              "Y": 845.8339
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.766,
+              "Y": 0.6206
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 517.2793,
+            "RightMargin": 108.7207,
+            "TopMargin": 407.6661,
+            "BottomMargin": 736.3339,
+            "Tag": 50,
+            "ActionTag": 1102609424,
+            "Size": {
+              "X": 142.0,
+              "Y": 219.0
+            },
+            "Name": "c002_002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 557.2583,
+              "Y": 864.4588
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7256,
+              "Y": 0.6342
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 484.2583,
+            "RightMargin": 137.7417,
+            "TopMargin": 448.5412,
+            "BottomMargin": 814.4588,
+            "Tag": 54,
+            "ActionTag": 999497406,
+            "Size": {
+              "X": 146.0,
+              "Y": 100.0
+            },
+            "Name": "c002_003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/corner_Off004.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 280.3054,
+              "Y": 515.704
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.365,
+              "Y": 0.3784
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 181.8054,
+            "RightMargin": 389.1946,
+            "TopMargin": 736.796,
+            "BottomMargin": 405.204,
+            "Tag": 47,
+            "ActionTag": -1285810554,
+            "Size": {
+              "X": 197.0,
+              "Y": 221.0
+            },
+            "Name": "c003_001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/corner_On004.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 155.602,
+              "Y": 526.6166
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2026,
+              "Y": 0.3864
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 81.102,
+            "RightMargin": 537.898,
+            "TopMargin": 707.8834,
+            "BottomMargin": 398.1166,
+            "Tag": 52,
+            "ActionTag": -575980573,
+            "Size": {
+              "X": 149.0,
+              "Y": 257.0
+            },
+            "Name": "c003_002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 188.6276,
+              "Y": 523.6542
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2456,
+              "Y": 0.3842
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 115.6276,
+            "RightMargin": 506.3724,
+            "TopMargin": 789.3458,
+            "BottomMargin": 473.6542,
+            "Tag": 55,
+            "ActionTag": 1113492833,
+            "Size": {
+              "X": 146.0,
+              "Y": 100.0
+            },
+            "Name": "c003_003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/corner_Off003.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 476.7145,
+              "Y": 523.4947
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6207,
+              "Y": 0.3841
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 382.2145,
+            "RightMargin": 196.7855,
+            "TopMargin": 729.5053,
+            "BottomMargin": 413.4947,
+            "Tag": 46,
+            "ActionTag": 1465606573,
+            "Size": {
+              "X": 189.0,
+              "Y": 220.0
+            },
+            "Name": "c004_001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/diaper/corner_On003.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 602.9751,
+              "Y": 529.7336
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7851,
+              "Y": 0.3887
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 521.4751,
+            "RightMargin": 83.5249,
+            "TopMargin": 704.7664,
+            "BottomMargin": 401.2336,
+            "Tag": 51,
+            "ActionTag": 1376922765,
+            "Size": {
+              "X": 163.0,
+              "Y": 257.0
+            },
+            "Name": "c004_002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 560.3027,
+              "Y": 516.4316
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7296,
+              "Y": 0.3789
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 487.3027,
+            "RightMargin": 134.6973,
+            "TopMargin": 796.5684,
+            "BottomMargin": 466.4316,
+            "Tag": 56,
+            "ActionTag": -703362072,
+            "Size": {
+              "X": 146.0,
+              "Y": 100.0
+            },
+            "Name": "c004_003",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

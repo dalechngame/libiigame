@@ -1,0 +1,301 @@
+{
+  "ID": "220e5c0d-51a4-42ab-8c3e-f0e9048fa648",
+  "Version": "2.2.6.0",
+  "Name": "finishAndPrizeDialog",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 23,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/congratulations/congratulations.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 382.6758,
+              "Y": 701.4147
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4983,
+              "Y": 0.5146
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 78.6758,
+            "RightMargin": 81.3242,
+            "TopMargin": 407.0853,
+            "BottomMargin": 446.9147,
+            "Tag": 25,
+            "ActionTag": -971876802,
+            "Size": {
+              "X": 608.0,
+              "Y": 509.0
+            },
+            "Name": "frame",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/main/level1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 383.3481,
+              "Y": 653.4419
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.4794
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 257.8481,
+            "RightMargin": 259.1519,
+            "TopMargin": 593.0581,
+            "BottomMargin": 536.9419,
+            "Tag": 54,
+            "ActionTag": 7964749,
+            "Size": {
+              "X": 251.0,
+              "Y": 233.0
+            },
+            "Name": "scenePic",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/congratulations/OK.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 384.971,
+              "Y": 452.9693
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5013,
+              "Y": 0.3323
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 311.471,
+            "RightMargin": 309.529,
+            "TopMargin": 869.0307,
+            "BottomMargin": 411.9693,
+            "Tag": 33,
+            "ActionTag": 417526607,
+            "Size": {
+              "X": 147.0,
+              "Y": 82.0
+            },
+            "Name": "ok",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "particles/finish.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 389.5089,
+              "Y": 392.2015
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5072,
+              "Y": 0.2877
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 389.5089,
+            "RightMargin": 378.4911,
+            "TopMargin": 970.7985,
+            "BottomMargin": 392.2015,
+            "Tag": 137,
+            "ActionTag": 1889182365,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "finishTaskParticle",
+            "ctype": "ParticleObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.1395,
+              "Y": 48.2322
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0002,
+              "Y": 0.0354
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2935
+            },
+            "LeftMargin": -0.1395,
+            "RightMargin": 0.1395,
+            "TopMargin": 914.7678,
+            "BottomMargin": 48.2322,
+            "Tag": 73,
+            "ActionTag": 1814880804,
+            "Size": {
+              "X": 768.0,
+              "Y": 400.0
+            },
+            "Name": "noTouchRect",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/congratulations/congratulations01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 382.0436,
+              "Y": 742.3234
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4975,
+              "Y": 0.5446
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 313.0436,
+            "RightMargin": 316.9564,
+            "TopMargin": 570.1766,
+            "BottomMargin": 691.8234,
+            "Tag": 53,
+            "ActionTag": -365428137,
+            "Size": {
+              "X": 138.0,
+              "Y": 101.0
+            },
+            "Name": "congratulations",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

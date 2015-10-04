@@ -1,0 +1,20 @@
+
+pillow004.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 268, 248
+  orig: 270, 250
+  offset: 1, 1
+  index: -1
+shan3
+  rotate: false
+  xy: 272, 36
+  size: 232, 214
+  orig: 234, 216
+  offset: 1, 1
+  index: -1

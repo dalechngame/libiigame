@@ -1,0 +1,76 @@
+
+bultrasonicscreen.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_anniu1
+  rotate: false
+  xy: 2, 2
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+b_anniu2
+  rotate: false
+  xy: 364, 63
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+b_anniu4
+  rotate: false
+  xy: 364, 63
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+b_anniu3
+  rotate: false
+  xy: 364, 63
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+b_pingmu_di
+  rotate: false
+  xy: 2, 27
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+b_pingmu_di2
+  rotate: false
+  xy: 183, 27
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+b_pingmu_guang
+  rotate: false
+  xy: 841, 121
+  size: 146, 85
+  orig: 146, 85
+  offset: 0, 0
+  index: -1
+b_pingmu_hei
+  rotate: false
+  xy: 364, 84
+  size: 157, 122
+  orig: 157, 122
+  offset: 0, 0
+  index: -1
+b_pingmu_shaomiao
+  rotate: false
+  xy: 523, 84
+  size: 157, 122
+  orig: 157, 122
+  offset: 0, 0
+  index: -1
+b_pingmu_shaomiao2
+  rotate: false
+  xy: 682, 84
+  size: 157, 122
+  orig: 157, 122
+  offset: 0, 0
+  index: -1

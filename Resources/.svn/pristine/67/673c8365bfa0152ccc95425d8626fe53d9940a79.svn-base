@@ -1,0 +1,46 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p005_cloth" ID="787f9893-9265-4205-89b4-879d5577ec32" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="161" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="cloth3" ActionTag="-31032098" Tag="174" IconVisible="False" LeftMargin="177.3441" RightMargin="179.6559" TopMargin="183.5520" BottomMargin="428.4479" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="382.8441" Y="803.9479" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4985" Y="0.5898" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="cloth3_1" ActionTag="1375113321" Tag="175" IconVisible="False" LeftMargin="12.6367" RightMargin="375.3633" TopMargin="181.8625" BottomMargin="422.1375" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="202.6367" Y="801.6375" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2638" Y="0.5881" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="cloth3_2" ActionTag="923483950" Tag="177" IconVisible="False" LeftMargin="393.1224" RightMargin="-5.1224" TopMargin="181.3105" BottomMargin="422.6895" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="583.1224" Y="802.1895" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7593" Y="0.5885" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

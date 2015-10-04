@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_unlockAll_</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgeteverything</string>
+	</dict>
+	
+	<key>_unlockAds_</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbnoads</string>
+	</dict>
+
+	<key>Everything</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgeteverything</string>
+	</dict>
+
+	<key>AccessoriesAndCrown</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+	</dict>
+
+	<key>AllGameAndClothingAndNipple</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetallgameandnipple</string>
+	</dict>
+
+	<key>NoAds</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbnoads</string>
+	</dict>
+
+    <key>houseDecoration001</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+	</dict>
+
+    <key>houseDecoration002</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+	</dict>
+
+    <key>houseDecoration003</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+	</dict>
+
+    <key>houseDecoration004</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+	</dict>
+
+    <key>houseDecoration005</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+	</dict>
+
+    <key>houseDecoration006</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+	</dict>
+
+    <key>houseDecoration007</key>
+	<dict>
+		<key>productId</key>
+		<string>lb20150708pnbgetdecorationandcrown</string>
+	</dict>
+
+</dict>
+</plist>

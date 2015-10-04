@@ -1,0 +1,188 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="store" ID="77f0976b-dd5c-41d7-ad67-e09a12d66000" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="24" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="noTouchRect" ActionTag="398228283" Tag="27" IconVisible="False" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="768.0000" Y="1363.0000" />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="1.0000" Y="1.0000" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="storeWindow" ActionTag="-1351965961" Tag="25" IconVisible="False" LeftMargin="48.4001" RightMargin="-20.4001" TopMargin="343.3216" BottomMargin="380.6784" ctype="SpriteObjectData">
+            <Size X="740.0000" Y="639.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="418.4001" Y="700.1784" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5448" Y="0.5137" />
+            <PreSize />
+            <FileData Type="Normal" Path="store/storeWindow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="buyAllBotton" ActionTag="1140309685" Tag="26" IconVisible="False" LeftMargin="93.4052" RightMargin="204.5948" TopMargin="461.8212" BottomMargin="671.1788" ctype="SpriteObjectData">
+            <Size X="470.0000" Y="230.0000" />
+            <Children>
+              <AbstractNodeData Name="price003" ActionTag="-28317386" Tag="11" IconVisible="False" LeftMargin="393.4579" RightMargin="76.5421" TopMargin="152.5974" BottomMargin="77.4026" FontSize="20" LabelText="&#xA;" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                <Size />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="393.4579" Y="77.4026" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8371" Y="0.3365" />
+                <PreSize />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="255" G="127" B="80" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="328.4052" Y="786.1788" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4276" Y="0.5768" />
+            <PreSize />
+            <FileData Type="Normal" Path="store/buyAllBotton.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="buyClothBotton" ActionTag="1666456582" Tag="27" IconVisible="False" LeftMargin="109.1064" RightMargin="319.8936" TopMargin="758.5197" BottomMargin="453.4803" ctype="SpriteObjectData">
+            <Size X="339.0000" Y="151.0000" />
+            <Children>
+              <AbstractNodeData Name="price001" ActionTag="-1493312712" Tag="9" IconVisible="False" LeftMargin="253.5347" RightMargin="85.4653" TopMargin="99.4816" BottomMargin="51.5184" FontSize="20" LabelText="&#xA;" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                <Size />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="253.5347" Y="51.5184" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.7479" Y="0.3412" />
+                <PreSize />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="255" G="127" B="80" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="purchase001" ActionTag="-1762480109" Tag="43" VisibleForFrame="False" IconVisible="False" RightMargin="-5.0000" TopMargin="-1.0000" ctype="SpriteObjectData">
+                <Size X="344.0000" Y="152.0000" />
+                <AnchorPoint />
+                <Position />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="store/buyClothBotton01.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="278.6064" Y="528.9803" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3628" Y="0.3881" />
+            <PreSize />
+            <FileData Type="Normal" Path="store/buyClothBotton.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="buyDecorationBotton" ActionTag="1291081563" Tag="28" IconVisible="False" LeftMargin="361.7015" RightMargin="61.2985" TopMargin="666.3186" BottomMargin="571.6814" ctype="SpriteObjectData">
+            <Size X="345.0000" Y="125.0000" />
+            <Children>
+              <AbstractNodeData Name="price002" ActionTag="-2071970572" Tag="10" IconVisible="False" LeftMargin="81.7823" RightMargin="263.2177" TopMargin="92.6684" BottomMargin="32.3316" FontSize="20" LabelText="&#xA;" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                <Size />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="81.7823" Y="32.3316" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2371" Y="0.2587" />
+                <PreSize />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="255" G="127" B="80" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="purchase002" ActionTag="773583294" Tag="44" VisibleForFrame="False" IconVisible="False" TopMargin="-1.0000" ctype="SpriteObjectData">
+                <Size X="345.0000" Y="126.0000" />
+                <AnchorPoint />
+                <Position />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="store/buyDecorationBotton01.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="534.2015" Y="634.1814" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6956" Y="0.4653" />
+            <PreSize />
+            <FileData Type="Normal" Path="store/buyDecorationBotton.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="close" ActionTag="1404289132" Tag="29" IconVisible="False" LeftMargin="616.7611" RightMargin="88.2389" TopMargin="433.0002" BottomMargin="865.9998" ctype="SpriteObjectData">
+            <Size X="63.0000" Y="64.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="648.2611" Y="897.9998" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8441" Y="0.6588" />
+            <PreSize />
+            <FileData Type="Normal" Path="store/close.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="noAddsBotton" ActionTag="-2070817243" Tag="30" IconVisible="False" LeftMargin="484.4122" RightMargin="136.5878" TopMargin="898.2219" BottomMargin="382.7781" ctype="SpriteObjectData">
+            <Size X="147.0000" Y="82.0000" />
+            <Children>
+              <AbstractNodeData Name="price004" ActionTag="-117140077" Tag="36" IconVisible="False" LeftMargin="72.9309" RightMargin="74.0691" TopMargin="57.5684" BottomMargin="24.4316" FontSize="20" LabelText="" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineSize="1" ShadowOffsetX="2" ShadowOffsetY="-2" ctype="TextObjectData">
+                <Size />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="72.9309" Y="24.4316" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4961" Y="0.2979" />
+                <PreSize />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="255" G="127" B="80" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="purchase004" ActionTag="-1475961499" Tag="45" VisibleForFrame="False" IconVisible="False" ctype="SpriteObjectData">
+                <Size X="147.0000" Y="82.0000" />
+                <AnchorPoint />
+                <Position />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="store/noAddsBotton01.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="557.9122" Y="423.7781" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7264" Y="0.3109" />
+            <PreSize />
+            <FileData Type="Normal" Path="store/noAddsBotton.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="restore" ActionTag="-1845320247" Tag="31" IconVisible="False" LeftMargin="135.2673" RightMargin="485.7327" TopMargin="898.2219" BottomMargin="382.7781" ctype="SpriteObjectData">
+            <Size X="147.0000" Y="82.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="208.7673" Y="423.7781" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2718" Y="0.3109" />
+            <PreSize />
+            <FileData Type="Normal" Path="store/restoreBotton.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

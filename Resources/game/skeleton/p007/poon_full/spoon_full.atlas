@@ -1,0 +1,20 @@
+
+spoon_full.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shaozi-fen
+  rotate: false
+  xy: 157, 22
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+shaozi-kong
+  rotate: false
+  xy: 2, 2
+  size: 153, 54
+  orig: 153, 54
+  offset: 0, 0
+  index: -1

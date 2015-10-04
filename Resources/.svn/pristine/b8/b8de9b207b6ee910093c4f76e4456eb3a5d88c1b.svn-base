@@ -1,0 +1,112 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p005_diaper" ID="4c5dc371-5006-4b0c-8265-1f7beb1af653" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="150" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="bg" ActionTag="-1517453541" Tag="151" IconVisible="False" LeftMargin="127.2469" RightMargin="128.7531" TopMargin="225.8624" BottomMargin="228.1376" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="383.2469" Y="682.6376" />
+            <Scale ScaleX="1.4885" ScaleY="1.4885" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4990" Y="0.5008" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="table" ActionTag="334506122" Tag="235" IconVisible="False" LeftMargin="1.4194" RightMargin="-1.4194" TopMargin="875.9720" BottomMargin="3.0280" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="484.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="385.4194" Y="245.0280" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5018" Y="0.1798" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P007/table.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="layer" ActionTag="-2131687311" Tag="153" IconVisible="False" LeftMargin="1.1031" RightMargin="-1.1031" TopMargin="2.3755" BottomMargin="-2.3755" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1363.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="385.1031" Y="679.1245" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5014" Y="0.4983" />
+            <PreSize />
+            <FileData Type="Normal" Path="layer.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="comb" ActionTag="2091345355" Tag="154" Rotation="6.0285" RotationSkewX="6.0285" RotationSkewY="6.0285" IconVisible="False" LeftMargin="394.2537" RightMargin="189.7463" TopMargin="990.8044" BottomMargin="187.1955" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="486.2537" Y="279.6955" />
+            <Scale ScaleX="0.7000" ScaleY="0.7000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6331" Y="0.2052" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="injector_1" ActionTag="697983650" Tag="155" Rotation="15.3017" RotationSkewX="15.3017" RotationSkewY="15.2980" IconVisible="False" LeftMargin="684.4851" RightMargin="18.5149" TopMargin="1039.2351" BottomMargin="161.7649" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="716.9851" Y="242.7649" />
+            <Scale ScaleX="0.8000" ScaleY="0.8000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.9336" Y="0.1781" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="jar" ActionTag="1379557905" Tag="156" IconVisible="False" LeftMargin="27.9862" RightMargin="595.0138" TopMargin="1060.8898" BottomMargin="194.1102" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="100.4862" Y="248.1102" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1308" Y="0.1820" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="cloth" ActionTag="-811777418" Tag="157" IconVisible="False" LeftMargin="543.0017" RightMargin="75.9983" TopMargin="1030.8649" BottomMargin="172.1352" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="617.5017" Y="252.1352" />
+            <Scale ScaleX="0.8000" ScaleY="0.8578" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8040" Y="0.1850" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="diapers_3" ActionTag="-1557417866" Tag="158" Rotation="10.2713" RotationSkewX="10.2713" RotationSkewY="10.2985" IconVisible="False" LeftMargin="25.9095" RightMargin="114.0905" TopMargin="893.9871" BottomMargin="26.0129" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="339.9095" Y="247.5129" />
+            <Scale ScaleX="0.2726" ScaleY="0.2189" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4426" Y="0.1816" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="diapers_1" ActionTag="1013042634" Tag="160" IconVisible="False" LeftMargin="88.2770" RightMargin="76.7230" TopMargin="293.7935" BottomMargin="386.2066" ctype="SpriteObjectData">
+            <Size X="46.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="389.7770" Y="727.7066" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5075" Y="0.5339" />
+            <PreSize />
+            <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

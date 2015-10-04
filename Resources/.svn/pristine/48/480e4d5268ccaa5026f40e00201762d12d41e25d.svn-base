@@ -1,0 +1,1115 @@
+{
+  "ID": "6f6fbe54-00a3-4f86-bdc1-9f979134ae25",
+  "Version": "2.2.6.0",
+  "Name": "P007_Diapers",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/frame.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 384.0,
+              "Y": 681.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 58.5,
+            "RightMargin": 58.5,
+            "TopMargin": 387.5,
+            "BottomMargin": 387.5,
+            "Tag": 34,
+            "ActionTag": -123340273,
+            "Size": {
+              "X": 651.0,
+              "Y": 588.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/jarFront/jarBack02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 202.6,
+              "Y": 759.2188
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2638,
+              "Y": 0.557
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 128.6,
+            "RightMargin": 491.4,
+            "TopMargin": 582.2812,
+            "BottomMargin": 737.7188,
+            "Tag": 48,
+            "ActionTag": -2101032641,
+            "Size": {
+              "X": 148.0,
+              "Y": 43.0
+            },
+            "Name": "jarBack",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 201.5294,
+              "Y": 753.9406
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2624,
+              "Y": 0.5531
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 178.5294,
+            "RightMargin": 543.4706,
+            "TopMargin": 586.0594,
+            "BottomMargin": 730.9406,
+            "Tag": 56,
+            "ActionTag": 1092519661,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "jarIn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/jarFront/jarFront.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 202.1967,
+              "Y": 621.9281
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2633,
+              "Y": 0.4563
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 127.6967,
+            "RightMargin": 491.3033,
+            "TopMargin": 618.0719,
+            "BottomMargin": 498.9281,
+            "Tag": 46,
+            "ActionTag": 205767676,
+            "Size": {
+              "X": 149.0,
+              "Y": 246.0
+            },
+            "Name": "jar",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/jarFront/jarBack01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 203.1027,
+              "Y": 740.6965
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2645,
+              "Y": 0.5434
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 129.1027,
+            "RightMargin": 490.8973,
+            "TopMargin": 593.8035,
+            "BottomMargin": 712.1965,
+            "Tag": 63,
+            "ActionTag": 646879106,
+            "Size": {
+              "X": 148.0,
+              "Y": 57.0
+            },
+            "Name": "jarFront",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/jarFront/milkPowder.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 203.6752,
+              "Y": 743.0192
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2652,
+              "Y": 0.5451
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 129.6752,
+            "RightMargin": 490.3248,
+            "TopMargin": 594.9808,
+            "BottomMargin": 718.0192,
+            "Tag": 47,
+            "ActionTag": -1181891919,
+            "Size": {
+              "X": 148.0,
+              "Y": 50.0
+            },
+            "Name": "jarMilk",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/jarFront/s05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 378.1628,
+              "Y": 579.8186
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4924,
+              "Y": 0.4254
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 302.1628,
+            "RightMargin": 313.8372,
+            "TopMargin": 745.1814,
+            "BottomMargin": 541.8186,
+            "Tag": 57,
+            "ActionTag": 345471506,
+            "Size": {
+              "X": 152.0,
+              "Y": 76.0
+            },
+            "Name": "jarLid_s",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/jarFront/jarCover.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 203.9575,
+              "Y": 750.2699
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2656,
+              "Y": 0.5505
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 128.4575,
+            "RightMargin": 488.5425,
+            "TopMargin": 575.2301,
+            "BottomMargin": 712.7699,
+            "Tag": 49,
+            "ActionTag": 1701344057,
+            "Size": {
+              "X": 151.0,
+              "Y": 75.0
+            },
+            "Name": "jarLid",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/feeder/feederBack.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 514.48,
+              "Y": 633.42
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6699,
+              "Y": 0.4647
+            },
+            "PreSize": {
+              "X": 0.1341,
+              "Y": 0.1365
+            },
+            "LeftMargin": 462.98,
+            "RightMargin": 202.02,
+            "TopMargin": 636.58,
+            "BottomMargin": 540.42,
+            "Tag": 53,
+            "ActionTag": -922153505,
+            "Size": {
+              "X": 103.0,
+              "Y": 186.0
+            },
+            "Name": "feederBack",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/feeder/water.png",
+              "Plist": ""
+            },
+            "Scale9Width": 91,
+            "Scale9Height": 122,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 513.64,
+              "Y": 616.63
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6688,
+              "Y": 0.4524
+            },
+            "PreSize": {
+              "X": 0.1185,
+              "Y": 0.0895
+            },
+            "LeftMargin": 468.14,
+            "RightMargin": 208.86,
+            "TopMargin": 685.37,
+            "BottomMargin": 555.63,
+            "Tag": 46,
+            "ActionTag": 915706838,
+            "Size": {
+              "X": 91.0,
+              "Y": 122.0
+            },
+            "Name": "feederWater",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/feeder/milk.png",
+              "Plist": ""
+            },
+            "Scale9Width": 84,
+            "Scale9Height": 125,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 517.42,
+              "Y": 615.23
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6737,
+              "Y": 0.4514
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0917
+            },
+            "LeftMargin": 475.42,
+            "RightMargin": 208.58,
+            "TopMargin": 685.27,
+            "BottomMargin": 552.73,
+            "Tag": 48,
+            "ActionTag": 281061724,
+            "Size": {
+              "X": 84.0,
+              "Y": 125.0
+            },
+            "Name": "feederMilk",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/p007/poon_full/spoon_full.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 551.33,
+              "Y": 795.46
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7179,
+              "Y": 0.5836
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 551.33,
+            "RightMargin": 116.67,
+            "TopMargin": 467.54,
+            "BottomMargin": 795.46,
+            "Tag": 51,
+            "ActionTag": -1955220938,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "spoonSkeleton",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/feeder/keli.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 520.0,
+              "Y": 615.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6771,
+              "Y": 0.4516
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 495.5,
+            "RightMargin": 223.5,
+            "TopMargin": 712.5,
+            "BottomMargin": 580.5,
+            "Tag": 57,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P007/feeder/keli.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 14.0339,
+                  "Y": 55.6259
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2864,
+                  "Y": 0.7947
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -10.4661,
+                "RightMargin": 10.4661,
+                "TopMargin": -20.6259,
+                "BottomMargin": 20.6259,
+                "Tag": 58,
+                "ActionTag": -1301409226,
+                "Size": {
+                  "X": 49.0,
+                  "Y": 70.0
+                },
+                "Name": "feederKeliSub001",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P007/feeder/keli.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 24.6835,
+                  "Y": -2.5751
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5037,
+                  "Y": -0.0368
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 0.1835,
+                "RightMargin": -0.1835,
+                "TopMargin": 37.5751,
+                "BottomMargin": -37.5751,
+                "Tag": 59,
+                "ActionTag": 1851887293,
+                "Size": {
+                  "X": 49.0,
+                  "Y": 70.0
+                },
+                "Name": "feederKeliSub002",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P007/feeder/keli.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5054,
+                  "Y": 59.3358
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7858,
+                  "Y": 0.8477
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 14.0054,
+                "RightMargin": -14.0054,
+                "TopMargin": -24.3358,
+                "BottomMargin": 24.3358,
+                "Tag": 60,
+                "ActionTag": -1659249866,
+                "Size": {
+                  "X": 49.0,
+                  "Y": 70.0
+                },
+                "Name": "feederKeliSub003",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P007/feeder/keli.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 16.0266,
+                  "Y": 12.4433
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3271,
+                  "Y": 0.1778
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -8.4734,
+                "RightMargin": 8.4734,
+                "TopMargin": 22.5567,
+                "BottomMargin": -22.5567,
+                "Tag": 61,
+                "ActionTag": -1448473712,
+                "Size": {
+                  "X": 49.0,
+                  "Y": 70.0
+                },
+                "Name": "feederKeliSub004",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P007/feeder/keli.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 21.3323,
+                  "Y": -20.6243
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4354,
+                  "Y": -0.2946
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -3.1677,
+                "RightMargin": 3.1677,
+                "TopMargin": 55.6243,
+                "BottomMargin": -55.6243,
+                "Tag": 62,
+                "ActionTag": 1153159999,
+                "Size": {
+                  "X": 49.0,
+                  "Y": 70.0
+                },
+                "Name": "feederKeliSub005",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1015062931,
+            "Size": {
+              "X": 49.0,
+              "Y": 70.0
+            },
+            "Name": "feederKeli",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/feeder/feederFront.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 514.4442,
+              "Y": 640.4153
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6698,
+              "Y": 0.4699
+            },
+            "PreSize": {
+              "X": 0.1341,
+              "Y": 0.1365
+            },
+            "LeftMargin": 462.9442,
+            "RightMargin": 202.0558,
+            "TopMargin": 629.5847,
+            "BottomMargin": 547.4153,
+            "Tag": 52,
+            "ActionTag": -1891307194,
+            "Size": {
+              "X": 103.0,
+              "Y": 186.0
+            },
+            "Name": "feederFront",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/feeder/feederCove_Shadow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 625.3422,
+              "Y": 578.5441
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8142,
+              "Y": 0.4245
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 588.3422,
+            "RightMargin": 105.6578,
+            "TopMargin": 769.9559,
+            "BottomMargin": 564.0441,
+            "Tag": 58,
+            "ActionTag": -1425455692,
+            "Size": {
+              "X": 74.0,
+              "Y": 29.0
+            },
+            "Name": "feederLid_s",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/feeder/feederCover.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 518.6034,
+              "Y": 742.24
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6753,
+              "Y": 0.5446
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 481.6034,
+            "RightMargin": 212.3966,
+            "TopMargin": 571.76,
+            "BottomMargin": 693.24,
+            "Tag": 55,
+            "ActionTag": 1854700761,
+            "Size": {
+              "X": 74.0,
+              "Y": 98.0
+            },
+            "Name": "feederLid",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/spoonEmpty/spoon_Shadow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 375.064,
+              "Y": 471.0738
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4884,
+              "Y": 0.3456
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 297.564,
+            "RightMargin": 315.436,
+            "TopMargin": 875.4262,
+            "BottomMargin": 454.5738,
+            "Tag": 51,
+            "ActionTag": -239903876,
+            "Size": {
+              "X": 155.0,
+              "Y": 33.0
+            },
+            "Name": "spoon_s",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P007/spoonEmpty/spoonEmpty.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 374.7526,
+              "Y": 494.5649
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.488,
+              "Y": 0.3629
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 298.2526,
+            "RightMargin": 316.7474,
+            "TopMargin": 841.4351,
+            "BottomMargin": 467.5649,
+            "Tag": 50,
+            "ActionTag": 678315259,
+            "Size": {
+              "X": 153.0,
+              "Y": 54.0
+            },
+            "Name": "spoon",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 242.4604,
+              "Y": 494.5894
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3157,
+              "Y": 0.3629
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 169.4604,
+            "RightMargin": 452.5396,
+            "TopMargin": 818.4106,
+            "BottomMargin": 444.5894,
+            "Tag": 49,
+            "ActionTag": 1855767969,
+            "Size": {
+              "X": 146.0,
+              "Y": 100.0
+            },
+            "Name": "arrow",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

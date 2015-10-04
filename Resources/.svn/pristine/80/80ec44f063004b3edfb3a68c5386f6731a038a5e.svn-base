@@ -1,0 +1,371 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p001_frame" ID="aa70d7b6-ec92-4e7e-8554-2e9d97f149a4" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="63" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="noTouchRect" ActionTag="1593020693" Tag="73" IconVisible="False" LeftMargin="1.9780" RightMargin="-1.9780" TopMargin="735.2509" BottomMargin="127.7491" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="768.0000" Y="500.0000" />
+            <AnchorPoint />
+            <Position X="1.9780" Y="127.7491" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0026" Y="0.0937" />
+            <PreSize X="1.0000" Y="0.3668" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="frame_2" CanEdit="False" ActionTag="-1408366631" Tag="66" IconVisible="False" LeftMargin="1.3308" RightMargin="-1.3308" TopMargin="187.0208" BottomMargin="212.9792" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="963.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="385.3308" Y="694.4792" />
+            <Scale ScaleX="0.9759" ScaleY="0.9759" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5017" Y="0.5095" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/frame.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="layer" CanEdit="False" ActionTag="-655796903" Tag="67" IconVisible="False" LeftMargin="3.8135" RightMargin="-3.8135" TopMargin="5.4004" BottomMargin="-5.4003" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1363.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="387.8135" Y="676.0997" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5050" Y="0.4960" />
+            <PreSize />
+            <FileData Type="Normal" Path="layer.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="plate_1" CanEdit="False" ActionTag="-1332507594" Tag="68" IconVisible="False" LeftMargin="127.3219" RightMargin="498.6781" TopMargin="506.0515" BottomMargin="762.9485" ctype="SpriteObjectData">
+            <Size X="142.0000" Y="94.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="198.3219" Y="809.9485" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2582" Y="0.5942" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/plate.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit01" CanEdit="False" ActionTag="-6856538" Tag="75" IconVisible="False" LeftMargin="155.8845" RightMargin="512.1155" TopMargin="499.0086" BottomMargin="765.9914" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="205.8845" Y="814.9914" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2681" Y="0.5979" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit01.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="plate_2" CanEdit="False" ActionTag="481600944" Tag="69" IconVisible="False" LeftMargin="327.2712" RightMargin="298.7288" TopMargin="506.0515" BottomMargin="762.9485" ctype="SpriteObjectData">
+            <Size X="142.0000" Y="94.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="398.2712" Y="809.9485" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5186" Y="0.5942" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/plate.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit02" CanEdit="False" ActionTag="-784240087" Tag="76" IconVisible="False" LeftMargin="355.9242" RightMargin="312.0758" TopMargin="490.6037" BottomMargin="774.3963" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="405.9242" Y="823.3963" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5285" Y="0.6041" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit02.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="plate_3" CanEdit="False" ActionTag="1152280870" Tag="70" IconVisible="False" LeftMargin="527.2200" RightMargin="98.7800" TopMargin="506.0515" BottomMargin="762.9485" ctype="SpriteObjectData">
+            <Size X="142.0000" Y="94.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="598.2200" Y="809.9485" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7789" Y="0.5942" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/plate.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit03" CanEdit="False" ActionTag="-1578571946" Tag="77" IconVisible="False" LeftMargin="549.2399" RightMargin="118.7601" TopMargin="492.2845" BottomMargin="772.7155" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="599.2399" Y="821.7155" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7803" Y="0.6029" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit03.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="plate_4" CanEdit="False" ActionTag="-1528785475" Tag="71" IconVisible="False" LeftMargin="48.6489" RightMargin="577.3511" TopMargin="633.0189" BottomMargin="635.9811" ctype="SpriteObjectData">
+            <Size X="142.0000" Y="94.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="119.6489" Y="682.9811" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1558" Y="0.5011" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/plate.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit04" CanEdit="False" ActionTag="107396113" Tag="78" IconVisible="False" LeftMargin="71.1467" RightMargin="596.8533" TopMargin="611.3280" BottomMargin="653.6720" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="121.1467" Y="702.6720" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.1577" Y="0.5155" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit04.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="plate_5" CanEdit="False" ActionTag="1785376914" Tag="72" IconVisible="False" LeftMargin="230.1093" RightMargin="395.8907" TopMargin="633.0189" BottomMargin="635.9811" ctype="SpriteObjectData">
+            <Size X="142.0000" Y="94.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="301.1093" Y="682.9811" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3921" Y="0.5011" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/plate.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit05" CanEdit="False" ActionTag="419509729" Tag="79" IconVisible="False" LeftMargin="251.5431" RightMargin="416.4569" TopMargin="610.7982" BottomMargin="654.2018" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="301.5431" Y="703.2018" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3926" Y="0.5159" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit05.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="plate_6" CanEdit="False" ActionTag="-1138324808" Tag="73" IconVisible="False" LeftMargin="411.5712" RightMargin="214.4288" TopMargin="633.0189" BottomMargin="635.9811" ctype="SpriteObjectData">
+            <Size X="142.0000" Y="94.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="482.5712" Y="682.9811" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6283" Y="0.5011" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/plate.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit06" CanEdit="False" ActionTag="1590121780" Tag="80" IconVisible="False" LeftMargin="439.5502" RightMargin="228.4498" TopMargin="606.8155" BottomMargin="658.1845" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="489.5502" Y="707.1845" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6374" Y="0.5188" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit06.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="plate_7" CanEdit="False" ActionTag="605119642" Tag="74" IconVisible="False" LeftMargin="593.0341" RightMargin="32.9659" TopMargin="633.0189" BottomMargin="635.9811" ctype="SpriteObjectData">
+            <Size X="142.0000" Y="94.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="664.0341" Y="682.9811" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8646" Y="0.5011" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/plate.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit07" CanEdit="False" ActionTag="1718333599" Tag="81" IconVisible="False" LeftMargin="614.8756" RightMargin="54.1244" TopMargin="615.2206" BottomMargin="649.7794" ctype="SpriteObjectData">
+            <Size X="99.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="664.3756" Y="698.7794" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8651" Y="0.5127" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit07.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="add_1" CanEdit="False" ActionTag="1191301620" Tag="83" IconVisible="False" LeftMargin="298.6114" RightMargin="434.3886" TopMargin="376.8773" BottomMargin="951.1227" ctype="SpriteObjectData">
+            <Size X="35.0000" Y="35.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="316.1114" Y="968.6227" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4116" Y="0.7107" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/add.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="add_2" CanEdit="False" ActionTag="-536598076" Tag="84" IconVisible="False" LeftMargin="428.5838" RightMargin="304.4162" TopMargin="376.8773" BottomMargin="951.1227" ctype="SpriteObjectData">
+            <Size X="35.0000" Y="35.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="446.0838" Y="968.6227" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5808" Y="0.7107" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/add.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit01_b" CanEdit="False" ActionTag="30523038" Tag="85" IconVisible="False" LeftMargin="201.1251" RightMargin="466.8749" TopMargin="345.3783" BottomMargin="919.6217" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="251.1251" Y="968.6217" />
+            <Scale ScaleX="0.6000" ScaleY="0.6000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3270" Y="0.7107" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit01.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit02_b" CanEdit="False" ActionTag="466139599" Tag="86" IconVisible="False" LeftMargin="331.0978" RightMargin="336.9022" TopMargin="345.3784" BottomMargin="919.6216" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="381.0978" Y="968.6216" />
+            <Scale ScaleX="0.6000" ScaleY="0.6000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4962" Y="0.7107" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit02.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="fruit03_b" CanEdit="False" ActionTag="-1194718539" Tag="87" IconVisible="False" LeftMargin="461.0709" RightMargin="206.9291" TopMargin="345.3784" BottomMargin="919.6216" ctype="SpriteObjectData">
+            <Size X="100.0000" Y="98.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="511.0709" Y="968.6216" />
+            <Scale ScaleX="0.6000" ScaleY="0.6000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6655" Y="0.7107" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/fruit03.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="juicer_x" CanEdit="False" ActionTag="-644648248" Tag="88" VisibleForFrame="False" IconVisible="False" LeftMargin="222.6265" RightMargin="401.3735" TopMargin="891.4758" BottomMargin="306.5242" ctype="SpriteObjectData">
+            <Size X="144.0000" Y="165.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="294.6265" Y="389.0242" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3836" Y="0.2854" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/juicer_x.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="juicer_t" CanEdit="False" ActionTag="1863980089" Tag="86" VisibleForFrame="False" IconVisible="False" LeftMargin="231.9761" RightMargin="412.0239" TopMargin="766.7496" BottomMargin="562.2504" ctype="SpriteObjectData">
+            <Size X="124.0000" Y="34.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="293.9761" Y="579.2504" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3828" Y="0.4250" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/juicer_t.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="juicer_s" CanEdit="False" ActionTag="1338907743" Tag="89" VisibleForFrame="False" IconVisible="False" LeftMargin="232.1689" RightMargin="391.8311" TopMargin="766.5986" BottomMargin="443.4014" ctype="SpriteObjectData">
+            <Size X="144.0000" Y="153.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="304.1689" Y="519.9014" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3961" Y="0.3814" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/juicer_s.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="juicer_button" CanEdit="False" ActionTag="1997279154" Tag="85" VisibleForFrame="False" IconVisible="False" LeftMargin="278.0782" RightMargin="450.9218" TopMargin="993.9182" BottomMargin="335.0818" ctype="SpriteObjectData">
+            <Size X="39.0000" Y="34.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="297.5782" Y="352.0818" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3875" Y="0.2583" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/juicer_button.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="lid_y" CanEdit="False" ActionTag="-1192459692" Tag="88" VisibleForFrame="False" IconVisible="False" LeftMargin="372.3118" RightMargin="273.6882" TopMargin="991.8868" BottomMargin="337.1132" ctype="SpriteObjectData">
+            <Size X="122.0000" Y="34.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="433.3118" Y="354.1132" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5642" Y="0.2598" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/lid_y.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="lid_on" CanEdit="False" ActionTag="-367773282" Tag="87" VisibleForFrame="False" IconVisible="False" LeftMargin="369.8299" RightMargin="272.1701" TopMargin="965.5438" BottomMargin="332.4562" ctype="SpriteObjectData">
+            <Size X="126.0000" Y="65.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="432.8299" Y="364.9562" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5636" Y="0.2678" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/lid_on.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="drink_a" CanEdit="False" ActionTag="1110987770" Tag="89" VisibleForFrame="False" IconVisible="False" LeftMargin="486.3328" RightMargin="183.6672" TopMargin="844.6056" BottomMargin="324.3944" ctype="SpriteObjectData">
+            <Size X="98.0000" Y="194.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="535.3328" Y="421.3944" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6970" Y="0.3092" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/drink_a.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="closeButton" CanEdit="False" ActionTag="-2026974841" Tag="90" IconVisible="False" LeftMargin="585.9048" RightMargin="101.0952" TopMargin="330.5981" BottomMargin="941.4019" ctype="SpriteObjectData">
+            <Size X="81.0000" Y="91.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="626.4048" Y="986.9019" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8156" Y="0.7241" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/closeButton.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="makeJuicer" CanEdit="False" ActionTag="-2117633918" Tag="86" IconVisible="False" LeftMargin="293.8098" RightMargin="374.1902" TopMargin="931.3122" BottomMargin="331.6878" Skin="" Animation="" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="293.8098" Y="331.6878" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3826" Y="0.2434" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/p001/Makejuicer/color1.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="drinkJuice" CanEdit="False" ActionTag="-610493338" Tag="87" IconVisible="False" LeftMargin="517.6912" RightMargin="150.3088" TopMargin="915.9109" BottomMargin="347.0891" Skin="" Animation="" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="517.6912" Y="347.0891" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6741" Y="0.2547" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/p001/Drinkjuice/color1.json" Plist="" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

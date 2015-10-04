@@ -1,0 +1,81 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="finishAndPrizeDialog" ID="220e5c0d-51a4-42ab-8c3e-f0e9048fa648" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="23" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="frame" ActionTag="-971876802" Tag="25" IconVisible="False" LeftMargin="78.6758" RightMargin="81.3242" TopMargin="407.0853" BottomMargin="446.9147" ctype="SpriteObjectData">
+            <Size X="608.0000" Y="509.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="382.6758" Y="701.4147" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4983" Y="0.5146" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/congratulations/congratulations.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="scenePic" ActionTag="7964749" Tag="54" IconVisible="False" LeftMargin="257.8481" RightMargin="259.1519" TopMargin="593.0581" BottomMargin="536.9419" ctype="SpriteObjectData">
+            <Size X="251.0000" Y="233.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="383.3481" Y="653.4419" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4992" Y="0.4794" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/main/level1.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="ok" ActionTag="417526607" Tag="33" IconVisible="False" LeftMargin="311.4710" RightMargin="309.5290" TopMargin="869.0307" BottomMargin="411.9693" ctype="SpriteObjectData">
+            <Size X="147.0000" Y="82.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="384.9710" Y="452.9693" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5013" Y="0.3323" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/congratulations/OK.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="finishTaskParticle" ActionTag="1889182365" Tag="137" IconVisible="True" LeftMargin="389.5089" RightMargin="378.4911" TopMargin="970.7985" BottomMargin="392.2015" ctype="ParticleObjectData">
+            <Size />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="389.5089" Y="392.2015" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5072" Y="0.2877" />
+            <PreSize />
+            <FileData Type="Normal" Path="particles/finish.plist" Plist="" />
+            <BlendFunc Src="770" Dst="1" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="noTouchRect" ActionTag="1814880804" Tag="73" IconVisible="False" LeftMargin="-0.1395" RightMargin="0.1395" TopMargin="914.7678" BottomMargin="48.2322" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="768.0000" Y="400.0000" />
+            <AnchorPoint />
+            <Position X="-0.1395" Y="48.2322" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="-0.0002" Y="0.0354" />
+            <PreSize X="1.0000" Y="0.2935" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="congratulations" ActionTag="-365428137" Tag="53" IconVisible="False" LeftMargin="313.0436" RightMargin="316.9564" TopMargin="570.1766" BottomMargin="691.8234" ctype="SpriteObjectData">
+            <Size X="138.0000" Y="101.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="382.0436" Y="742.3234" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4975" Y="0.5446" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/congratulations/congratulations01.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

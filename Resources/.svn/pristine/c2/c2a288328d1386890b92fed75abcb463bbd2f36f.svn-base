@@ -1,0 +1,3606 @@
+{
+  "ID": "81bd448f-fd2f-4497-bc08-41408403370f",
+  "Version": "2.2.6.0",
+  "Name": "p005",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 595,
+        "Speed": 1.0,
+        "ActivedAnimationName": "putNewBaby",
+        "Timelines": [
+          {
+            "ActionTag": 83351235,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 176,
+                "FrameIndex": 190,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 250,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1342145536,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 165.0,
+                "Y": -910.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 165.0,
+                "Y": 243.4701,
+                "FrameIndex": 190,
+                "EasingData": {
+                  "Type": 1
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1342145536,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 252,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 252,
+                "FrameIndex": 190,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 250,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -455709932,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 496.0,
+                "Y": -900.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 496.0,
+                "Y": 213.9776,
+                "FrameIndex": 190,
+                "EasingData": {
+                  "Type": 1
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -455709932,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 252,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 252,
+                "FrameIndex": 190,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 250,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1796115913,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 228.0,
+                "Y": -920.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 228.0,
+                "Y": 214.0,
+                "FrameIndex": 190,
+                "EasingData": {
+                  "Type": 1
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1796115913,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.1,
+                "Y": 1.1,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.1,
+                "Y": 1.1,
+                "FrameIndex": 190,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 250,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1796115913,
+            "Property": "FrameEvent",
+            "Frames": [
+              {
+                "Value": "putNewBabyFinish",
+                "FrameIndex": 250,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1227595695,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 262.6053,
+                "Y": -572.012,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 244.7318,
+                "Y": 260.0,
+                "FrameIndex": 90,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1227595695,
+            "Property": "FrameEvent",
+            "Frames": [
+              {
+                "Value": "",
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              },
+              {
+                "Value": "bowknotOver",
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 832975783,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 371.0,
+                "Y": 974.0,
+                "FrameIndex": 260,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 371.0,
+                "Y": 974.0,
+                "FrameIndex": 300,
+                "EasingData": {
+                  "Type": 7
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 415.0,
+                "Y": 533.0,
+                "FrameIndex": 350,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1084.6389,
+                "Y": 943.5057,
+                "FrameIndex": 390,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 366.0802,
+                "Y": 943.0,
+                "FrameIndex": 450,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 366.0,
+                "Y": 943.0,
+                "FrameIndex": 520,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 366.0,
+                "Y": 943.0004,
+                "FrameIndex": 555,
+                "EasingData": {
+                  "Type": 5
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 630.0,
+                "Y": 1081.0,
+                "FrameIndex": 590,
+                "EasingData": {
+                  "Type": 20
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 630.0,
+                "Y": 1081.0,
+                "FrameIndex": 595,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 832975783,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 260,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.5,
+                "Y": 0.5,
+                "FrameIndex": 300,
+                "EasingData": {
+                  "Type": 7
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.1,
+                "Y": 0.1,
+                "FrameIndex": 350,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 390,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 520,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.5,
+                "Y": 0.5,
+                "FrameIndex": 555,
+                "EasingData": {
+                  "Type": 5
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.4,
+                "Y": 0.4,
+                "FrameIndex": 590,
+                "EasingData": {
+                  "Type": 20
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.35,
+                "Y": 0.35,
+                "FrameIndex": 595,
+                "EasingData": {
+                  "Type": 11
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 832975783,
+            "Property": "FrameEvent",
+            "Frames": [
+              {
+                "Value": "cardAnimationOver",
+                "FrameIndex": 350,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              },
+              {
+                "Value": "cardInEnd",
+                "FrameIndex": 450,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              },
+              {
+                "Value": "cardOutEnd",
+                "FrameIndex": 595,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1447298464,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 100,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 90,
+          "Name": "bowknotFlyIn",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 260,
+          "EndIndex": 350,
+          "Name": "cardAnimation",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 100,
+          "EndIndex": 250,
+          "Name": "putNewBaby",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 390,
+          "EndIndex": 450,
+          "Name": "cardIn",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 520,
+          "EndIndex": 595,
+          "Name": "cardNewOut",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 96,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P005/bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 256.0,
+            "TopMargin": 454.0,
+            "Tag": 178,
+            "ActionTag": -1350286500,
+            "Size": {
+              "X": 512.0,
+              "Y": 909.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P005/desk.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 914.0,
+            "Tag": 234,
+            "ActionTag": 1381282882,
+            "Size": {
+              "X": 768.0,
+              "Y": 449.0
+            },
+            "Name": "table",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "layer.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 385.1031,
+              "Y": 679.1245
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5014,
+              "Y": 0.4983
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.1031,
+            "RightMargin": -1.1031,
+            "TopMargin": 2.3755,
+            "BottomMargin": -2.3755,
+            "Tag": 180,
+            "ActionTag": -1825682573,
+            "Size": {
+              "X": 768.0,
+              "Y": 1363.0
+            },
+            "Name": "layer",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 236.6238,
+              "Y": 164.2975
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3081,
+              "Y": 0.1205
+            },
+            "PreSize": {
+              "X": 0.1953,
+              "Y": 0.1101
+            },
+            "LeftMargin": 236.6238,
+            "RightMargin": 381.3762,
+            "TopMargin": 1048.7025,
+            "BottomMargin": 164.2975,
+            "Tag": 106,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/unguentBottle.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "VisibleForFrame": false,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.5818,
+                  "Y": 96.4741
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4105,
+                  "Y": 0.6432
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 11.0818,
+                "RightMargin": 37.9182,
+                "TopMargin": 5.5259,
+                "BottomMargin": 48.4741,
+                "Tag": 135,
+                "ActionTag": 1063906827,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 96.0
+                },
+                "Name": "openJar",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/unguentBottle.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.5764,
+                  "Y": 95.4295
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4105,
+                  "Y": 0.6362
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 11.0764,
+                "RightMargin": 37.9236,
+                "TopMargin": 6.5705,
+                "BottomMargin": 47.4295,
+                "Tag": 107,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P005/unguentBottle_Open.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.1959,
+                      "Y": 73.2401
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5069,
+                      "Y": 0.7629
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 4.6959,
+                    "RightMargin": 3.3041,
+                    "TopMargin": -13.7401,
+                    "BottomMargin": 36.7401,
+                    "Tag": 152,
+                    "ActionTag": -1097253376,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 73.0
+                    },
+                    "Name": "unguentBottle_Open_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.513,
+                      "Y": 18.8545
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Rotation": -0.0979,
+                    "RotationSkewX": -0.0979,
+                    "RotationSkewY": -0.0979,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8962,
+                      "Y": 0.1964
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 65.013,
+                    "RightMargin": -15.013,
+                    "TopMargin": 54.1455,
+                    "BottomMargin": -4.1455,
+                    "Tag": 44,
+                    "ActionTag": -1639439798,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "sign",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -279610402,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 96.0
+                },
+                "Name": "closeJar",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1627155522,
+            "Size": {
+              "X": 150.0,
+              "Y": 150.0
+            },
+            "Name": "JarContainer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 293.0806,
+              "Y": 175.4503
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3816,
+              "Y": 0.1287
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 293.0806,
+            "RightMargin": 274.9194,
+            "TopMargin": 987.5497,
+            "BottomMargin": 175.4503,
+            "Tag": 78,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/towel_shadow.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -206.5434,
+                  "Y": 82.3014
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -1.0327,
+                  "Y": 0.4115
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -262.0434,
+                "RightMargin": 351.0434,
+                "TopMargin": 50.1986,
+                "BottomMargin": 14.8014,
+                "Tag": 51,
+                "ActionTag": 1251942198,
+                "Size": {
+                  "X": 111.0,
+                  "Y": 135.0
+                },
+                "Name": "towel_shadow",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/injector_shadow.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -92.6604,
+                  "Y": 84.4618
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.4633,
+                  "Y": 0.4223
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -119.6604,
+                "RightMargin": 265.6604,
+                "TopMargin": 56.5382,
+                "BottomMargin": 25.4618,
+                "Tag": 52,
+                "ActionTag": 50813978,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 118.0
+                },
+                "Name": "injector_shadow",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/machine_shadow.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 179.3449,
+                  "Y": 93.3738
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8967,
+                  "Y": 0.4669
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 82.8449,
+                "RightMargin": -75.8449,
+                "TopMargin": 22.6262,
+                "BottomMargin": 9.3738,
+                "Tag": 53,
+                "ActionTag": -2043930409,
+                "Size": {
+                  "X": 193.0,
+                  "Y": 168.0
+                },
+                "Name": "machine_shadow",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/cloth_shadow.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 372.8572,
+                  "Y": 81.7672
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.8643,
+                  "Y": 0.4088
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 291.8572,
+                "RightMargin": -253.8572,
+                "TopMargin": 44.7328,
+                "BottomMargin": 8.2672,
+                "Tag": 54,
+                "ActionTag": -1208411304,
+                "Size": {
+                  "X": 162.0,
+                  "Y": 147.0
+                },
+                "Name": "cloth_shadow",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/towel.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -212.2693,
+                  "Y": 89.7863
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -1.0613,
+                  "Y": 0.4489
+                },
+                "PreSize": {
+                  "X": 0.525,
+                  "Y": 0.66
+                },
+                "LeftMargin": -267.7693,
+                "RightMargin": 356.7693,
+                "TopMargin": 42.7137,
+                "BottomMargin": 22.2863,
+                "Tag": 182,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.51,
+                      "Y": 26.1846
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Rotation": 0.1198,
+                    "RotationSkewX": 0.1198,
+                    "RotationSkewY": 0.1196,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8154,
+                      "Y": 0.194
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 65.01,
+                    "RightMargin": -5.01,
+                    "TopMargin": 85.8154,
+                    "BottomMargin": 3.1846,
+                    "Tag": 48,
+                    "ActionTag": 389829756,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "sign",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 2115801162,
+                "Size": {
+                  "X": 111.0,
+                  "Y": 135.0
+                },
+                "Name": "towel",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/injector.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -95.4624,
+                  "Y": 92.5467
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewY": -0.0063,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.4773,
+                  "Y": 0.4627
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -122.4624,
+                "RightMargin": 268.4624,
+                "TopMargin": 48.9533,
+                "BottomMargin": 34.0467,
+                "Tag": 186,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 52.7383,
+                      "Y": 20.9806
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Rotation": 0.0713,
+                    "RotationSkewX": 0.0713,
+                    "RotationSkewY": 0.0711,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9766,
+                      "Y": 0.1793
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 27.2383,
+                    "RightMargin": -24.2383,
+                    "TopMargin": 73.0194,
+                    "BottomMargin": -2.0194,
+                    "Tag": 46,
+                    "ActionTag": -337248659,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "sign",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -148031957,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 117.0
+                },
+                "Name": "injector",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/unguent.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 7.7713,
+                  "Y": 102.9596
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0389,
+                  "Y": 0.5148
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -19.2287,
+                "RightMargin": 165.2287,
+                "TopMargin": 75.0404,
+                "BottomMargin": 80.9596,
+                "Tag": 181,
+                "ActionTag": 1306698007,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 44.0
+                },
+                "Name": "jar",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/machine.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 176.8345,
+                  "Y": 102.9832
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8842,
+                  "Y": 0.5149
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 78.8345,
+                "RightMargin": -74.8345,
+                "TopMargin": 10.5168,
+                "BottomMargin": 16.4832,
+                "Tag": 114,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 153.5824,
+                      "Y": 43.4722
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Rotation": -0.0367,
+                    "RotationSkewX": -0.0367,
+                    "RotationSkewY": -0.0374,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7836,
+                      "Y": 0.2513
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 128.0824,
+                    "RightMargin": 16.9176,
+                    "TopMargin": 106.5278,
+                    "BottomMargin": 20.4722,
+                    "Tag": 47,
+                    "ActionTag": 811719291,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "sign",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1714598998,
+                "Size": {
+                  "X": 196.0,
+                  "Y": 173.0
+                },
+                "Name": "machine",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/cloth.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 370.3158,
+                  "Y": 91.7185
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.8516,
+                  "Y": 0.4586
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 288.8158,
+                "RightMargin": -251.8158,
+                "TopMargin": 34.7815,
+                "BottomMargin": 18.2185,
+                "Tag": 185,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/common/star.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 109.2258,
+                      "Y": 36.2592
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Rotation": -0.0289,
+                    "RotationSkewX": -0.0289,
+                    "RotationSkewY": -0.0284,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6701,
+                      "Y": 0.2467
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 83.7258,
+                    "RightMargin": 28.2742,
+                    "TopMargin": 87.7408,
+                    "BottomMargin": 13.2592,
+                    "Tag": 45,
+                    "ActionTag": -1818831372,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 46.0
+                    },
+                    "Name": "sign",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -2038230575,
+                "Size": {
+                  "X": 163.0,
+                  "Y": 147.0
+                },
+                "Name": "cloth",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1035988467,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "ToolBar",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 132.6124,
+              "Y": 386.4316
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1727,
+              "Y": 0.2835
+            },
+            "PreSize": {
+              "X": 0.651,
+              "Y": 0.5136
+            },
+            "LeftMargin": 132.6124,
+            "RightMargin": 135.3876,
+            "TopMargin": 276.5684,
+            "BottomMargin": 386.4316,
+            "Tag": 22,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/clothMiddle.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 233.5883,
+                  "Y": 549.4241
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4672,
+                  "Y": 0.7849
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 25.0883,
+                "RightMargin": 57.9117,
+                "TopMargin": -69.4241,
+                "BottomMargin": 329.4241,
+                "Tag": 151,
+                "ActionTag": -853237718,
+                "Size": {
+                  "X": 417.0,
+                  "Y": 440.0
+                },
+                "Name": "clothMiddle",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/clothLeft.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 168.364,
+                  "Y": 402.9332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3367,
+                  "Y": 0.5756
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -116.636,
+                "RightMargin": 46.636,
+                "TopMargin": -77.9332,
+                "BottomMargin": 27.9332,
+                "Tag": 23,
+                "Children": [
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 24.7991,
+                      "Y": 180.4102
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0435,
+                      "Y": 0.2405
+                    },
+                    "PreSize": {
+                      "X": 0.2632,
+                      "Y": 0.3067
+                    },
+                    "LeftMargin": 24.7991,
+                    "RightMargin": 395.2009,
+                    "TopMargin": 339.5898,
+                    "BottomMargin": 180.4102,
+                    "Tag": 31,
+                    "ActionTag": 280292262,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 230.0
+                    },
+                    "Name": "cloth_left_event",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1151223200,
+                "Size": {
+                  "X": 570.0,
+                  "Y": 750.0
+                },
+                "Name": "cloth_left_bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/clothRight.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 247.8289,
+                  "Y": 389.6923
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4957,
+                  "Y": 0.5567
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -126.6711,
+                "RightMargin": -122.3289,
+                "TopMargin": -67.6923,
+                "BottomMargin": 11.6923,
+                "Tag": 24,
+                "Children": [
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 582.3441,
+                      "Y": 232.9021
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7775,
+                      "Y": 0.3081
+                    },
+                    "PreSize": {
+                      "X": 0.2003,
+                      "Y": 0.3042
+                    },
+                    "LeftMargin": 582.3441,
+                    "RightMargin": 16.6559,
+                    "TopMargin": 293.0979,
+                    "BottomMargin": 232.9021,
+                    "Tag": 32,
+                    "ActionTag": -1569121755,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 230.0
+                    },
+                    "Name": "cloth_right_event",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1729765759,
+                "Size": {
+                  "X": 749.0,
+                  "Y": 756.0
+                },
+                "Name": "cloth_right_bg",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1641596076,
+            "Size": {
+              "X": 500.0,
+              "Y": 700.0
+            },
+            "Name": "ClothContainer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 392.6124,
+              "Y": 726.4316
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5112,
+              "Y": 0.533
+            },
+            "PreSize": {
+              "X": 0.651,
+              "Y": 0.5136
+            },
+            "LeftMargin": 142.6124,
+            "RightMargin": 125.3876,
+            "TopMargin": 286.5684,
+            "BottomMargin": 376.4316,
+            "Tag": 28,
+            "Children": [
+              {
+                "JsonFile": {
+                  "Type": "Normal",
+                  "Path": "game/skeleton/p005/scale/scale.json",
+                  "Plist": ""
+                },
+                "Skin": "",
+                "Animation": "",
+                "Loop": true,
+                "AutoPlay": true,
+                "LayoutOnly": false,
+                "EditorOnly": false,
+                "FileData": {
+                  "Type": "Addin",
+                  "Path": "lbspine.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 238.1273,
+                  "Y": -89.0383
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4763,
+                  "Y": -0.1272
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 238.1273,
+                "RightMargin": 161.8727,
+                "TopMargin": 689.0383,
+                "BottomMargin": -89.0383,
+                "Tag": 163,
+                "ActionTag": -535008000,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "machineSkeleton",
+                "ctype": "LBSpineObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "40.0\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UnidreamLED.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 409.6056,
+                  "Y": 3.9298
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8192,
+                  "Y": 0.0056
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 371.6056,
+                "RightMargin": 52.3944,
+                "TopMargin": 668.5702,
+                "BottomMargin": -23.5702,
+                "Tag": 153,
+                "ActionTag": -1823025283,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 55.0
+                },
+                "Name": "weight",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "50.0\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UnidreamLED.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.0329,
+                  "Y": 3.9298
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2381,
+                  "Y": 0.0056
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 81.0329,
+                "RightMargin": 342.9671,
+                "TopMargin": 668.5702,
+                "BottomMargin": -23.5702,
+                "Tag": 154,
+                "ActionTag": 493210225,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 55.0
+                },
+                "Name": "height",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 906983013,
+            "Size": {
+              "X": 500.0,
+              "Y": 700.0
+            },
+            "Name": "MachineContainer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 152.6124,
+              "Y": 366.4316
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1987,
+              "Y": 0.2688
+            },
+            "PreSize": {
+              "X": 0.651,
+              "Y": 0.5136
+            },
+            "LeftMargin": 152.6124,
+            "RightMargin": 115.3876,
+            "TopMargin": 296.5684,
+            "BottomMargin": 366.4316,
+            "Tag": 34,
+            "Children": [
+              {
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -153.0,
+                  "Y": -366.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Alpha": 0,
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.306,
+                  "Y": -0.5229
+                },
+                "PreSize": {
+                  "X": 1.54,
+                  "Y": 1.9471
+                },
+                "LeftMargin": -153.0,
+                "RightMargin": -117.0,
+                "TopMargin": -297.0,
+                "BottomMargin": -366.0,
+                "Tag": 43,
+                "ActionTag": 83351235,
+                "Size": {
+                  "X": 770.0,
+                  "Y": 1363.0
+                },
+                "Name": "BlackBg",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -153.1814,
+                  "Y": -368.6271
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.3064,
+                  "Y": -0.5266
+                },
+                "PreSize": {
+                  "X": 1.536,
+                  "Y": 1.9471
+                },
+                "LeftMargin": -153.1814,
+                "RightMargin": -114.8186,
+                "TopMargin": -294.3729,
+                "BottomMargin": -368.6271,
+                "Tag": 155,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P005/hand_left.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 165.0,
+                      "Y": 243.4701
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Alpha": 0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2148,
+                      "Y": 0.1786
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -64.5,
+                    "RightMargin": 373.5,
+                    "TopMargin": 681.5299,
+                    "BottomMargin": -194.5299,
+                    "Tag": 44,
+                    "ActionTag": -1342145536,
+                    "Size": {
+                      "X": 459.0,
+                      "Y": 876.0
+                    },
+                    "Name": "left_hand",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/P005/hand_right.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 496.0,
+                      "Y": 213.9776
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Alpha": 0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6458,
+                      "Y": 0.157
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 325.5,
+                    "RightMargin": 101.5,
+                    "TopMargin": 833.0224,
+                    "BottomMargin": -102.0224,
+                    "Tag": 45,
+                    "ActionTag": -455709932,
+                    "Size": {
+                      "X": 341.0,
+                      "Y": 632.0
+                    },
+                    "Name": "right_hand",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -675420232,
+                "Size": {
+                  "X": 768.0,
+                  "Y": 1363.0
+                },
+                "Name": "handContainer",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "JsonFile": {
+                  "Type": "Normal",
+                  "Path": "game/skeleton/baby/baby.json",
+                  "Plist": ""
+                },
+                "Skin": "",
+                "Animation": "",
+                "Loop": true,
+                "AutoPlay": true,
+                "LayoutOnly": false,
+                "EditorOnly": false,
+                "FileData": {
+                  "Type": "Addin",
+                  "Path": "lbspine.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 228.0,
+                  "Y": 214.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.456,
+                  "Y": 0.3057
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 228.0,
+                "RightMargin": 172.0,
+                "TopMargin": 386.0,
+                "BottomMargin": 214.0,
+                "Tag": 42,
+                "Children": [
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -137.6056,
+                      "Y": -109.0252
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -1.3761,
+                      "Y": -1.0903
+                    },
+                    "PreSize": {
+                      "X": 3.0,
+                      "Y": 4.0
+                    },
+                    "LeftMargin": -137.6056,
+                    "RightMargin": -62.3944,
+                    "TopMargin": -190.9748,
+                    "BottomMargin": -109.0252,
+                    "Tag": 43,
+                    "ActionTag": 514809940,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 400.0
+                    },
+                    "Name": "baby_event",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1796115913,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "baby_skeleton",
+                "ctype": "LBSpineObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "VisibleForFrame": false,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 303.1506,
+                  "Y": 176.4641
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6063,
+                  "Y": 0.2521
+                },
+                "PreSize": {
+                  "X": 0.18,
+                  "Y": 0.2543
+                },
+                "LeftMargin": 303.1506,
+                "RightMargin": 106.8494,
+                "TopMargin": 345.5359,
+                "BottomMargin": 176.4641,
+                "Tag": 50,
+                "Children": [
+                  {
+                    "JsonFile": {
+                      "Type": "Normal",
+                      "Path": "game/skeleton/p005/injector/injector.json",
+                      "Plist": ""
+                    },
+                    "Skin": "",
+                    "Animation": "aniIdle",
+                    "Loop": false,
+                    "AutoPlay": true,
+                    "LayoutOnly": false,
+                    "EditorOnly": false,
+                    "FileData": {
+                      "Type": "Addin",
+                      "Path": "lbspine.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1.3967,
+                      "Y": 174.0161
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0155,
+                      "Y": 0.9776
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1.3967,
+                    "RightMargin": -11.3967,
+                    "TopMargin": -96.0161,
+                    "BottomMargin": 174.0161,
+                    "Tag": 104,
+                    "ActionTag": 1675242609,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "injectorSkeleton",
+                    "ctype": "LBSpineObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 27.6542,
+                      "Y": -2.4754
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3073,
+                      "Y": -0.0139
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.5056
+                    },
+                    "LeftMargin": 27.6542,
+                    "RightMargin": 2.3458,
+                    "TopMargin": 90.4754,
+                    "BottomMargin": -2.4754,
+                    "Tag": 58,
+                    "ActionTag": -4266215,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 90.0
+                    },
+                    "Name": "injectorHandle",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 3.6567,
+                      "Y": -5.3888
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0406,
+                      "Y": -0.0303
+                    },
+                    "PreSize": {
+                      "X": 0.7778,
+                      "Y": 1.0112
+                    },
+                    "LeftMargin": 3.6567,
+                    "RightMargin": 16.3433,
+                    "TopMargin": 3.3888,
+                    "BottomMargin": -5.3888,
+                    "Tag": 93,
+                    "ActionTag": 1745885616,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 180.0
+                    },
+                    "Name": "injectorPutEvent",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1341978422,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 178.0
+                },
+                "Name": "InjectorContainer",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/clothRight_On.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "VisibleForFrame": false,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 266.9803,
+                  "Y": 360.7898
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.534,
+                  "Y": 0.5154
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 73.4803,
+                "RightMargin": 39.5197,
+                "TopMargin": 39.2102,
+                "BottomMargin": 60.7898,
+                "Tag": 26,
+                "ActionTag": 691303276,
+                "Size": {
+                  "X": 387.0,
+                  "Y": 600.0
+                },
+                "Name": "cloth_right",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/clothLeft_On.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "VisibleForFrame": false,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 232.8859,
+                  "Y": 373.1987
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4658,
+                  "Y": 0.5331
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 6.3859,
+                "RightMargin": 40.6141,
+                "TopMargin": 7.8013,
+                "BottomMargin": 54.1987,
+                "Tag": 25,
+                "ActionTag": -1895406156,
+                "Size": {
+                  "X": 453.0,
+                  "Y": 638.0
+                },
+                "Name": "cloth_left",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/bowknot.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 244.7318,
+                  "Y": 260.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4895,
+                  "Y": 0.3714
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 154.2318,
+                "RightMargin": 164.7682,
+                "TopMargin": 349.5,
+                "BottomMargin": 169.5,
+                "Tag": 33,
+                "ActionTag": -1227595695,
+                "Size": {
+                  "X": 181.0,
+                  "Y": 181.0
+                },
+                "Name": "bowknot",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -314315049,
+            "Size": {
+              "X": 500.0,
+              "Y": 700.0
+            },
+            "Name": "BabyContainer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -137.8593,
+              "Y": 913.9302
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 90.0,
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.1795,
+              "Y": 0.6705
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -194.8593,
+            "RightMargin": 848.8593,
+            "TopMargin": 402.0698,
+            "BottomMargin": 866.9302,
+            "Tag": 43,
+            "ActionTag": 994463249,
+            "Size": {
+              "X": 114.0,
+              "Y": 94.0
+            },
+            "Name": "waterArrowTip",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -140.8304,
+              "Y": 715.2582
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 90.0,
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.1834,
+              "Y": 0.5248
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -197.8304,
+            "RightMargin": 851.8304,
+            "TopMargin": 600.7418,
+            "BottomMargin": 668.2582,
+            "Tag": 44,
+            "ActionTag": -1127288836,
+            "Size": {
+              "X": 114.0,
+              "Y": 94.0
+            },
+            "Name": "woundArrowTip",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 686.6959,
+              "Y": 722.2974
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 180.0,
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8941,
+              "Y": 0.5299
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 629.6959,
+            "RightMargin": 24.3041,
+            "TopMargin": 593.7026,
+            "BottomMargin": 675.2974,
+            "Tag": 46,
+            "ActionTag": -709910940,
+            "Size": {
+              "X": 114.0,
+              "Y": 94.0
+            },
+            "Name": "rightClothTip",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 87.3213,
+              "Y": 707.4764
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1137,
+              "Y": 0.5191
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 30.3213,
+            "RightMargin": 623.6787,
+            "TopMargin": 608.5236,
+            "BottomMargin": 660.4764,
+            "Tag": 47,
+            "ActionTag": -322707049,
+            "Size": {
+              "X": 114.0,
+              "Y": 94.0
+            },
+            "Name": "leftClothTip",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 460.0,
+              "Y": 788.1982
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 90.0,
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.599,
+              "Y": 0.5783
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 403.0,
+            "RightMargin": 251.0,
+            "TopMargin": 527.8018,
+            "BottomMargin": 741.1982,
+            "Tag": 48,
+            "ActionTag": 839456563,
+            "Size": {
+              "X": 114.0,
+              "Y": 94.0
+            },
+            "Name": "injectorArrowTip",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 511.3845,
+              "Y": 519.0243
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": -90.0,
+            "RotationSkewX": -90.0,
+            "RotationSkewY": -90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6659,
+              "Y": 0.3808
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 454.3845,
+            "RightMargin": 199.6155,
+            "TopMargin": 796.9757,
+            "BottomMargin": 472.0243,
+            "Tag": 235,
+            "ActionTag": 541510061,
+            "Size": {
+              "X": 114.0,
+              "Y": 94.0
+            },
+            "Name": "injectorHandleArrowTip",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 390.2227,
+              "Y": 788.7891
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 90.0,
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5081,
+              "Y": 0.5787
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 333.2227,
+            "RightMargin": 320.7773,
+            "TopMargin": 527.2109,
+            "BottomMargin": 741.7891,
+            "Tag": 45,
+            "ActionTag": 1595290476,
+            "Size": {
+              "X": 114.0,
+              "Y": 94.0
+            },
+            "Name": "bodyArrowTip",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/common/arrow001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 388.8724,
+              "Y": 757.979
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 90.0,
+            "RotationSkewX": 90.0,
+            "RotationSkewY": 90.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5063,
+              "Y": 0.5561
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 331.8724,
+            "RightMargin": 322.1276,
+            "TopMargin": 558.021,
+            "BottomMargin": 710.979,
+            "Tag": 185,
+            "ActionTag": 902340467,
+            "Size": {
+              "X": 114.0,
+              "Y": 94.0
+            },
+            "Name": "mopBodyArrowTip",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 4.3767,
+              "Y": -0.8419
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0057,
+              "Y": -0.0006
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 4.3767,
+            "RightMargin": -4.3767,
+            "TopMargin": 0.8419,
+            "BottomMargin": -0.8419,
+            "Tag": 78,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P005/card.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 371.0,
+                  "Y": 974.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4831,
+                  "Y": 0.7146
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 67.0,
+                "RightMargin": 93.0,
+                "TopMargin": 138.5,
+                "BottomMargin": 723.5,
+                "Tag": 77,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "48\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UnidreamLED.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 127,
+                      "B": 80
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 343.2421,
+                      "Y": 248.2101
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5645,
+                      "Y": 0.4954
+                    },
+                    "PreSize": {
+                      "X": 0.0822,
+                      "Y": 0.0818
+                    },
+                    "LeftMargin": 318.2421,
+                    "RightMargin": 239.7579,
+                    "TopMargin": 232.2899,
+                    "BottomMargin": 227.7101,
+                    "Tag": 80,
+                    "ActionTag": -712964202,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 41.0
+                    },
+                    "Name": "heightInCard",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "3.5\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UnidreamLED.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 127,
+                      "B": 80
+                    },
+                    "VisibleForFrame": false,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 340.7421,
+                      "Y": 171.2209
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5604,
+                      "Y": 0.3418
+                    },
+                    "PreSize": {
+                      "X": 0.0822,
+                      "Y": 0.0818
+                    },
+                    "LeftMargin": 315.7421,
+                    "RightMargin": 242.2579,
+                    "TopMargin": 309.2791,
+                    "BottomMargin": 150.7209,
+                    "Tag": 79,
+                    "ActionTag": -876809904,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 41.0
+                    },
+                    "Name": "weightInCard",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 832975783,
+                "Size": {
+                  "X": 608.0,
+                  "Y": 501.0
+                },
+                "Name": "cardImage",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1447298464,
+            "Size": {
+              "X": 768.0,
+              "Y": 1363.0
+            },
+            "Name": "CardContainer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/p005/pen/pen.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "",
+            "Loop": false,
+            "AutoPlay": false,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 395.0998,
+              "Y": 879.8875
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5145,
+              "Y": 0.6456
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 395.0998,
+            "RightMargin": 272.9002,
+            "TopMargin": 383.1125,
+            "BottomMargin": 879.8875,
+            "Tag": 61,
+            "ActionTag": 552588022,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "penSkeleton",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/p005/mosquito/mosquito.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "",
+            "Loop": false,
+            "AutoPlay": false,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 379.4363,
+              "Y": 710.6897
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4941,
+              "Y": 0.5214
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 379.4363,
+            "RightMargin": 288.5637,
+            "TopMargin": 552.3103,
+            "BottomMargin": 710.6897,
+            "Tag": 61,
+            "ActionTag": -1542400783,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "mosquito2",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/p005/mosquito/mosquito.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "",
+            "Loop": false,
+            "AutoPlay": false,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 383.8666,
+              "Y": 732.1628
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4998,
+              "Y": 0.5372
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 383.8666,
+            "RightMargin": 284.1334,
+            "TopMargin": 530.8372,
+            "BottomMargin": 732.1628,
+            "Tag": 62,
+            "ActionTag": -2076491847,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "mosquito1",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1185.4032,
+              "Y": 900.0646
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.5435,
+              "Y": 0.6604
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1185.4032,
+            "RightMargin": -617.4032,
+            "TopMargin": 262.9354,
+            "BottomMargin": 900.0646,
+            "Tag": 183,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P008/baby/dress04/clothes01_dress04.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1263.589,
+                  "Y": 1035.1127
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 6.3179,
+                  "Y": 5.1756
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1178.089,
+                "RightMargin": -1149.089,
+                "TopMargin": -897.1127,
+                "BottomMargin": 973.1127,
+                "Tag": 185,
+                "ActionTag": -936728417,
+                "Size": {
+                  "X": 171.0,
+                  "Y": 124.0
+                },
+                "Name": "clothes01_dress04_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/P008/baby/dress05/clothes01_dress05.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 81.7395,
+                  "Y": 110.1708
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4087,
+                  "Y": 0.5509
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -3.7605,
+                "RightMargin": 32.7605,
+                "TopMargin": 27.8292,
+                "BottomMargin": 48.1708,
+                "Tag": 184,
+                "ActionTag": -1493296304,
+                "Size": {
+                  "X": 171.0,
+                  "Y": 124.0
+                },
+                "Name": "clothes01_dress05_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 45175765,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "LoadingTextureContainer",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

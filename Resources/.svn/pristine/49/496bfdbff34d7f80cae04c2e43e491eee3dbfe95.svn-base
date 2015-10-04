@@ -1,0 +1,263 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p001_handcream" ID="8226b920-43b2-4490-bc12-fa2ddc043c53" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="61" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="frame" ActionTag="299263434" Tag="64" IconVisible="False" LeftMargin="180.8176" RightMargin="174.1824" TopMargin="545.5991" BottomMargin="477.4009" ctype="SpriteObjectData">
+            <Size X="413.0000" Y="340.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="387.3176" Y="647.4009" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5043" Y="0.4750" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/stomachWindow.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="belly" ActionTag="-1185304806" Tag="66" IconVisible="False" LeftMargin="186.3483" RightMargin="200.6517" TopMargin="564.3733" BottomMargin="491.6267" ctype="SpriteObjectData">
+            <Size X="381.0000" Y="307.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="376.8483" Y="645.1267" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4907" Y="0.4733" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/tummy.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles001" ActionTag="-662621652" Tag="67" IconVisible="False" LeftMargin="379.1705" RightMargin="314.8295" TopMargin="693.8595" BottomMargin="622.1405" ctype="SpriteObjectData">
+            <Size X="74.0000" Y="47.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="416.1705" Y="645.6405" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5419" Y="0.4737" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles001.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles002" ActionTag="-761493258" Tag="68" IconVisible="False" LeftMargin="378.6705" RightMargin="306.3295" TopMargin="730.8552" BottomMargin="607.1448" ctype="SpriteObjectData">
+            <Size X="83.0000" Y="25.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="420.1705" Y="619.6448" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5471" Y="0.4546" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles002.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles003" ActionTag="804614556" Tag="69" IconVisible="False" LeftMargin="348.1707" RightMargin="351.8293" TopMargin="782.3539" BottomMargin="520.6461" ctype="SpriteObjectData">
+            <Size X="68.0000" Y="60.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="382.1707" Y="550.6461" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4976" Y="0.4040" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles003.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles004" ActionTag="-671253447" Tag="70" IconVisible="False" LeftMargin="366.6707" RightMargin="318.3293" TopMargin="763.3597" BottomMargin="573.6403" ctype="SpriteObjectData">
+            <Size X="83.0000" Y="26.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="408.1707" Y="586.6403" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5315" Y="0.4304" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles004.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles005" ActionTag="-1577365275" Tag="71" IconVisible="False" LeftMargin="331.6703" RightMargin="365.3297" TopMargin="830.3568" BottomMargin="476.6432" ctype="SpriteObjectData">
+            <Size X="71.0000" Y="56.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="367.1703" Y="504.6432" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4781" Y="0.3702" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles005.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles006" ActionTag="-2072333212" Tag="72" IconVisible="False" LeftMargin="317.6705" RightMargin="425.3295" TopMargin="842.3564" BottomMargin="466.6436" ctype="SpriteObjectData">
+            <Size X="25.0000" Y="54.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="330.1705" Y="493.6436" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4299" Y="0.3622" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles006.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles007" ActionTag="-1737828541" Tag="73" IconVisible="False" LeftMargin="294.6703" RightMargin="460.3297" TopMargin="847.3545" BottomMargin="465.6455" ctype="SpriteObjectData">
+            <Size X="13.0000" Y="50.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="301.1703" Y="490.6455" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3921" Y="0.3600" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles007.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles008" ActionTag="-343705772" Tag="74" IconVisible="False" LeftMargin="266.6703" RightMargin="488.3297" TopMargin="838.3537" BottomMargin="474.6463" ctype="SpriteObjectData">
+            <Size X="13.0000" Y="50.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="273.1703" Y="499.6463" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3557" Y="0.3666" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles008.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles009" ActionTag="-1663310608" Tag="75" IconVisible="False" LeftMargin="223.6680" RightMargin="511.3320" TopMargin="842.3556" BottomMargin="482.6444" ctype="SpriteObjectData">
+            <Size X="33.0000" Y="38.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="240.1680" Y="501.6444" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3127" Y="0.3680" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles009.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="winkles010" ActionTag="1251028606" Tag="76" IconVisible="False" LeftMargin="201.6706" RightMargin="517.3294" TopMargin="841.3545" BottomMargin="507.6455" ctype="SpriteObjectData">
+            <Size X="49.0000" Y="14.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="226.1706" Y="514.6455" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2945" Y="0.3776" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/wrinkles/winkles010.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="cream000" ActionTag="-477960837" Tag="21" IconVisible="False" LeftMargin="258.6757" RightMargin="439.3243" TopMargin="782.1624" BottomMargin="539.8376" ctype="SpriteObjectData">
+            <Size X="70.0000" Y="41.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="293.6757" Y="560.3376" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3824" Y="0.4111" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/cream/cream001.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="cream001" ActionTag="2140463459" Tag="77" IconVisible="False" LeftMargin="260.1685" RightMargin="423.8315" TopMargin="750.3571" BottomMargin="528.6429" ctype="SpriteObjectData">
+            <Size X="84.0000" Y="84.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="302.1685" Y="570.6429" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.3934" Y="0.4187" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/cream/cream004.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="cream002" ActionTag="155758913" Tag="78" IconVisible="False" LeftMargin="242.1697" RightMargin="393.8303" TopMargin="732.8583" BottomMargin="505.1417" ctype="SpriteObjectData">
+            <Size X="132.0000" Y="125.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="308.1697" Y="567.6417" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4013" Y="0.4165" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/cream/cream003.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="cream003" ActionTag="1745641533" Tag="79" IconVisible="False" LeftMargin="238.1695" RightMargin="351.8305" TopMargin="725.8582" BottomMargin="490.1418" ctype="SpriteObjectData">
+            <Size X="178.0000" Y="147.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="327.1695" Y="563.6418" />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4260" Y="0.4135" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/cream/cream/cream002.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="moveRect" ActionTag="-1139804468" Tag="80" IconVisible="False" LeftMargin="159.9155" RightMargin="278.0845" TopMargin="666.5320" BottomMargin="446.4680" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="330.0000" Y="250.0000" />
+            <AnchorPoint />
+            <Position X="159.9155" Y="446.4680" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2082" Y="0.3276" />
+            <PreSize X="0.4297" Y="0.1834" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="noTouchRect" ActionTag="1520574874" Tag="108" IconVisible="False" TopMargin="963.0000" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="768.0000" Y="400.0000" />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="1.0000" Y="0.2935" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="closeButton" ActionTag="1414172246" Tag="123" IconVisible="False" LeftMargin="603.6100" RightMargin="83.3900" TopMargin="451.0082" BottomMargin="820.9918" ctype="SpriteObjectData">
+            <Size X="81.0000" Y="91.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="644.1100" Y="866.4918" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.8387" Y="0.6357" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P001/frame/closeButton.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="creamSpine" ActionTag="-470153023" Tag="20" IconVisible="False" LeftMargin="448.0336" RightMargin="219.9664" TopMargin="607.0526" BottomMargin="655.9474" Skin="" Animation="" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="448.0336" Y="655.9474" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5834" Y="0.4813" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/p001/Extrudecream/p001.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="finishTaskParticle" ActionTag="1564707914" Tag="108" IconVisible="True" LeftMargin="313.5176" RightMargin="454.4824" TopMargin="792.2617" BottomMargin="570.7383" ctype="ParticleObjectData">
+            <Size />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="313.5176" Y="570.7383" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4082" Y="0.4187" />
+            <PreSize />
+            <FileData Type="Normal" Path="particles/new.plist" Plist="" />
+            <BlendFunc Src="770" Dst="1" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="moveRect" ActionTag="709664703" Tag="50" IconVisible="False" LeftMargin="199.7371" RightMargin="318.2629" TopMargin="704.7422" BottomMargin="458.2578" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="250.0000" Y="200.0000" />
+            <AnchorPoint />
+            <Position X="199.7371" Y="458.2578" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2601" Y="0.3362" />
+            <PreSize X="0.3255" Y="0.1467" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

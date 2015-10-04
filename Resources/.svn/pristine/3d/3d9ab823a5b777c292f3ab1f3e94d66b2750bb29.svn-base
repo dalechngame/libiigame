@@ -1,0 +1,48 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="loading" ID="b2b90ab7-fc27-413d-ae26-b68a2a28d625" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="104" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="loadingBg" ActionTag="1791826858" Tag="105" IconVisible="False" RightMargin="256.0000" TopMargin="454.0000" ctype="SpriteObjectData">
+            <Size X="512.0000" Y="909.0000" />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
+            <FileData Type="Normal" Path="game/loading/bg.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="loadingSpine" ActionTag="-624542185" Tag="111" IconVisible="False" LeftMargin="10.7015" RightMargin="657.2985" TopMargin="1266.8080" BottomMargin="-3.8080" Skin="" Animation="aniIdle" Loop="True" AutoPlay="True" LayoutOnly="False" EditorOnly="False" ctype="LBSpineObjectData">
+            <Size X="100.0000" Y="100.0000" />
+            <ScriptData FileType="Lua" RelativeScriptFile="..\LBLua\LBSpine.lua" />
+            <AnchorPoint />
+            <Position X="10.7015" Y="-3.8080" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0139" Y="-0.0028" />
+            <PreSize />
+            <FileData Type="Addin" Path="lbspine.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+            <JsonFile Type="Normal" Path="game/skeleton/loading/loading.json" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="baby" ActionTag="-865437062" Tag="33" IconVisible="False" LeftMargin="504.5040" RightMargin="115.4960" TopMargin="424.6671" BottomMargin="723.3329" ctype="SpriteObjectData">
+            <Size X="148.0000" Y="215.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="578.5040" Y="830.8329" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7533" Y="0.6096" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/loading/baby.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>

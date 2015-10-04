@@ -1,0 +1,1030 @@
+{
+  "ID": "8226b920-43b2-4490-bc12-fa2ddc043c53",
+  "Version": "2.2.6.0",
+  "Name": "p001_handcream",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 61,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/stomachWindow.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 387.3176,
+              "Y": 647.4009
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5043,
+              "Y": 0.475
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 180.8176,
+            "RightMargin": 174.1824,
+            "TopMargin": 545.5991,
+            "BottomMargin": 477.4009,
+            "Tag": 64,
+            "ActionTag": 299263434,
+            "Size": {
+              "X": 413.0,
+              "Y": 340.0
+            },
+            "Name": "frame",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/tummy.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 376.8483,
+              "Y": 645.1267
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4907,
+              "Y": 0.4733
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 186.3483,
+            "RightMargin": 200.6517,
+            "TopMargin": 564.3733,
+            "BottomMargin": 491.6267,
+            "Tag": 66,
+            "ActionTag": -1185304806,
+            "Size": {
+              "X": 381.0,
+              "Y": 307.0
+            },
+            "Name": "belly",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 416.1705,
+              "Y": 645.6405
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5419,
+              "Y": 0.4737
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 379.1705,
+            "RightMargin": 314.8295,
+            "TopMargin": 693.8595,
+            "BottomMargin": 622.1405,
+            "Tag": 67,
+            "ActionTag": -662621652,
+            "Size": {
+              "X": 74.0,
+              "Y": 47.0
+            },
+            "Name": "winkles001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles002.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 420.1705,
+              "Y": 619.6448
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5471,
+              "Y": 0.4546
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 378.6705,
+            "RightMargin": 306.3295,
+            "TopMargin": 730.8552,
+            "BottomMargin": 607.1448,
+            "Tag": 68,
+            "ActionTag": -761493258,
+            "Size": {
+              "X": 83.0,
+              "Y": 25.0
+            },
+            "Name": "winkles002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles003.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 382.1707,
+              "Y": 550.6461
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4976,
+              "Y": 0.404
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 348.1707,
+            "RightMargin": 351.8293,
+            "TopMargin": 782.3539,
+            "BottomMargin": 520.6461,
+            "Tag": 69,
+            "ActionTag": 804614556,
+            "Size": {
+              "X": 68.0,
+              "Y": 60.0
+            },
+            "Name": "winkles003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles004.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 408.1707,
+              "Y": 586.6403
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5315,
+              "Y": 0.4304
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 366.6707,
+            "RightMargin": 318.3293,
+            "TopMargin": 763.3597,
+            "BottomMargin": 573.6403,
+            "Tag": 70,
+            "ActionTag": -671253447,
+            "Size": {
+              "X": 83.0,
+              "Y": 26.0
+            },
+            "Name": "winkles004",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles005.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 367.1703,
+              "Y": 504.6432
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4781,
+              "Y": 0.3702
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 331.6703,
+            "RightMargin": 365.3297,
+            "TopMargin": 830.3568,
+            "BottomMargin": 476.6432,
+            "Tag": 71,
+            "ActionTag": -1577365275,
+            "Size": {
+              "X": 71.0,
+              "Y": 56.0
+            },
+            "Name": "winkles005",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles006.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.1705,
+              "Y": 493.6436
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4299,
+              "Y": 0.3622
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 317.6705,
+            "RightMargin": 425.3295,
+            "TopMargin": 842.3564,
+            "BottomMargin": 466.6436,
+            "Tag": 72,
+            "ActionTag": -2072333212,
+            "Size": {
+              "X": 25.0,
+              "Y": 54.0
+            },
+            "Name": "winkles006",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles007.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 301.1703,
+              "Y": 490.6455
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3921,
+              "Y": 0.36
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 294.6703,
+            "RightMargin": 460.3297,
+            "TopMargin": 847.3545,
+            "BottomMargin": 465.6455,
+            "Tag": 73,
+            "ActionTag": -1737828541,
+            "Size": {
+              "X": 13.0,
+              "Y": 50.0
+            },
+            "Name": "winkles007",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles008.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 273.1703,
+              "Y": 499.6463
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3557,
+              "Y": 0.3666
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 266.6703,
+            "RightMargin": 488.3297,
+            "TopMargin": 838.3537,
+            "BottomMargin": 474.6463,
+            "Tag": 74,
+            "ActionTag": -343705772,
+            "Size": {
+              "X": 13.0,
+              "Y": 50.0
+            },
+            "Name": "winkles008",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles009.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.168,
+              "Y": 501.6444
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3127,
+              "Y": 0.368
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 223.668,
+            "RightMargin": 511.332,
+            "TopMargin": 842.3556,
+            "BottomMargin": 482.6444,
+            "Tag": 75,
+            "ActionTag": -1663310608,
+            "Size": {
+              "X": 33.0,
+              "Y": 38.0
+            },
+            "Name": "winkles009",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/wrinkles/winkles010.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 226.1706,
+              "Y": 514.6455
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2945,
+              "Y": 0.3776
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 201.6706,
+            "RightMargin": 517.3294,
+            "TopMargin": 841.3545,
+            "BottomMargin": 507.6455,
+            "Tag": 76,
+            "ActionTag": 1251028606,
+            "Size": {
+              "X": 49.0,
+              "Y": 14.0
+            },
+            "Name": "winkles010",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/cream/cream001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 293.6757,
+              "Y": 560.3376
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3824,
+              "Y": 0.4111
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 258.6757,
+            "RightMargin": 439.3243,
+            "TopMargin": 782.1624,
+            "BottomMargin": 539.8376,
+            "Tag": 21,
+            "ActionTag": -477960837,
+            "Size": {
+              "X": 70.0,
+              "Y": 41.0
+            },
+            "Name": "cream000",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/cream/cream004.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 302.1685,
+              "Y": 570.6429
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3934,
+              "Y": 0.4187
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 260.1685,
+            "RightMargin": 423.8315,
+            "TopMargin": 750.3571,
+            "BottomMargin": 528.6429,
+            "Tag": 77,
+            "ActionTag": 2140463459,
+            "Size": {
+              "X": 84.0,
+              "Y": 84.0
+            },
+            "Name": "cream001",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/cream/cream003.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 308.1697,
+              "Y": 567.6417
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4013,
+              "Y": 0.4165
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 242.1697,
+            "RightMargin": 393.8303,
+            "TopMargin": 732.8583,
+            "BottomMargin": 505.1417,
+            "Tag": 78,
+            "ActionTag": 155758913,
+            "Size": {
+              "X": 132.0,
+              "Y": 125.0
+            },
+            "Name": "cream002",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/cream/cream/cream002.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 327.1695,
+              "Y": 563.6418
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.426,
+              "Y": 0.4135
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 238.1695,
+            "RightMargin": 351.8305,
+            "TopMargin": 725.8582,
+            "BottomMargin": 490.1418,
+            "Tag": 79,
+            "ActionTag": 1745641533,
+            "Size": {
+              "X": 178.0,
+              "Y": 147.0
+            },
+            "Name": "cream003",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 159.9155,
+              "Y": 446.468
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2082,
+              "Y": 0.3276
+            },
+            "PreSize": {
+              "X": 0.4297,
+              "Y": 0.1834
+            },
+            "LeftMargin": 159.9155,
+            "RightMargin": 278.0845,
+            "TopMargin": 666.532,
+            "BottomMargin": 446.468,
+            "Tag": 80,
+            "ActionTag": -1139804468,
+            "Size": {
+              "X": 330.0,
+              "Y": 250.0
+            },
+            "Name": "moveRect",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2935
+            },
+            "TopMargin": 963.0,
+            "Tag": 108,
+            "ActionTag": 1520574874,
+            "Size": {
+              "X": 768.0,
+              "Y": 400.0
+            },
+            "Name": "noTouchRect",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/P001/frame/closeButton.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 644.11,
+              "Y": 866.4918
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8387,
+              "Y": 0.6357
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 603.61,
+            "RightMargin": 83.39,
+            "TopMargin": 451.0082,
+            "BottomMargin": 820.9918,
+            "Tag": 123,
+            "ActionTag": 1414172246,
+            "Size": {
+              "X": 81.0,
+              "Y": 91.0
+            },
+            "Name": "closeButton",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "JsonFile": {
+              "Type": "Normal",
+              "Path": "game/skeleton/p001/Extrudecream/p001.json",
+              "Plist": ""
+            },
+            "Skin": "",
+            "Animation": "",
+            "Loop": true,
+            "AutoPlay": true,
+            "LayoutOnly": false,
+            "EditorOnly": false,
+            "FileData": {
+              "Type": "Addin",
+              "Path": "lbspine.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 448.0336,
+              "Y": 655.9474
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5834,
+              "Y": 0.4813
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 448.0336,
+            "RightMargin": 219.9664,
+            "TopMargin": 607.0526,
+            "BottomMargin": 655.9474,
+            "Tag": 20,
+            "ActionTag": -470153023,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "creamSpine",
+            "ctype": "LBSpineObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "particles/new.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 313.5176,
+              "Y": 570.7383
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4082,
+              "Y": 0.4187
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 313.5176,
+            "RightMargin": 454.4824,
+            "TopMargin": 792.2617,
+            "BottomMargin": 570.7383,
+            "Tag": 108,
+            "ActionTag": 1564707914,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "finishTaskParticle",
+            "ctype": "ParticleObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 199.7371,
+              "Y": 458.2578
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2601,
+              "Y": 0.3362
+            },
+            "PreSize": {
+              "X": 0.3255,
+              "Y": 0.1467
+            },
+            "LeftMargin": 199.7371,
+            "RightMargin": 318.2629,
+            "TopMargin": 704.7422,
+            "BottomMargin": 458.2578,
+            "Tag": 50,
+            "ActionTag": 709664703,
+            "Size": {
+              "X": 250.0,
+              "Y": 200.0
+            },
+            "Name": "moveRect",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 1363.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

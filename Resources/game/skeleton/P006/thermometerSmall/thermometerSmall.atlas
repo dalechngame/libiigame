@@ -1,0 +1,160 @@
+
+thermometerSmall.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuibo0001
+  rotate: true
+  xy: 1903, 81
+  size: 228, 92
+  orig: 228, 92
+  offset: 0, 0
+  index: -1
+shuibo00011
+  rotate: false
+  xy: 867, 53
+  size: 228, 92
+  orig: 228, 92
+  offset: 0, 0
+  index: -1
+shuibo0002
+  rotate: false
+  xy: 867, 147
+  size: 259, 171
+  orig: 259, 171
+  offset: 0, 0
+  index: -1
+shuibo00022
+  rotate: false
+  xy: 1128, 112
+  size: 259, 171
+  orig: 259, 171
+  offset: 0, 0
+  index: -1
+shuibo0003
+  rotate: false
+  xy: 594, 320
+  size: 280, 174
+  orig: 280, 174
+  offset: 0, 0
+  index: -1
+shuibo00033
+  rotate: false
+  xy: 876, 320
+  size: 280, 174
+  orig: 280, 174
+  offset: 0, 0
+  index: -1
+shuibo0004
+  rotate: false
+  xy: 2, 315
+  size: 292, 179
+  orig: 292, 179
+  offset: 0, 0
+  index: -1
+shuibo00044
+  rotate: false
+  xy: 2, 134
+  size: 292, 179
+  orig: 292, 179
+  offset: 0, 0
+  index: -1
+shuibo0005
+  rotate: false
+  xy: 1389, 108
+  size: 255, 175
+  orig: 255, 175
+  offset: 0, 0
+  index: -1
+shuibo00055
+  rotate: false
+  xy: 1646, 134
+  size: 255, 175
+  orig: 255, 175
+  offset: 0, 0
+  index: -1
+shuibo0006
+  rotate: false
+  xy: 1732, 311
+  size: 271, 183
+  orig: 271, 183
+  offset: 0, 0
+  index: -1
+shuibo00066
+  rotate: false
+  xy: 594, 135
+  size: 271, 183
+  orig: 271, 183
+  offset: 0, 0
+  index: -1
+shuibo0007
+  rotate: false
+  xy: 1158, 327
+  size: 285, 167
+  orig: 285, 167
+  offset: 0, 0
+  index: -1
+shuibo00077
+  rotate: false
+  xy: 1445, 327
+  size: 285, 167
+  orig: 285, 167
+  offset: 0, 0
+  index: -1
+shuibo0008
+  rotate: false
+  xy: 296, 335
+  size: 296, 159
+  orig: 296, 159
+  offset: 0, 0
+  index: -1
+shuibo00088
+  rotate: false
+  xy: 296, 174
+  size: 296, 159
+  orig: 296, 159
+  offset: 0, 0
+  index: -1
+shuibo0009
+  rotate: false
+  xy: 1646, 68
+  size: 253, 64
+  orig: 253, 95
+  offset: 0, 0
+  index: -1
+shuibo00099
+  rotate: false
+  xy: 2, 37
+  size: 253, 95
+  orig: 253, 95
+  offset: 0, 0
+  index: -1
+shuibo0010
+  rotate: false
+  xy: 296, 129
+  size: 296, 43
+  orig: 296, 81
+  offset: 0, 0
+  index: -1
+shuibo00100
+  rotate: false
+  xy: 257, 46
+  size: 296, 81
+  orig: 296, 81
+  offset: 0, 0
+  index: -1
+shuibo0011
+  rotate: false
+  xy: 1158, 285
+  size: 331, 40
+  orig: 331, 92
+  offset: 0, 0
+  index: -1
+thermometerSmall
+  rotate: true
+  xy: 594, 2
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1

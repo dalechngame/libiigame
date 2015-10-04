@@ -1,0 +1,656 @@
+<GameProjectFile>
+  <PropertyGroup Type="Scene" Name="p004_chouxue" ID="75847bc5-1bc5-42c7-a4ff-20ea51391554" Version="2.2.6.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Scene" Tag="55" ctype="GameNodeObjectData">
+        <Size X="768.0000" Y="1363.0000" />
+        <Children>
+          <AbstractNodeData Name="pand_1" ActionTag="925634121" Tag="57" IconVisible="False" LeftMargin="112.6610" RightMargin="64.3390" TopMargin="764.1060" BottomMargin="388.8940" ctype="SpriteObjectData">
+            <Size X="591.0000" Y="210.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="408.1610" Y="493.8940" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5315" Y="0.3624" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/pand_1.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="pand" ActionTag="2106492152" Tag="58" IconVisible="False" LeftMargin="293.0786" RightMargin="295.9214" TopMargin="808.4439" BottomMargin="427.5561" ctype="SpriteObjectData">
+            <Size X="179.0000" Y="127.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="382.5786" Y="491.0561" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4981" Y="0.3603" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/pand.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="bloodletting_2" ActionTag="-1738677118" Tag="59" IconVisible="False" LeftMargin="348.5782" RightMargin="351.4218" TopMargin="839.5911" BottomMargin="477.4089" ctype="SpriteObjectData">
+            <Size X="68.0000" Y="46.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="382.5782" Y="500.4089" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4981" Y="0.3671" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/bloodletting_2.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="bloodletting" ActionTag="-144738182" Tag="60" IconVisible="False" LeftMargin="313.0511" RightMargin="136.9489" TopMargin="301.2847" BottomMargin="422.7153" ctype="SpriteObjectData">
+            <Size X="318.0000" Y="639.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="472.0511" Y="742.2153" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6146" Y="0.5445" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/microscope/microscope.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="mask" ActionTag="-818672293" Tag="29" IconVisible="False" LeftMargin="884.8719" RightMargin="-354.8718" TopMargin="877.0296" BottomMargin="247.9704" ctype="SpriteObjectData">
+            <Size X="238.0000" Y="238.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="1003.8719" Y="366.9704" />
+            <Scale ScaleX="1.3518" ScaleY="1.3805" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="1.3071" Y="0.2692" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/mask.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="celllayer1" ActionTag="-1933644326" Tag="8" IconVisible="True" RightMargin="768.0000" TopMargin="1363.0000" ctype="SingleNodeObjectData">
+            <Size />
+            <Children>
+              <AbstractNodeData Name="cell_6" ActionTag="-1132337800" Tag="10" IconVisible="False" LeftMargin="130.9932" RightMargin="-269.9932" TopMargin="-368.5060" BottomMargin="264.5060" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="200.4932" Y="316.5060" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0" ActionTag="-946568350" Tag="11" IconVisible="False" LeftMargin="371.4338" RightMargin="-509.4338" TopMargin="-1005.5836" BottomMargin="900.5836" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="440.4338" Y="953.0836" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_1" ActionTag="1879995963" Tag="12" IconVisible="False" LeftMargin="276.7081" RightMargin="-414.7081" TopMargin="-640.4198" BottomMargin="535.4198" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="345.7081" Y="587.9198" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_2" ActionTag="-292197715" Tag="13" IconVisible="False" LeftMargin="22.2998" RightMargin="-161.2998" TopMargin="-693.6664" BottomMargin="589.6664" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="91.7998" Y="641.6664" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell003.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_3" ActionTag="-270129119" Tag="14" IconVisible="False" LeftMargin="421.4249" RightMargin="-560.4249" TopMargin="-446.8930" BottomMargin="342.8930" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="490.9249" Y="394.8930" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell003.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4" ActionTag="158809601" Tag="15" IconVisible="False" LeftMargin="119.5217" RightMargin="-258.5217" TopMargin="-1008.3368" BottomMargin="904.3368" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="189.0217" Y="956.3368" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell003.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_5" ActionTag="-1737594923" Tag="16" IconVisible="False" LeftMargin="591.6851" RightMargin="-730.6851" TopMargin="-841.2476" BottomMargin="737.2476" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="661.1851" Y="789.2476" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0_0" ActionTag="1747484519" Tag="76" IconVisible="False" LeftMargin="18.2624" RightMargin="-156.2624" TopMargin="-910.7307" BottomMargin="805.7307" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="87.2624" Y="858.2307" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0_1" ActionTag="-609279498" Tag="77" IconVisible="False" LeftMargin="382.6736" RightMargin="-520.6736" TopMargin="-1155.5090" BottomMargin="1050.5090" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="451.6736" Y="1103.0090" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0_2" ActionTag="-655103578" Tag="78" IconVisible="False" LeftMargin="250.7778" RightMargin="-388.7778" TopMargin="-523.6158" BottomMargin="418.6158" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="319.7778" Y="471.1158" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0_3" ActionTag="1201276943" Tag="79" IconVisible="False" LeftMargin="637.4166" RightMargin="-775.4166" TopMargin="-646.7535" BottomMargin="541.7535" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="706.4166" Y="594.2535" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0_4" ActionTag="116488121" Tag="80" IconVisible="False" LeftMargin="41.2905" RightMargin="-179.2905" TopMargin="-491.3530" BottomMargin="386.3530" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="110.2905" Y="438.8530" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0_5" ActionTag="-329408125" Tag="81" IconVisible="False" LeftMargin="406.9077" RightMargin="-544.9077" TopMargin="-335.9528" BottomMargin="230.9528" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="475.9077" Y="283.4528" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0_6" ActionTag="600142537" Tag="82" IconVisible="False" LeftMargin="184.7091" RightMargin="-322.7091" TopMargin="-760.5430" BottomMargin="655.5430" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="253.7091" Y="708.0430" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0_7" ActionTag="1288959030" Tag="83" IconVisible="False" LeftMargin="612.4717" RightMargin="-750.4717" TopMargin="-1099.4568" BottomMargin="994.4568" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="681.4717" Y="1046.9568" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize />
+          </AbstractNodeData>
+          <AbstractNodeData Name="celllayer2" ActionTag="1649009212" Tag="18" IconVisible="True" LeftMargin="10.0000" RightMargin="758.0000" TopMargin="1373.0000" BottomMargin="-10.0000" ctype="SingleNodeObjectData">
+            <Size />
+            <Children>
+              <AbstractNodeData Name="cell_6" ActionTag="1505525649" Tag="26" IconVisible="False" LeftMargin="183.3538" RightMargin="-322.3538" TopMargin="-1103.8749" BottomMargin="999.8749" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="252.8538" Y="1051.8749" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell003.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_0" ActionTag="338774259" Tag="27" IconVisible="False" LeftMargin="4.8903" RightMargin="-142.8903" TopMargin="-773.3619" BottomMargin="668.3619" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="73.8903" Y="720.8619" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_1" ActionTag="-1695129605" Tag="28" IconVisible="False" LeftMargin="306.3053" RightMargin="-444.3053" TopMargin="-943.2186" BottomMargin="838.2186" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="375.3053" Y="890.7186" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_2" ActionTag="-1954819767" Tag="29" IconVisible="False" LeftMargin="27.1669" RightMargin="-165.1669" TopMargin="-411.8610" BottomMargin="306.8610" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="96.1669" Y="359.3610" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_3" ActionTag="-1985324821" Tag="30" IconVisible="False" LeftMargin="501.6080" RightMargin="-639.6080" TopMargin="-820.7677" BottomMargin="715.7677" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="570.6080" Y="768.2677" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4" ActionTag="1791477931" Tag="31" IconVisible="False" LeftMargin="497.9479" RightMargin="-635.9479" TopMargin="-498.8642" BottomMargin="393.8642" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="566.9479" Y="446.3642" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_0" ActionTag="-454956982" Tag="85" IconVisible="False" LeftMargin="327.2043" RightMargin="-466.2043" TopMargin="-226.0025" BottomMargin="122.0025" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="396.7043" Y="174.0025" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell003.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_1" ActionTag="2020322158" Tag="86" IconVisible="False" LeftMargin="631.6080" RightMargin="-770.6080" TopMargin="-532.4392" BottomMargin="428.4392" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="701.1080" Y="480.4392" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_2" ActionTag="2110778798" Tag="87" IconVisible="False" LeftMargin="635.6024" RightMargin="-774.6024" TopMargin="-408.2820" BottomMargin="304.2820" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="705.1024" Y="356.2820" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_3" ActionTag="1233592215" Tag="88" IconVisible="False" LeftMargin="585.5336" RightMargin="-724.5336" TopMargin="-246.0726" BottomMargin="142.0726" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="655.0336" Y="194.0726" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_4" ActionTag="-1083463508" Tag="89" IconVisible="False" LeftMargin="117.3665" RightMargin="-255.3665" TopMargin="-1179.8754" BottomMargin="1074.8754" ctype="SpriteObjectData">
+                <Size X="138.0000" Y="105.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="186.3665" Y="1127.3754" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell002.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_5" ActionTag="1216962769" Tag="90" IconVisible="False" LeftMargin="2.6924" RightMargin="-141.6924" TopMargin="-1155.3547" BottomMargin="1051.3547" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="72.1924" Y="1103.3547" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_6" ActionTag="258239045" Tag="91" IconVisible="False" LeftMargin="70.7697" RightMargin="-209.7697" TopMargin="-1259.5132" BottomMargin="1155.5132" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="140.2697" Y="1207.5132" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_7" ActionTag="-702036929" Tag="92" IconVisible="False" LeftMargin="501.3516" RightMargin="-640.3516" TopMargin="-1237.4965" BottomMargin="1133.4965" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="570.8516" Y="1185.4965" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4_8" ActionTag="-1389682225" Tag="93" IconVisible="False" LeftMargin="168.8778" RightMargin="-307.8778" TopMargin="-272.1767" BottomMargin="168.1767" ctype="SpriteObjectData">
+                <Size X="139.0000" Y="104.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="238.3778" Y="220.1767" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Normal" Path="game/P004/erythrocyte/cell001.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="10.0000" Y="-10.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0130" Y="-0.0073" />
+            <PreSize />
+          </AbstractNodeData>
+          <AbstractNodeData Name="whitecell" ActionTag="229052392" Tag="156" IconVisible="True" LeftMargin="6.8970" RightMargin="761.1030" TopMargin="1430.4049" BottomMargin="-67.4049" ctype="SingleNodeObjectData">
+            <Size />
+            <Children>
+              <AbstractNodeData Name="cell_1" ActionTag="-984697840" Tag="160" Rotation="14.6809" RotationSkewX="14.6809" RotationSkewY="14.6817" IconVisible="False" LeftMargin="157.0320" RightMargin="-203.0320" TopMargin="-493.6961" BottomMargin="447.6961" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <Children>
+                  <AbstractNodeData Name="circleHint" ActionTag="1844300070" Tag="181" VisibleForFrame="False" IconVisible="False" LeftMargin="54.0945" RightMargin="-54.0945" TopMargin="-26.3613" BottomMargin="26.3613" ctype="SpriteObjectData">
+                    <Size X="46.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="77.0945" Y="49.3613" />
+                    <Scale ScaleX="1.0335" ScaleY="1.1184" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.6760" Y="1.0731" />
+                    <PreSize />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="180.0320" Y="470.6961" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_2" ActionTag="1431096566" Tag="161" Rotation="-16.2250" RotationSkewX="-16.2250" RotationSkewY="-16.2259" IconVisible="False" LeftMargin="570.7898" RightMargin="-616.7898" TopMargin="-1078.7451" BottomMargin="1032.7451" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <Children>
+                  <AbstractNodeData Name="circleHint" ActionTag="-459369016" Tag="182" VisibleForFrame="False" IconVisible="False" LeftMargin="54.4995" RightMargin="-54.4995" TopMargin="-24.7474" BottomMargin="24.7474" ctype="SpriteObjectData">
+                    <Size X="46.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="77.4995" Y="47.7474" />
+                    <Scale ScaleX="1.0060" ScaleY="1.0173" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.6848" Y="1.0380" />
+                    <PreSize />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="593.7898" Y="1055.7451" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_3" ActionTag="-1158779022" Tag="162" Rotation="9.7049" RotationSkewX="9.7049" RotationSkewY="9.7087" IconVisible="False" LeftMargin="341.8824" RightMargin="-387.8824" TopMargin="-868.2059" BottomMargin="822.2059" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <Children>
+                  <AbstractNodeData Name="circleHint" ActionTag="-619236092" Tag="183" VisibleForFrame="False" IconVisible="False" LeftMargin="55.1833" RightMargin="-55.1833" TopMargin="-27.4284" BottomMargin="27.4284" ctype="SpriteObjectData">
+                    <Size X="46.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="78.1833" Y="50.4284" />
+                    <Scale ScaleX="1.0529" ScaleY="1.0593" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.6996" Y="1.0963" />
+                    <PreSize />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="364.8824" Y="845.2059" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_4" ActionTag="-1706144367" Tag="163" Rotation="-146.0185" RotationSkewX="-146.0185" RotationSkewY="-145.9991" IconVisible="False" LeftMargin="184.7664" RightMargin="-230.7664" TopMargin="-1082.6091" BottomMargin="1036.6091" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <Children>
+                  <AbstractNodeData Name="circleHint" ActionTag="146466505" Tag="184" VisibleForFrame="False" IconVisible="False" LeftMargin="55.0658" RightMargin="-55.0658" TopMargin="-24.7865" BottomMargin="24.7865" ctype="SpriteObjectData">
+                    <Size X="46.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="78.0658" Y="47.7865" />
+                    <Scale ScaleX="1.0453" ScaleY="1.0453" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.6971" Y="1.0388" />
+                    <PreSize />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="207.7664" Y="1059.6091" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="cell_5" ActionTag="942738987" Tag="172" Rotation="-14.4484" RotationSkewX="-14.4484" RotationSkewY="-14.4451" IconVisible="False" LeftMargin="599.9487" RightMargin="-645.9487" TopMargin="-551.3568" BottomMargin="505.3568" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <Children>
+                  <AbstractNodeData Name="circleHint" ActionTag="1770076979" Tag="185" VisibleForFrame="False" IconVisible="False" LeftMargin="53.1895" RightMargin="-53.1895" TopMargin="-25.6692" BottomMargin="25.6692" ctype="SpriteObjectData">
+                    <Size X="46.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="76.1895" Y="48.6692" />
+                    <Scale ScaleX="1.0272" ScaleY="1.0272" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.6563" Y="1.0580" />
+                    <PreSize />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="622.9487" Y="528.3568" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="6.8970" Y="-67.4049" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0090" Y="-0.0495" />
+            <PreSize />
+          </AbstractNodeData>
+          <AbstractNodeData Name="cell_bg" ActionTag="2015011198" Tag="32" IconVisible="False" LeftMargin="1153.1189" RightMargin="-1153.1189" TopMargin="-9.9109" BottomMargin="9.9109" ctype="SpriteObjectData">
+            <Size X="768.0000" Y="1363.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="1537.1189" Y="691.4109" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="2.0015" Y="0.5073" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/erythrocyte/erythrocyte.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="microscope" ActionTag="1516959451" Tag="93" IconVisible="False" LeftMargin="854.6110" RightMargin="-323.6110" TopMargin="908.2980" BottomMargin="218.7020" ctype="SpriteObjectData">
+            <Size X="237.0000" Y="236.0000" />
+            <AnchorPoint ScaleX="0.6282" ScaleY="0.6300" />
+            <Position X="1003.4943" Y="367.3820" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="1.3066" Y="0.2695" />
+            <PreSize />
+            <FileData Type="Normal" Path="game/P004/microscope.png" Plist="" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="info_panel" ActionTag="-2053607638" Tag="174" IconVisible="True" LeftMargin="-98.9414" RightMargin="866.9414" TopMargin="1333.9116" BottomMargin="29.0884" ctype="SingleNodeObjectData">
+            <Size />
+            <Children>
+              <AbstractNodeData Name="circle_info1" ActionTag="-546664519" Tag="175" Rotation="-21.6720" RotationSkewX="-21.6720" RotationSkewY="-21.6847" IconVisible="False" LeftMargin="190.7451" RightMargin="-236.7451" TopMargin="-50.0000" BottomMargin="4.0000" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <Children>
+                  <AbstractNodeData Name="whitecell" ActionTag="-1144801505" Tag="176" RotationSkewY="0.0009" IconVisible="False" LeftMargin="68.1684" RightMargin="-68.1684" TopMargin="-34.8127" BottomMargin="34.8127" ctype="SpriteObjectData">
+                    <Size X="46.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="91.1684" Y="57.8127" />
+                    <Scale ScaleX="1.1696" ScaleY="1.1342" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.9819" Y="1.2568" />
+                    <PreSize />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="213.7451" Y="27.0000" />
+                <Scale ScaleX="0.7993" ScaleY="0.9091" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="circle_info2" ActionTag="897594606" Tag="177" Rotation="-21.6741" RotationSkewX="-21.6741" RotationSkewY="-21.6837" IconVisible="False" LeftMargin="469.5217" RightMargin="-515.5217" TopMargin="-50.0000" BottomMargin="4.0000" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <Children>
+                  <AbstractNodeData Name="whitecell" ActionTag="-1794065420" Tag="178" RotationSkewY="0.0009" IconVisible="False" LeftMargin="68.1684" RightMargin="-68.1684" TopMargin="-34.8127" BottomMargin="34.8127" ctype="SpriteObjectData">
+                    <Size X="46.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="91.1684" Y="57.8127" />
+                    <Scale ScaleX="1.1696" ScaleY="1.1342" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.9819" Y="1.2568" />
+                    <PreSize />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="492.5217" Y="27.0000" />
+                <Scale ScaleX="0.7993" ScaleY="0.9091" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="circle_info3" ActionTag="-879676598" Tag="179" Rotation="-21.6741" RotationSkewX="-21.6741" RotationSkewY="-21.6840" IconVisible="False" LeftMargin="746.1141" RightMargin="-792.1141" TopMargin="-50.0000" BottomMargin="4.0000" ctype="SpriteObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <Children>
+                  <AbstractNodeData Name="whitecell" ActionTag="-1948503493" Tag="180" RotationSkewY="0.0009" IconVisible="False" LeftMargin="68.1684" RightMargin="-68.1684" TopMargin="-34.8127" BottomMargin="34.8127" ctype="SpriteObjectData">
+                    <Size X="46.0000" Y="46.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="91.1684" Y="57.8127" />
+                    <Scale ScaleX="1.1696" ScaleY="1.1342" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.9819" Y="1.2568" />
+                    <PreSize />
+                    <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="769.1141" Y="27.0000" />
+                <Scale ScaleX="0.7993" ScaleY="0.9091" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize />
+                <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="-98.9414" Y="29.0884" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="-0.1288" Y="0.0213" />
+            <PreSize />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameProjectFile>
